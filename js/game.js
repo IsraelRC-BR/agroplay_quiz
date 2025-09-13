@@ -1,4 +1,4 @@
-console.log("🔍 game.js debug carregado");
+console.log("✅ game.js debug carregado (corrigido)");
 
 let questionsData = {};
 let currentCategory = null;
@@ -12,10 +12,6 @@ function getSelectTema() {
 
 function getButtonStart() {
   return document.getElementById("start-game-btn");
-}
-
-function getQuestionScreen() {
-  return document.getElementById("question-screen");
 }
 
 function getQuestionDiv() {
@@ -35,18 +31,31 @@ function loadQuestions() {
     .then(json => {
       questionsData = json;
       console.log("Categorias do JSON:", Object.keys(questionsData));
+
       const sel = getSelectTema();
       if (!sel) {
         console.error("Seletor 'tema-select' não encontrado no HTML");
         return;
       }
-      sel.innerHTML = "<option value=''>-- escolha um tema --</option>";
+
+      // Limpa opções anteriores
+      sel.innerHTML = "";
+
+      // placeholder
+      const placeholder = document.createElement("option");
+      placeholder.value = "";
+      placeholder.textContent = "-- escolha um tema --";
+      sel.appendChild(placeholder);
+
+      // adicionar temas
       Object.keys(questionsData).forEach(tema => {
         const o = document.createElement("option");
         o.value = tema;
         o.textContent = tema;
         sel.appendChild(o);
       });
+
+      console.log("Select de temas preenchido:", Array.from(sel.options).map(o => o.text));
     })
     .catch(err => {
       console.error("Erro ao carregar JSON:", err);
@@ -55,9 +64,15 @@ function loadQuestions() {
 
 function startGame() {
   const sel = getSelectTema();
-  if (!sel) { alert("Tema select não encontrado."); return; }
+  if (!sel) {
+    alert("Seletor de temas não encontrado.");
+    return;
+  }
   const tema = sel.value;
-  if (!tema) { alert("Escolha um tema."); return; }
+  if (!tema) {
+    alert("Escolha um tema.");
+    return;
+  }
   if (!questionsData[tema] || !Array.isArray(questionsData[tema])) {
     alert("Não há perguntas para o tema selecionado.");
     console.log("questionsData[tema] inválido:", questionsData[tema]);
@@ -67,9 +82,9 @@ function startGame() {
   currentQuestions = questionsData[tema];
   currentQuestionIndex = 0;
   score = 0;
-  console.log("StartGame:", tema, "Perguntas no tema:", currentQuestions.length);
 
-  // Mostrar tela de pergunta
+  console.log("🏁 StartGame:", tema, "Perguntas no tema:", currentQuestions.length);
+
   document.getElementById("start-screen").classList.remove("active");
   document.getElementById("question-screen").classList.add("active");
 
@@ -78,29 +93,22 @@ function startGame() {
 
 function showNextQuestion() {
   if (currentQuestionIndex >= currentQuestions.length) {
-    endGame();
-    return;
+    return endGame();
   }
   const q = currentQuestions[currentQuestionIndex];
-  console.log("Pergunta atual:", q.question); 
-if (questionEl) {
-  questionEl.innerHTML = `<strong>${q.question}</strong>`;
-} else {
-  console.error("Elemento .question não encontrado no HTML");
-}
-
-
+  console.log("📋 Pergunta atual:", q);
 
   const qDiv = getQuestionDiv();
-  if (!qDiv) {
-    console.error("Elemento .question não encontrado");
+  if (qDiv) {
+    qDiv.textContent = q.question || "⚠️ Pergunta não encontrada no JSON";
+    console.log("👉 Pergunta exibida:", q.question);
   } else {
-    qDiv.textContent = q.question;
+    console.error("Elemento '#question-screen .question' não encontrado no HTML");
   }
 
   const optsDiv = getOptionsDiv();
   if (!optsDiv) {
-    console.error("Elemento .options não encontrado");
+    console.error("Elemento '#question-screen .options' não encontrado no HTML");
     return;
   }
   optsDiv.innerHTML = "";
@@ -110,13 +118,11 @@ if (questionEl) {
     return;
   }
 
-  q.options.forEach((opt, index) => {
-    console.log("Opção carregada:", opt);
+  q.options.forEach((opt, idx) => {
+    console.log("👉 Opção carregada:", opt);
     const btn = document.createElement("button");
     btn.textContent = opt;
-    btn.addEventListener("click", () => {
-      checkAnswer(index);
-    });
+    btn.addEventListener("click", () => checkAnswer(idx));
     optsDiv.appendChild(btn);
   });
 }
@@ -125,34 +131,36 @@ function checkAnswer(selected) {
   const q = currentQuestions[currentQuestionIndex];
   if (selected === q.answer) {
     score++;
-    console.log("Acertou! (" + selected + ")");
+    console.log("✔️ Acertou!", selected);
   } else {
-    console.log("Errou: selecionou", selected, "correto:", q.answer);
+    console.log("❌ Errou. Selecionado:", selected, "Correta:", q.answer);
   }
   currentQuestionIndex++;
   showNextQuestion();
 }
 
 function endGame() {
-  console.log("Jogo encerrado. Score:", score);
+  console.log("🏁 Jogo encerrado. Score final:", score);
   document.getElementById("question-screen").classList.remove("active");
   document.getElementById("ranking-screen").classList.add("active");
+
   const tbody = document.querySelector("#ranking-screen table");
   if (tbody) {
+    // limpar e exibir pontuação
     tbody.innerHTML = "<tr><th>Jogador</th><th>Pontos</th></tr>";
     const tr = document.createElement("tr");
-    tr.innerHTML = `<td>Jogador</td><td>${score}</td>`;
+    tr.innerHTML = `<td>Você</td><td>${score}</td>`;
     tbody.appendChild(tr);
   }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("DOMContentLoaded");
+  console.log("DOMContentLoaded -> iniciando...");
   loadQuestions();
   const btn = getButtonStart();
   if (btn) {
     btn.addEventListener("click", startGame);
   } else {
-    console.error("Botão start-game-btn não foi encontrado.");
+    console.error("Botão 'start-game-btn' não encontrado no HTML");
   }
 });

@@ -1,0 +1,2512 @@
+{
+  "Agricultura": [
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Algodão",
+        "Arroz",
+        "Soja",
+        "Trigo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Mata Atlântica",
+        "Amazônia",
+        "Cerrado",
+        "Pampas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Colheita mecanizada",
+        "Plantio sem adubo",
+        "Uso de pesticidas",
+        "Técnica para evitar pragas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Algodão",
+        "Trigo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Cerrado",
+        "Mata Atlântica",
+        "Amazônia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Colheita mecanizada",
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Trigo",
+        "Arroz",
+        "Algodão",
+        "Soja"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Amazônia",
+        "Mata Atlântica",
+        "Pampas",
+        "Cerrado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Uso de pesticidas",
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Colheita mecanizada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Arroz",
+        "Trigo",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Amazônia",
+        "Mata Atlântica",
+        "Cerrado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Uso de pesticidas",
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Colheita mecanizada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Algodão",
+        "Arroz",
+        "Trigo",
+        "Soja"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Cerrado",
+        "Mata Atlântica",
+        "Amazônia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Uso de pesticidas",
+        "Técnica para evitar pragas",
+        "Plantio sem adubo",
+        "Colheita mecanizada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Algodão",
+        "Soja",
+        "Trigo",
+        "Arroz"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Cerrado",
+        "Amazônia",
+        "Mata Atlântica"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Colheita mecanizada",
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Arroz",
+        "Soja",
+        "Algodão",
+        "Trigo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Amazônia",
+        "Pampas",
+        "Cerrado",
+        "Mata Atlântica"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas",
+        "Colheita mecanizada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Algodão",
+        "Soja",
+        "Trigo",
+        "Arroz"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Mata Atlântica",
+        "Amazônia",
+        "Cerrado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Técnica para evitar pragas",
+        "Uso de pesticidas",
+        "Plantio sem adubo",
+        "Colheita mecanizada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Algodão",
+        "Trigo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Mata Atlântica",
+        "Amazônia",
+        "Cerrado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Técnica para evitar pragas",
+        "Colheita mecanizada",
+        "Uso de pesticidas",
+        "Plantio sem adubo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Soja",
+        "Algodão",
+        "Arroz",
+        "Trigo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Mata Atlântica",
+        "Amazônia",
+        "Cerrado",
+        "Pampas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Plantio sem adubo",
+        "Uso de pesticidas",
+        "Colheita mecanizada",
+        "Técnica para evitar pragas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Algodão",
+        "Trigo",
+        "Soja",
+        "Arroz"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Cerrado",
+        "Mata Atlântica",
+        "Amazônia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas",
+        "Colheita mecanizada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Arroz",
+        "Trigo",
+        "Algodão",
+        "Soja"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Pampas",
+        "Cerrado",
+        "Amazônia",
+        "Mata Atlântica"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas",
+        "Colheita mecanizada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Arroz",
+        "Trigo",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Mata Atlântica",
+        "Amazônia",
+        "Pampas",
+        "Cerrado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Colheita mecanizada",
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Soja",
+        "Trigo",
+        "Algodão",
+        "Arroz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Cerrado",
+        "Amazônia",
+        "Pampas",
+        "Mata Atlântica"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Plantio sem adubo",
+        "Técnica para evitar pragas",
+        "Uso de pesticidas",
+        "Colheita mecanizada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Algodão",
+        "Trigo",
+        "Arroz",
+        "Soja"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Mata Atlântica",
+        "Cerrado",
+        "Amazônia",
+        "Pampas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Plantio sem adubo",
+        "Uso de pesticidas",
+        "Técnica para evitar pragas",
+        "Colheita mecanizada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Soja",
+        "Algodão",
+        "Arroz",
+        "Trigo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Amazônia",
+        "Cerrado",
+        "Pampas",
+        "Mata Atlântica"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rotação de culturas?",
+      "options": [
+        "Técnica para evitar pragas",
+        "Colheita mecanizada",
+        "Plantio sem adubo",
+        "Uso de pesticidas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Trigo",
+        "Soja",
+        "Arroz",
+        "Algodão"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual bioma brasileiro é o mais associado à produção de grãos?",
+      "options": [
+        "Cerrado",
+        "Mata Atlântica",
+        "Pampas",
+        "Amazônia"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pecuária": [
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Gir",
+        "Nelore",
+        "Angus",
+        "Holandesa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Queijo",
+        "Soja",
+        "Algodão",
+        "Milho"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de pastagens nativas",
+        "Uso de tecnologia e confinamento",
+        "Baixa produtividade",
+        "Ausência de ração"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Gir",
+        "Angus",
+        "Nelore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Soja",
+        "Milho",
+        "Algodão",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de pastagens nativas",
+        "Baixa produtividade",
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Gir",
+        "Nelore",
+        "Holandesa",
+        "Angus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Algodão",
+        "Soja",
+        "Milho",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração",
+        "Uso de pastagens nativas",
+        "Baixa produtividade"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Angus",
+        "Gir",
+        "Nelore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Algodão",
+        "Milho",
+        "Queijo",
+        "Soja"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Ausência de ração",
+        "Uso de tecnologia e confinamento",
+        "Uso de pastagens nativas",
+        "Baixa produtividade"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Gir",
+        "Nelore",
+        "Holandesa",
+        "Angus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Algodão",
+        "Soja",
+        "Milho",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração",
+        "Uso de pastagens nativas",
+        "Baixa produtividade"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Gir",
+        "Angus",
+        "Nelore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Soja",
+        "Algodão",
+        "Queijo",
+        "Milho"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de pastagens nativas",
+        "Baixa produtividade",
+        "Ausência de ração",
+        "Uso de tecnologia e confinamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Nelore",
+        "Angus",
+        "Gir"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Milho",
+        "Queijo",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Ausência de ração",
+        "Uso de pastagens nativas",
+        "Baixa produtividade",
+        "Uso de tecnologia e confinamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Angus",
+        "Nelore",
+        "Gir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Milho",
+        "Queijo",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração",
+        "Baixa produtividade",
+        "Uso de pastagens nativas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Nelore",
+        "Holandesa",
+        "Gir",
+        "Angus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Queijo",
+        "Soja",
+        "Algodão",
+        "Milho"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração",
+        "Baixa produtividade",
+        "Uso de pastagens nativas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Nelore",
+        "Gir",
+        "Angus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Milho",
+        "Soja",
+        "Algodão",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Baixa produtividade",
+        "Ausência de ração",
+        "Uso de pastagens nativas",
+        "Uso de tecnologia e confinamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Nelore",
+        "Gir",
+        "Angus",
+        "Holandesa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Milho",
+        "Soja",
+        "Algodão",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de pastagens nativas",
+        "Uso de tecnologia e confinamento",
+        "Baixa produtividade",
+        "Ausência de ração"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Gir",
+        "Nelore",
+        "Angus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Algodão",
+        "Soja",
+        "Milho",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Ausência de ração",
+        "Uso de tecnologia e confinamento",
+        "Uso de pastagens nativas",
+        "Baixa produtividade"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Gir",
+        "Holandesa",
+        "Nelore",
+        "Angus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Algodão",
+        "Queijo",
+        "Milho",
+        "Soja"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de tecnologia e confinamento",
+        "Baixa produtividade",
+        "Uso de pastagens nativas",
+        "Ausência de ração"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Angus",
+        "Holandesa",
+        "Gir",
+        "Nelore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Queijo",
+        "Milho",
+        "Algodão",
+        "Soja"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de pastagens nativas",
+        "Baixa produtividade",
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Gir",
+        "Angus",
+        "Holandesa",
+        "Nelore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Queijo",
+        "Milho",
+        "Algodão",
+        "Soja"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Baixa produtividade",
+        "Ausência de ração",
+        "Uso de pastagens nativas",
+        "Uso de tecnologia e confinamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Nelore",
+        "Angus",
+        "Holandesa",
+        "Gir"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Algodão",
+        "Soja",
+        "Queijo",
+        "Milho"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A pecuária intensiva caracteriza-se por:",
+      "options": [
+        "Uso de pastagens nativas",
+        "Uso de tecnologia e confinamento",
+        "Ausência de ração",
+        "Baixa produtividade"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Holandesa",
+        "Angus",
+        "Nelore",
+        "Gir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é obtido da pecuária leiteira?",
+      "options": [
+        "Soja",
+        "Milho",
+        "Queijo",
+        "Algodão"
+      ],
+      "answer": 2
+    }
+  ],
+  "Meio Ambiente e Sustentabilidade": [
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Reflorestamento",
+        "Uso de carvão",
+        "Desmatamento",
+        "Queimada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Hidrelétrica",
+        "Eólica",
+        "Nuclear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso apenas de petróleo",
+        "Produção sem limites",
+        "Exploração total dos recursos",
+        "Uso sem comprometer o futuro"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Queimada",
+        "Desmatamento",
+        "Uso de carvão",
+        "Reflorestamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Eólica",
+        "Solar",
+        "Nuclear",
+        "Hidrelétrica"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Exploração total dos recursos",
+        "Uso sem comprometer o futuro",
+        "Uso apenas de petróleo",
+        "Produção sem limites"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Queimada",
+        "Reflorestamento",
+        "Desmatamento"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Nuclear"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Exploração total dos recursos",
+        "Produção sem limites",
+        "Uso sem comprometer o futuro",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Desmatamento",
+        "Reflorestamento",
+        "Queimada",
+        "Uso de carvão"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Hidrelétrica",
+        "Eólica",
+        "Nuclear",
+        "Solar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso apenas de petróleo",
+        "Uso sem comprometer o futuro",
+        "Exploração total dos recursos",
+        "Produção sem limites"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Reflorestamento",
+        "Desmatamento",
+        "Queimada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Eólica",
+        "Solar",
+        "Hidrelétrica",
+        "Nuclear"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso apenas de petróleo",
+        "Uso sem comprometer o futuro",
+        "Exploração total dos recursos",
+        "Produção sem limites"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Desmatamento",
+        "Uso de carvão",
+        "Queimada",
+        "Reflorestamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Eólica",
+        "Solar",
+        "Nuclear",
+        "Hidrelétrica"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Exploração total dos recursos",
+        "Produção sem limites",
+        "Uso apenas de petróleo",
+        "Uso sem comprometer o futuro"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Desmatamento",
+        "Queimada",
+        "Reflorestamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Eólica",
+        "Hidrelétrica",
+        "Nuclear",
+        "Solar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Produção sem limites",
+        "Uso sem comprometer o futuro",
+        "Exploração total dos recursos",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Queimada",
+        "Reflorestamento",
+        "Uso de carvão",
+        "Desmatamento"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Nuclear"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso sem comprometer o futuro",
+        "Exploração total dos recursos",
+        "Uso apenas de petróleo",
+        "Produção sem limites"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Queimada",
+        "Reflorestamento",
+        "Desmatamento",
+        "Uso de carvão"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Hidrelétrica",
+        "Eólica",
+        "Nuclear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso sem comprometer o futuro",
+        "Uso apenas de petróleo",
+        "Exploração total dos recursos",
+        "Produção sem limites"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Queimada",
+        "Desmatamento",
+        "Reflorestamento"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Hidrelétrica",
+        "Solar",
+        "Nuclear",
+        "Eólica"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Produção sem limites",
+        "Exploração total dos recursos",
+        "Uso sem comprometer o futuro",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Queimada",
+        "Reflorestamento",
+        "Desmatamento"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Eólica",
+        "Nuclear",
+        "Hidrelétrica"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso sem comprometer o futuro",
+        "Produção sem limites",
+        "Exploração total dos recursos",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Reflorestamento",
+        "Desmatamento",
+        "Queimada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Hidrelétrica",
+        "Solar",
+        "Nuclear",
+        "Eólica"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Exploração total dos recursos",
+        "Uso sem comprometer o futuro",
+        "Produção sem limites",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Uso de carvão",
+        "Desmatamento",
+        "Reflorestamento",
+        "Queimada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Nuclear"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso apenas de petróleo",
+        "Produção sem limites",
+        "Uso sem comprometer o futuro",
+        "Exploração total dos recursos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Queimada",
+        "Uso de carvão",
+        "Reflorestamento",
+        "Desmatamento"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Eólica",
+        "Hidrelétrica",
+        "Nuclear",
+        "Solar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Uso apenas de petróleo",
+        "Produção sem limites",
+        "Uso sem comprometer o futuro",
+        "Exploração total dos recursos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Reflorestamento",
+        "Uso de carvão",
+        "Desmatamento",
+        "Queimada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Hidrelétrica",
+        "Eólica",
+        "Nuclear",
+        "Solar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Exploração total dos recursos",
+        "Produção sem limites",
+        "Uso sem comprometer o futuro",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Desmatamento",
+        "Reflorestamento",
+        "Uso de carvão",
+        "Queimada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Solar",
+        "Eólica",
+        "Nuclear",
+        "Hidrelétrica"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa sustentabilidade?",
+      "options": [
+        "Exploração total dos recursos",
+        "Produção sem limites",
+        "Uso sem comprometer o futuro",
+        "Uso apenas de petróleo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática ajuda a reduzir a emissão de gases de efeito estufa?",
+      "options": [
+        "Queimada",
+        "Desmatamento",
+        "Reflorestamento",
+        "Uso de carvão"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal fonte de energia renovável no Brasil?",
+      "options": [
+        "Eólica",
+        "Nuclear",
+        "Hidrelétrica",
+        "Solar"
+      ],
+      "answer": 2
+    }
+  ],
+  "Agroindústria e Tecnologia": [
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual",
+        "Uso de pesticidas",
+        "Rotação de culturas",
+        "Uso de drones e sensores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "Bússola",
+        "Relógio solar",
+        "GPS"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Água potável",
+        "Madeira bruta",
+        "Leite pasteurizado",
+        "Milho in natura"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual",
+        "Uso de drones e sensores",
+        "Rotação de culturas",
+        "Uso de pesticidas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "GPS",
+        "Bússola",
+        "Relógio solar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Madeira bruta",
+        "Água potável",
+        "Leite pasteurizado",
+        "Milho in natura"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual",
+        "Rotação de culturas",
+        "Uso de pesticidas",
+        "Uso de drones e sensores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "Relógio solar",
+        "Bússola",
+        "GPS"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Milho in natura",
+        "Madeira bruta",
+        "Leite pasteurizado",
+        "Água potável"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual",
+        "Rotação de culturas",
+        "Uso de drones e sensores",
+        "Uso de pesticidas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "GPS",
+        "Relógio solar",
+        "Bússola"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Milho in natura",
+        "Água potável",
+        "Madeira bruta",
+        "Leite pasteurizado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de pesticidas",
+        "Uso de drones e sensores",
+        "Rotação de culturas",
+        "Plantio manual"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Relógio solar",
+        "Microscópio",
+        "Bússola",
+        "GPS"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Leite pasteurizado",
+        "Milho in natura",
+        "Madeira bruta",
+        "Água potável"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de pesticidas",
+        "Uso de drones e sensores",
+        "Plantio manual",
+        "Rotação de culturas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "GPS",
+        "Microscópio",
+        "Relógio solar",
+        "Bússola"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Leite pasteurizado",
+        "Milho in natura",
+        "Madeira bruta",
+        "Água potável"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de drones e sensores",
+        "Uso de pesticidas",
+        "Rotação de culturas",
+        "Plantio manual"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Relógio solar",
+        "Microscópio",
+        "Bússola",
+        "GPS"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Madeira bruta",
+        "Água potável",
+        "Milho in natura",
+        "Leite pasteurizado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Rotação de culturas",
+        "Uso de pesticidas",
+        "Plantio manual",
+        "Uso de drones e sensores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "GPS",
+        "Relógio solar",
+        "Bússola"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Milho in natura",
+        "Leite pasteurizado",
+        "Madeira bruta",
+        "Água potável"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual",
+        "Uso de drones e sensores",
+        "Uso de pesticidas",
+        "Rotação de culturas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Bússola",
+        "GPS",
+        "Microscópio",
+        "Relógio solar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Milho in natura",
+        "Água potável",
+        "Madeira bruta",
+        "Leite pasteurizado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de drones e sensores",
+        "Uso de pesticidas",
+        "Plantio manual",
+        "Rotação de culturas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "GPS",
+        "Relógio solar",
+        "Bússola"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Madeira bruta",
+        "Milho in natura",
+        "Leite pasteurizado",
+        "Água potável"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de drones e sensores",
+        "Plantio manual",
+        "Uso de pesticidas",
+        "Rotação de culturas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Bússola",
+        "Microscópio",
+        "GPS",
+        "Relógio solar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Leite pasteurizado",
+        "Madeira bruta",
+        "Água potável",
+        "Milho in natura"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Rotação de culturas",
+        "Plantio manual",
+        "Uso de pesticidas",
+        "Uso de drones e sensores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "GPS",
+        "Bússola",
+        "Microscópio",
+        "Relógio solar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Leite pasteurizado",
+        "Milho in natura",
+        "Água potável",
+        "Madeira bruta"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de pesticidas",
+        "Plantio manual",
+        "Rotação de culturas",
+        "Uso de drones e sensores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Relógio solar",
+        "Bússola",
+        "GPS",
+        "Microscópio"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Madeira bruta",
+        "Água potável",
+        "Milho in natura",
+        "Leite pasteurizado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de drones e sensores",
+        "Plantio manual",
+        "Uso de pesticidas",
+        "Rotação de culturas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Bússola",
+        "GPS",
+        "Relógio solar",
+        "Microscópio"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Milho in natura",
+        "Água potável",
+        "Madeira bruta",
+        "Leite pasteurizado"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de pesticidas",
+        "Rotação de culturas",
+        "Plantio manual",
+        "Uso de drones e sensores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Relógio solar",
+        "GPS",
+        "Microscópio",
+        "Bússola"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Água potável",
+        "Milho in natura",
+        "Leite pasteurizado",
+        "Madeira bruta"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de drones e sensores",
+        "Rotação de culturas",
+        "Uso de pesticidas",
+        "Plantio manual"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "GPS",
+        "Relógio solar",
+        "Microscópio",
+        "Bússola"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é exemplo da agroindústria?",
+      "options": [
+        "Madeira bruta",
+        "Leite pasteurizado",
+        "Água potável",
+        "Milho in natura"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Rotação de culturas",
+        "Uso de drones e sensores",
+        "Uso de pesticidas",
+        "Plantio manual"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual tecnologia auxilia no mapeamento de áreas agrícolas?",
+      "options": [
+        "Microscópio",
+        "GPS",
+        "Relógio solar",
+        "Bússola"
+      ],
+      "answer": 1
+    }
+  ],
+  "História, Políticas e Instituições": [
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Lula",
+        "Itamar Franco",
+        "Fernando Henrique Cardoso",
+        "Dilma Rousseff"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1985",
+        "1964",
+        "1973",
+        "1990"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Saúde",
+        "Ministério da Economia",
+        "Ministério do Meio Ambiente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Itamar Franco",
+        "Lula",
+        "Dilma Rousseff"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1985",
+        "1964",
+        "1990",
+        "1973"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Economia",
+        "Ministério da Agricultura e Pecuária",
+        "Ministério do Meio Ambiente",
+        "Ministério da Saúde"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Dilma Rousseff",
+        "Lula",
+        "Itamar Franco",
+        "Fernando Henrique Cardoso"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1985",
+        "1973",
+        "1990",
+        "1964"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério do Meio Ambiente",
+        "Ministério da Economia",
+        "Ministério da Saúde",
+        "Ministério da Agricultura e Pecuária"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Itamar Franco",
+        "Lula",
+        "Dilma Rousseff",
+        "Fernando Henrique Cardoso"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1964",
+        "1990",
+        "1973",
+        "1985"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Saúde",
+        "Ministério da Economia",
+        "Ministério do Meio Ambiente",
+        "Ministério da Agricultura e Pecuária"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Dilma Rousseff",
+        "Lula",
+        "Itamar Franco"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1964",
+        "1990",
+        "1985",
+        "1973"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Saúde",
+        "Ministério da Economia",
+        "Ministério do Meio Ambiente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Dilma Rousseff",
+        "Lula",
+        "Itamar Franco"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1990",
+        "1985",
+        "1973",
+        "1964"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Saúde",
+        "Ministério do Meio Ambiente",
+        "Ministério da Economia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Dilma Rousseff",
+        "Itamar Franco",
+        "Lula",
+        "Fernando Henrique Cardoso"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1985",
+        "1973",
+        "1990",
+        "1964"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Saúde",
+        "Ministério do Meio Ambiente",
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Economia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Itamar Franco",
+        "Lula",
+        "Dilma Rousseff"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1973",
+        "1985",
+        "1990",
+        "1964"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério do Meio Ambiente",
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Economia",
+        "Ministério da Saúde"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Lula",
+        "Itamar Franco",
+        "Dilma Rousseff"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1985",
+        "1990",
+        "1964",
+        "1973"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Saúde",
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Economia",
+        "Ministério do Meio Ambiente"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Lula",
+        "Dilma Rousseff",
+        "Fernando Henrique Cardoso",
+        "Itamar Franco"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1964",
+        "1990",
+        "1985",
+        "1973"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Saúde",
+        "Ministério da Economia",
+        "Ministério do Meio Ambiente",
+        "Ministério da Agricultura e Pecuária"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Dilma Rousseff",
+        "Fernando Henrique Cardoso",
+        "Lula",
+        "Itamar Franco"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1990",
+        "1964",
+        "1985",
+        "1973"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Agricultura e Pecuária",
+        "Ministério do Meio Ambiente",
+        "Ministério da Saúde",
+        "Ministério da Economia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Itamar Franco",
+        "Lula",
+        "Dilma Rousseff"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1973",
+        "1985",
+        "1990",
+        "1964"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Economia",
+        "Ministério da Saúde",
+        "Ministério do Meio Ambiente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Dilma Rousseff",
+        "Fernando Henrique Cardoso",
+        "Lula",
+        "Itamar Franco"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1964",
+        "1973",
+        "1985",
+        "1990"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Saúde",
+        "Ministério do Meio Ambiente",
+        "Ministério da Economia",
+        "Ministério da Agricultura e Pecuária"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Dilma Rousseff",
+        "Itamar Franco",
+        "Fernando Henrique Cardoso",
+        "Lula"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1964",
+        "1973",
+        "1990",
+        "1985"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Agricultura e Pecuária",
+        "Ministério do Meio Ambiente",
+        "Ministério da Economia",
+        "Ministério da Saúde"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Dilma Rousseff",
+        "Itamar Franco",
+        "Lula",
+        "Fernando Henrique Cardoso"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1973",
+        "1985",
+        "1964",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Economia",
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Saúde",
+        "Ministério do Meio Ambiente"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Itamar Franco",
+        "Dilma Rousseff",
+        "Fernando Henrique Cardoso",
+        "Lula"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1990",
+        "1973",
+        "1985",
+        "1964"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ministério cuida da agricultura no Brasil?",
+      "options": [
+        "Ministério da Saúde",
+        "Ministério do Meio Ambiente",
+        "Ministério da Agricultura e Pecuária",
+        "Ministério da Economia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual presidente criou o Plano Real?",
+      "options": [
+        "Fernando Henrique Cardoso",
+        "Itamar Franco",
+        "Dilma Rousseff",
+        "Lula"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que ano foi criada a EMBRAPA?",
+      "options": [
+        "1973",
+        "1985",
+        "1990",
+        "1964"
+      ],
+      "answer": 0
+    }
+  ]
+}

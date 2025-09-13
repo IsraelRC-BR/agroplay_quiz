@@ -1,4 +1,3 @@
-console.log("✅ game.js carregado");
 
 // Seleção das telas
 const startScreen = document.getElementById("start-screen");
@@ -10,11 +9,13 @@ const startGameBtn = document.getElementById("start-game-btn");
 const rankingBtn = document.getElementById("ranking-btn");
 const exportQuestionsBtn = document.getElementById("export-questions-btn");
 const backMenuBtn = document.getElementById("back-menu-btn");
+const temaSelect = document.getElementById("tema-select");
 
 const questionText = questionScreen.querySelector(".question");
 const optionsContainer = questionScreen.querySelector(".options");
 const rankingTable = rankingScreen.querySelector("table");
 
+let bancoTemas = {};
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
@@ -31,7 +32,17 @@ async function loadQuestionsFromJSON() {
   try {
     const response = await fetch("perguntas.json");
     if (!response.ok) throw new Error("Erro ao carregar perguntas.json");
-    questions = await response.json();
+    bancoTemas = await response.json();
+
+    // Popular dropdown com temas
+    temaSelect.innerHTML = "";
+    Object.keys(bancoTemas).forEach((tema) => {
+      const option = document.createElement("option");
+      option.value = tema;
+      option.textContent = tema;
+      temaSelect.appendChild(option);
+    });
+
   } catch (error) {
     alert("Não foi possível carregar as perguntas: " + error.message);
   }
@@ -96,10 +107,18 @@ function updateRanking() {
 if (startGameBtn) {
   startGameBtn.addEventListener("click", async () => {
     await loadQuestionsFromJSON();
-    if (questions.length === 0) {
+    if (Object.keys(bancoTemas).length === 0) {
       alert("Nenhuma pergunta disponível.");
       return;
     }
+
+    let tema = temaSelect.value;
+    if (!tema) {
+      alert("Escolha um tema.");
+      return;
+    }
+
+    questions = bancoTemas[tema];
     currentQuestionIndex = 0;
     score = 0;
     playerName = prompt("Digite seu nome:", "Jogador") || "Jogador";
@@ -124,7 +143,7 @@ if (backMenuBtn) {
 // Botão de exportar perguntas (gera JSON)
 if (exportQuestionsBtn) {
   exportQuestionsBtn.addEventListener("click", () => {
-    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(questions, null, 2));
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(bancoTemas, null, 2));
     const downloadAnchor = document.createElement("a");
     downloadAnchor.setAttribute("href", dataStr);
     downloadAnchor.setAttribute("download", "perguntas.json");

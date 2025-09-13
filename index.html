@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
   <!-- CSS externo -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -21,54 +21,53 @@
       Universidade Federal de Viçosa - Campus Florestal (UFV CAF) juntamente com o Sindicato Rural de Pará de Minas (SRPM) / 
       Sistema FAEMG Senar-MG.
     </p>
+
+    <!-- Seletor de tema -->
+    <label for="tema-select">Escolha um tema:</label>
+    <select id="tema-select"></select>
+
     <div class="logos">
-      <img src="logo-cedaf.png" alt="CEDAF">
-      <img src="logo-ufv.png" alt="UFV CAF">
-      <img src="logo-srpm.png" alt="SRPM">
-      <img src="logo-faemg.png" alt="FAEMG">
-      <img src="logo-raizes.png" alt="Equipe Raízes">
+      <img src="img/logo-cedaf.png" alt="CEDAF">
+      <img src="img/logo-ufv.png" alt="UFV CAF">
+      <img src="img/logo-srpm.png" alt="SRPM">
+      <img src="img/logo-faemg.png" alt="FAEMG">
+      <img src="img/logo-raizes.png" alt="Equipe Raízes">
     </div>
     <button id="start-game-btn">🎮 Iniciar Novo Jogo</button>
     <button id="ranking-btn">🏆 Ver Ranking</button>
     <button id="export-questions-btn">📥 Exportar Banco de Perguntas</button>
   </div>
 
-  <!-- Exemplo de tela de perguntas -->
+  <!-- Tela de perguntas -->
   <div id="question-screen" class="screen">
     <h2>Pergunta</h2>
-    <div class="question">Aqui vai a pergunta...</div>
-    <div class="options">
-      <button>Opção 1</button>
-      <button>Opção 2</button>
-      <button>Opção 3</button>
-      <button>Opção 4</button>
-    </div>
+    <div class="question"></div>
+    <div class="options"></div>
     <div class="logos">
-      <img src="logo-cedaf.png" alt="CEDAF">
-      <img src="logo-ufv.png" alt="UFV CAF">
-      <img src="logo-srpm.png" alt="SRPM">
-      <img src="logo-faemg.png" alt="FAEMG">
-      <img src="logo-raizes.png" alt="Equipe Raízes">
+      <img src="img/logo-cedaf.png" alt="CEDAF">
+      <img src="img/logo-ufv.png" alt="UFV CAF">
+      <img src="img/logo-srpm.png" alt="SRPM">
+      <img src="img/logo-faemg.png" alt="FAEMG">
+      <img src="img/logo-raizes.png" alt="Equipe Raízes">
     </div>
   </div>
 
-  <!-- Exemplo de tela de ranking -->
+  <!-- Tela de ranking -->
   <div id="ranking-screen" class="screen">
     <h2>Ranking</h2>
     <table>
       <tr><th>Jogador</th><th>Pontos</th></tr>
-      <tr><td>Ana</td><td>120</td></tr>
-      <tr><td>João</td><td>100</td></tr>
     </table>
     <div class="logos">
-      <img src="logo-cedaf.png" alt="CEDAF">
-      <img src="logo-ufv.png" alt="UFV CAF">
-      <img src="logo-srpm.png" alt="SRPM">
-      <img src="logo-faemg.png" alt="FAEMG">
-      <img src="logo-raizes.png" alt="Equipe Raízes">
+      <img src="img/logo-cedaf.png" alt="CEDAF">
+      <img src="img/logo-ufv.png" alt="UFV CAF">
+      <img src="img/logo-srpm.png" alt="SRPM">
+      <img src="img/logo-faemg.png" alt="FAEMG">
+      <img src="img/logo-raizes.png" alt="Equipe Raízes">
     </div>
     <button id="back-menu-btn">🔙 Voltar ao Menu</button>
   </div>
-<script src="game.js"></script>
+
+  <script src="js/game.js"></script>
 </body>
 </html>

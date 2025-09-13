@@ -82,9 +82,13 @@ function showNextQuestion() {
     return;
   }
   const q = currentQuestions[currentQuestionIndex];
-  console.log("Pergunta atual:", q.question);
-  console.log("Opções:", q.options);
-  console.log("Resposta correta:", q.answer);
+  console.log("Pergunta atual:", q.question); 
+if (questionEl) {
+  questionEl.innerHTML = `<strong>${q.question}</strong>`;
+} else {
+  console.error("Elemento .question não encontrado no HTML");
+}
+
 
 
   const qDiv = getQuestionDiv();

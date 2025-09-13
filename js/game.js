@@ -46,18 +46,29 @@ function showQuestion() {
     }
 
     const q = currentQuestions[currentQuestionIndex];
-    document.querySelector("#question-screen .question").innerText = q.question;
+    console.log("Pergunta atual:", q); // 👈 debug no console
+
+    // Garante que o elemento existe
+    const questionEl = document.querySelector("#question-screen .question");
+    if (questionEl) {
+        questionEl.textContent = q.question || "⚠️ Pergunta não encontrada no JSON";
+    }
 
     const optionsContainer = document.querySelector("#question-screen .options");
     optionsContainer.innerHTML = "";
 
-    q.options.forEach((opt, i) => {
-        const btn = document.createElement("button");
-        btn.textContent = opt;
-        btn.addEventListener("click", () => checkAnswer(i));
-        optionsContainer.appendChild(btn);
-    });
+    if (q.options && q.options.length) {
+        q.options.forEach((opt, i) => {
+            const btn = document.createElement("button");
+            btn.textContent = opt;
+            btn.addEventListener("click", () => checkAnswer(i));
+            optionsContainer.appendChild(btn);
+        });
+    } else {
+        optionsContainer.innerHTML = "<p>⚠️ Nenhuma opção encontrada</p>";
+    }
 }
+
 
 // Verificar resposta
 function checkAnswer(i) {

@@ -182,4 +182,4 @@ if (btnVoltar) {
             currentCategory = null;
         }
     });
-}
+

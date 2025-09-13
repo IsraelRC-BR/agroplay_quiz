@@ -82,7 +82,10 @@ function showNextQuestion() {
     return;
   }
   const q = currentQuestions[currentQuestionIndex];
-  console.log("Pergunta atual:", q);
+  console.log("Pergunta atual:", q.question);
+  console.log("Opções:", q.options);
+  console.log("Resposta correta:", q.answer);
+
 
   const qDiv = getQuestionDiv();
   if (!qDiv) {

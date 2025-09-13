@@ -23,7 +23,7 @@ function getOptionsDiv() {
 }
 
 function loadQuestions() {
-  fetch("pergunta.json")
+  fetch("perguntas.json")
     .then(r => {
       if (!r.ok) throw new Error("Erro HTTP: " + r.status);
       return r.json();

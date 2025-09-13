@@ -1,0 +1,3012 @@
+{
+  "Agricultura": [
+    {
+      "question": "Agricultura Pergunta 1?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 2?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 3?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 4?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 5?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 6?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 7?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 8?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 9?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 10?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 11?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 12?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 13?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 14?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 15?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 16?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 17?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 18?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 19?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 20?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 21?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 22?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 23?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 24?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 25?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 26?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 27?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 28?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 29?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 30?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 31?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 32?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 33?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 34?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 35?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 36?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 37?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 38?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 39?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 40?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 41?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 42?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 43?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 44?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 45?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 46?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 47?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 48?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 49?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 50?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 51?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 52?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 53?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 54?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 55?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 56?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 57?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 58?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 59?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 60?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 61?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 62?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 63?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 64?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 65?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 66?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 67?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 68?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 69?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 70?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 71?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 72?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 73?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 74?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 75?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 76?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 77?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 78?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 79?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 80?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 81?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 82?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 83?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 84?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 85?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 86?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 87?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 88?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 89?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agricultura Pergunta 90?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 91?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agricultura Pergunta 92?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 93?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 94?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 95?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 96?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 97?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 98?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agricultura Pergunta 99?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agricultura Pergunta 100?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pecuária": [
+    {
+      "question": "Pecuária Pergunta 1?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 2?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 3?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 4?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 5?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 6?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 7?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 8?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 9?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 10?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 11?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 12?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 13?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 14?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 15?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 16?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 17?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 18?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 19?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 20?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 21?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 22?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 23?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 24?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 25?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 26?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 27?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 28?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 29?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 30?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 31?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 32?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 33?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 34?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 35?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 36?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 37?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 38?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 39?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 40?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 41?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 42?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 43?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 44?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 45?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 46?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 47?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 48?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 49?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 50?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 51?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 52?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 53?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pecuária Pergunta 54?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 55?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 56?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 57?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pecuária Pergunta 58?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pecuária Pergunta 59?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pecuária Pergunta 60?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    }
+  ],
+  "Meio Ambiente e Sustentabilidade": [
+    {
+      "question": "Meio Ambiente Pergunta 1?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 2?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 3?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 4?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 5?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 6?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 7?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 8?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 9?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 10?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 11?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 12?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 13?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 14?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 15?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 16?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 17?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 18?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 19?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 20?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 21?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 22?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 23?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 24?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 25?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 26?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 27?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 28?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 29?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 30?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 31?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 32?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 33?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 34?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 35?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 36?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 37?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 38?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 39?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 40?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 41?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 42?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 43?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 44?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 45?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 46?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 47?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 48?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 49?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 50?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 51?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 52?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 53?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 54?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Meio Ambiente Pergunta 55?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Meio Ambiente Pergunta 56?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 57?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 58?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meio Ambiente Pergunta 59?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meio Ambiente Pergunta 60?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    }
+  ],
+  "Agroindústria e Tecnologia": [
+    {
+      "question": "Agroindústria Pergunta 1?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 2?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 3?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 4?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 5?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 6?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 7?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 8?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 9?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 10?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 11?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 12?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 13?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 14?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 15?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 16?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 17?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 18?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 19?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 20?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 21?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 22?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 23?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 24?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 25?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 26?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 27?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 28?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 29?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 30?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 31?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 32?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 33?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Agroindústria Pergunta 34?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agroindústria Pergunta 35?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 36?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 37?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 38?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Agroindústria Pergunta 39?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agroindústria Pergunta 40?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    }
+  ],
+  "História, Políticas e Instituições": [
+    {
+      "question": "História Pergunta 1?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 2?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 3?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 4?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 5?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 6?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 7?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 8?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 9?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 10?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 11?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 12?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 13?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 14?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 15?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 16?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 17?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 18?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 19?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 20?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 21?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 22?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 23?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 24?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 25?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 26?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 27?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 28?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 29?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 30?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 31?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 32?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 33?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "História Pergunta 34?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 35?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 36?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "História Pergunta 37?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 38?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "História Pergunta 39?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "História Pergunta 40?",
+      "options": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "answer": 1
+    }
+  ]
+}

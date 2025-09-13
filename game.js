@@ -1,3 +1,4 @@
+console.log("✅ game.js carregado");
 
 // Seleção das telas
 const startScreen = document.getElementById("start-screen");

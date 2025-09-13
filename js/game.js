@@ -153,6 +153,18 @@ function endGame() {
     tbody.appendChild(tr);
   }
 }
+document.getElementById("btn-voltar").addEventListener("click", () => {
+    const confirmar = confirm("Deseja realmente sair do jogo e voltar ao início?");
+    if (confirmar) {
+        // Reinicia o jogo (ou volta para categorias)
+        document.getElementById("quiz").style.display = "none";
+        document.getElementById("category-selection").style.display = "block";
+        
+        // opcional: resetar variáveis globais
+        currentQuestionIndex = 0;
+        currentCategory = null;
+    }
+}
 
 document.addEventListener("DOMContentLoaded", () => {
   console.log("DOMContentLoaded -> iniciando...");

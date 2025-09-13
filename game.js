@@ -107,4 +107,5 @@ if (btnVoltar) {
             currentQuestionIndex = 0;
             currentCategory = null;
         }
-    });
+    }
+                               }

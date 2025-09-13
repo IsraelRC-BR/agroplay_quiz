@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgroPlay com a FAEMG Jovem</title>
+  
+  <!-- Fonte estilizada -->
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+  <!-- CSS externo -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Tela inicial -->
+  <div id="start-screen" class="screen active">
+    <h1>AgroPlay com a FAEMG Jovem</h1>
+    <p class="creditos">
+      Desenvolvido por estudantes da Central de Ensino e Desenvolvimento Agrário de Florestal (CEDAF) / 
+      Universidade Federal de Viçosa - Campus Florestal (UFV CAF) juntamente com o Sindicato Rural de Pará de Minas (SRPM) / 
+      Sistema FAEMG Senar-MG.
+    </p>
+    <div class="logos">
+      <img src="logo-cedaf.png" alt="CEDAF">
+      <img src="logo-ufv.png" alt="UFV CAF">
+      <img src="logo-srpm.png" alt="SRPM">
+      <img src="logo-faemg.png" alt="FAEMG">
+      <img src="logo-raizes.png" alt="Equipe Raízes">
+    </div>
+    <button id="start-game-btn">🎮 Iniciar Novo Jogo</button>
+    <button id="ranking-btn">🏆 Ver Ranking</button>
+    <button id="export-questions-btn">📥 Exportar Banco de Perguntas</button>
+  </div>
+
+  <!-- Exemplo de tela de perguntas -->
+  <div id="question-screen" class="screen">
+    <h2>Pergunta</h2>
+    <div class="question">Aqui vai a pergunta...</div>
+    <div class="options">
+      <button>Opção 1</button>
+      <button>Opção 2</button>
+      <button>Opção 3</button>
+      <button>Opção 4</button>
+    </div>
+    <div class="logos">
+      <img src="logo-cedaf.png" alt="CEDAF">
+      <img src="logo-ufv.png" alt="UFV CAF">
+      <img src="logo-srpm.png" alt="SRPM">
+      <img src="logo-faemg.png" alt="FAEMG">
+      <img src="logo-raizes.png" alt="Equipe Raízes">
+    </div>
+  </div>
+
+  <!-- Exemplo de tela de ranking -->
+  <div id="ranking-screen" class="screen">
+    <h2>Ranking</h2>
+    <table>
+      <tr><th>Jogador</th><th>Pontos</th></tr>
+      <tr><td>Ana</td><td>120</td></tr>
+      <tr><td>João</td><td>100</td></tr>
+    </table>
+    <div class="logos">
+      <img src="logo-cedaf.png" alt="CEDAF">
+      <img src="logo-ufv.png" alt="UFV CAF">
+      <img src="logo-srpm.png" alt="SRPM">
+      <img src="logo-faemg.png" alt="FAEMG">
+      <img src="logo-raizes.png" alt="Equipe Raízes">
+    </div>
+    <button id="back-menu-btn">🔙 Voltar ao Menu</button>
+  </div>
+
+</body>
+</html>

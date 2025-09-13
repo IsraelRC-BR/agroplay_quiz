@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Qual é a principal cultura agrícola do Brasil?",
+    "options": [
+      "Soja",
+      "Milho",
+      "Arroz",
+      "Café"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "O que significa FAEMG?",
+    "options": [
+      "Federação da Agricultura e Pecuária do Estado de Minas Gerais",
+      "Federação Agrária e Econômica de Minas Gerais",
+      "Fazenda Agropecuária Estadual de Minas Gerais",
+      "Fundação de Apoio ao Ensino em Minas Gerais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes é um insumo agrícola?",
+    "options": [
+      "Trator",
+      "Adubo",
+      "Arado",
+      "Semente"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual região do Brasil é mais conhecida pela produção de soja?",
+    "options": [
+      "Sul",
+      "Sudeste",
+      "Nordeste",
+      "Centro-Oeste"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes produtos é típico da agricultura familiar?",
+    "options": [
+      "Celulose",
+      "Soja para exportação",
+      "Hortaliças",
+      "Minério de ferro"
+    ],
+    "answer": 2
+  }
+]

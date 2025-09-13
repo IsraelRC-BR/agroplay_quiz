@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>AgroPlay com a FAEMG Jovem</title>
-  
-  <!-- Fonte estilizada -->
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-  <!-- CSS externo -->
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -24,15 +20,10 @@
 
     <!-- Seletor de tema -->
     <label for="tema-select">Escolha um tema:</label>
-    <select id="tema-select"></select>
+    <select id="tema-select">
+      <option value="">Carregando temas...</option>
+    </select>
 
-    <div class="logos">
-      <img src="logo-cedaf.png" alt="CEDAF">
-      <img src="logo-ufv.png" alt="UFV CAF">
-      <img src="logo-srpm.png" alt="SRPM">
-      <img src="logo-faemg.png" alt="FAEMG">
-      <img src="logo-raizes.png" alt="Equipe Raízes">
-    </div>
     <button id="start-game-btn">🎮 Iniciar Novo Jogo</button>
     <button id="ranking-btn">🏆 Ver Ranking</button>
     <button id="export-questions-btn">📥 Exportar Banco de Perguntas</button>
@@ -43,13 +34,6 @@
     <h2>Pergunta</h2>
     <div class="question"></div>
     <div class="options"></div>
-    <div class="logos">
-      <img src="logo-cedaf.png" alt="CEDAF">
-      <img src="logo-ufv.png" alt="UFV CAF">
-      <img src="logo-srpm.png" alt="SRPM">
-      <img src="logo-faemg.png" alt="FAEMG">
-      <img src="logo-raizes.png" alt="Equipe Raízes">
-    </div>
   </div>
 
   <!-- Tela de ranking -->
@@ -58,16 +42,11 @@
     <table>
       <tr><th>Jogador</th><th>Pontos</th></tr>
     </table>
-    <div class="logos">
-      <img src="logo-cedaf.png" alt="CEDAF">
-      <img src="logo-ufv.png" alt="UFV CAF">
-      <img src="logo-srpm.png" alt="SRPM">
-      <img src="logo-faemg.png" alt="FAEMG">
-      <img src="logo-raizes.png" alt="Equipe Raízes">
-    </div>
     <button id="back-menu-btn">🔙 Voltar ao Menu</button>
   </div>
 
-  <script src="js/game.js"></script>
+  <noscript><p style="color:yellow; text-align:center;">Este jogo precisa de JavaScript habilitado para funcionar.</p></noscript>
+
+  <script src="game.js"></script>
 </body>
 </html>

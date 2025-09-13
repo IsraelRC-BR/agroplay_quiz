@@ -108,4 +108,3 @@ if (btnVoltar) {
             currentCategory = null;
         }
     });
-}

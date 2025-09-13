@@ -1,56 +1,49 @@
 console.log("✅ game.js carregado");
 
+// Seleção das telas
 const startScreen = document.getElementById("start-screen");
 const questionScreen = document.getElementById("question-screen");
 const rankingScreen = document.getElementById("ranking-screen");
 
+// Seleção dos elementos dinâmicos
 const startGameBtn = document.getElementById("start-game-btn");
 const rankingBtn = document.getElementById("ranking-btn");
 const exportQuestionsBtn = document.getElementById("export-questions-btn");
 const backMenuBtn = document.getElementById("back-menu-btn");
-const temaSelect = document.getElementById("tema-select");
 
 const questionText = questionScreen.querySelector(".question");
 const optionsContainer = questionScreen.querySelector(".options");
 const rankingTable = rankingScreen.querySelector("table");
 
-let bancoTemas = {};
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 let playerName = "Jogador";
 
+// Função para alternar telas
 function showScreen(screen) {
   document.querySelectorAll(".screen").forEach(s => s.classList.remove("active"));
   screen.classList.add("active");
 }
 
+// Função para carregar perguntas do JSON
 async function loadQuestionsFromJSON() {
   try {
     const response = await fetch("perguntas.json");
-    if (!response.ok) throw new Error("Erro ao carregar perguntas.json: " + response.status);
-    bancoTemas = await response.json();
-
-    if (temaSelect) {
-      temaSelect.innerHTML = "";
-      Object.keys(bancoTemas).forEach((tema) => {
-        const option = document.createElement("option");
-        option.value = tema;
-        option.textContent = tema;
-        temaSelect.appendChild(option);
-      });
-    }
-    console.log("Perguntas carregadas. Temas:", Object.keys(bancoTemas));
+    if (!response.ok) throw new Error("Erro ao carregar perguntas.json");
+    questions = await response.json();
   } catch (error) {
-    console.error("Erro em loadQuestionsFromJSON:", error);
+    alert("Não foi possível carregar as perguntas: " + error.message);
   }
 }
 
+// Função para carregar pergunta
 function loadQuestion() {
   if (currentQuestionIndex >= questions.length) {
     endGame();
     return;
   }
+
   const current = questions[currentQuestionIndex];
   questionText.textContent = current.question;
   optionsContainer.innerHTML = "";
@@ -63,6 +56,7 @@ function loadQuestion() {
   });
 }
 
+// Função para verificar resposta
 function checkAnswer(selectedIndex) {
   const current = questions[currentQuestionIndex];
   if (selectedIndex === current.answer) {
@@ -72,12 +66,14 @@ function checkAnswer(selectedIndex) {
   loadQuestion();
 }
 
+// Função para finalizar jogo e mostrar ranking
 function endGame() {
   saveScore(playerName, score);
   updateRanking();
   showScreen(rankingScreen);
 }
 
+// Função para salvar pontuação no localStorage
 function saveScore(name, points) {
   const ranking = JSON.parse(localStorage.getItem("ranking")) || [];
   ranking.push({ name, points });
@@ -85,6 +81,7 @@ function saveScore(name, points) {
   localStorage.setItem("ranking", JSON.stringify(ranking));
 }
 
+// Função para atualizar tabela de ranking
 function updateRanking() {
   const ranking = JSON.parse(localStorage.getItem("ranking")) || [];
   rankingTable.innerHTML = "<tr><th>Jogador</th><th>Pontos</th></tr>";
@@ -95,24 +92,12 @@ function updateRanking() {
   });
 }
 
-document.addEventListener('DOMContentLoaded', async () => {
-  await loadQuestionsFromJSON();
-});
-
+// Eventos dos botões principais
 if (startGameBtn) {
   startGameBtn.addEventListener("click", async () => {
-    console.log("🎮 Start clicado");
-    if (Object.keys(bancoTemas).length === 0) {
-      await loadQuestionsFromJSON();
-    }
-    let tema = temaSelect ? temaSelect.value : null;
-    if (!tema) {
-      alert("Escolha um tema.");
-      return;
-    }
-    questions = bancoTemas[tema] || [];
-    if (!questions.length) {
-      alert("Não há perguntas para o tema escolhido.");
+    await loadQuestionsFromJSON();
+    if (questions.length === 0) {
+      alert("Nenhuma pergunta disponível.");
       return;
     }
     currentQuestionIndex = 0;
@@ -136,9 +121,10 @@ if (backMenuBtn) {
   });
 }
 
+// Botão de exportar perguntas (gera JSON)
 if (exportQuestionsBtn) {
   exportQuestionsBtn.addEventListener("click", () => {
-    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(bancoTemas, null, 2));
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(questions, null, 2));
     const downloadAnchor = document.createElement("a");
     downloadAnchor.setAttribute("href", dataStr);
     downloadAnchor.setAttribute("download", "perguntas.json");

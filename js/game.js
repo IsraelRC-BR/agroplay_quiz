@@ -104,6 +104,7 @@ function showNextQuestion() {
   }
 
   q.options.forEach((opt, index) => {
+    console.log("Opção carregada:", opt);
     const btn = document.createElement("button");
     btn.textContent = opt;
     btn.addEventListener("click", () => {

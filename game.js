@@ -90,14 +90,22 @@ function endGame() {
     table.appendChild(row);
 }
 
-// Voltar ao menu
-function backToMenu() {
-    document.getElementById("ranking-screen").classList.remove("active");
-    document.getElementById("start-screen").classList.add("active");
+// Botão Voltar dentro do quiz
+const btnVoltar = document.getElementById("btn-voltar");
+
+if (btnVoltar) {
+    btnVoltar.addEventListener("click", () => {
+        const confirmar = confirm("Deseja realmente sair do jogo e voltar ao início?");
+        if (confirmar) {
+            // Esconde tela do quiz
+            document.getElementById("question-screen").style.display = "none";
+            
+            // Mostra tela inicial de categorias
+            document.getElementById("start-screen").style.display = "block";
+
+            // Resetar variáveis globais do jogo
+            currentQuestionIndex = 0;
+            currentCategory = null;
+        }
+    });
 }
-
-// Eventos
-document.getElementById("start-game-btn").addEventListener("click", startGame);
-document.getElementById("back-menu-btn").addEventListener("click", backToMenu);
-
-window.onload = loadQuestionsFromJSON;

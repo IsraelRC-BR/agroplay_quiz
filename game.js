@@ -36,28 +36,36 @@ async function loadQuestionsFromJSON() {
   }
 }
 
-function startGame() {
-  const select = document.getElementById("tema-select");
-  if (!select) {
-    alert("Seletor de tema não encontrado");
-    return;
+function showQuestion() {
+  if (currentQuestionIndex >= currentQuestions.length) {
+    return endGame();
   }
-  const val = select.value;
-  if (!val) {
-    alert("Selecione um tema antes de iniciar");
-    return;
+
+  const q = currentQuestions[currentQuestionIndex];
+
+  // Atualiza título no h2
+  const titleEl = document.getElementById("question-title");
+  if (titleEl) {
+    titleEl.textContent = `Pergunta ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
   }
-  currentCategory = val;
-  currentQuestions = questionsData[currentCategory] || [];
-  currentQuestionIndex = 0;
-  score = 0;
 
-  // Mudar telas
-  document.getElementById("start-screen").classList.remove("active");
-  document.getElementById("question-screen").classList.add("active");
+  // Coloca o enunciado no .question
+  const questionEl = document.querySelector("#question-screen .question");
+  if (questionEl) {
+    questionEl.textContent = q.question || "Pergunta sem texto";
+  }
 
-  showQuestion();
+  // Renderiza alternativas
+  const optionsContainer = document.querySelector("#question-screen .options");
+  optionsContainer.innerHTML = "";
+  q.options.forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.textContent = opt;
+    btn.addEventListener("click", () => checkAnswer(i));
+    optionsContainer.appendChild(btn);
+  });
 }
+
 
 function showQuestion() {
   if (currentQuestionIndex >= currentQuestions.length) {

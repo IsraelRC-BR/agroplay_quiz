@@ -3,7 +3,8 @@ let currentCategory = null;
 let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-
+let timer;
+let timeLeft = 20; 
 async function loadQuestionsFromJSON() {
   try {
     const response = await fetch("perguntas.json");
@@ -39,15 +40,25 @@ async function loadQuestionsFromJSON() {
 
 function startGame() {
   const select = document.getElementById("tema-select");
-  if (!select) {
-    alert("Seletor de tema não encontrado");
-    return;
-  }
+  if (!select) return alert("Seletor de tema não encontrado");
   const val = select.value;
-  if (!val) {
-    alert("Selecione um tema antes de iniciar");
-    return;
-  }
+  if (!val) return alert("Selecione um tema antes de iniciar");
+
+  currentCategory = val;
+
+  // 🔥 Sorteia 30 das 50 perguntas
+  let allQuestions = questionsData[currentCategory] || [];
+  currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 30);
+
+  currentQuestionIndex = 0;
+  score = 0;
+
+  document.getElementById("start-screen").classList.remove("active");
+  document.getElementById("question-screen").classList.add("active");
+
+  showQuestion();
+}
+
   currentCategory = val;
   currentQuestions = questionsData[currentCategory] || [];
   currentQuestionIndex = 0;
@@ -67,11 +78,47 @@ function showQuestion() {
 
   const q = currentQuestions[currentQuestionIndex];
 
-  // ✅ Atualiza título com número da pergunta
+  // Atualiza título
   const titleEl = document.getElementById("question-title");
   if (titleEl) {
     titleEl.textContent = `Pergunta ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
   }
+
+  // Exibe a pergunta
+  const questionEl = document.querySelector("#question-screen .question");
+  if (questionEl) questionEl.textContent = q.question || "Pergunta sem texto";
+
+  // Exibe opções
+  const optionsContainer = document.querySelector("#question-screen .options");
+  optionsContainer.innerHTML = "";
+  q.options.forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.textContent = opt;
+    btn.addEventListener("click", () => {
+      clearInterval(timer); // parar contador ao responder
+      checkAnswer(i);
+    });
+    optionsContainer.appendChild(btn);
+  });
+
+  // 🔥 Timer
+  timeLeft = 20;
+  const timerEl = document.getElementById("timer");
+  if (timerEl) timerEl.textContent = `Tempo: ${timeLeft}s`;
+
+  clearInterval(timer);
+  timer = setInterval(() => {
+    timeLeft--;
+    if (timerEl) timerEl.textContent = `Tempo: ${timeLeft}s`;
+
+    if (timeLeft <= 0) {
+      clearInterval(timer);
+      alert("⏰ Tempo esgotado! Vamos para a próxima.");
+      currentQuestionIndex++;
+      showQuestion();
+    }
+  }, 1000);
+}
 
   console.log("Pergunta atual:", q.question, "Opções:", q.options);
 
@@ -104,7 +151,7 @@ function showQuestion() {
 
 function checkAnswer(i) {
   if (currentQuestions[currentQuestionIndex].answer === i) {
-    score++;
+    score += 100 / currentQuestions.length; // 🔥 pontos proporcionais
   }
   currentQuestionIndex++;
   showQuestion();

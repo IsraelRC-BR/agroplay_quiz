@@ -59,18 +59,6 @@ function startGame() {
   showQuestion();
 }
 
-  currentCategory = val;
-  currentQuestions = questionsData[currentCategory] || [];
-  currentQuestionIndex = 0;
-  score = 0;
-
-  // Troca telas
-  document.getElementById("start-screen").classList.remove("active");
-  document.getElementById("question-screen").classList.add("active");
-
-  showQuestion();
-}
-
 function showQuestion() {
   if (currentQuestionIndex >= currentQuestions.length) {
     return endGame();

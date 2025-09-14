@@ -1,5 +1,5 @@
 {
-   { [ "Agricultura": [
+    "Agricultura": [
      {
     "question": "Qual é a principal leguminosa cultivada no Brasil para alimentação humana?",
     "options": ["Feijão", "Grão-de-bico", "Lentilha", "Ervilha"],
@@ -252,8 +252,7 @@
   }
 ],
   "Pecuária": [
-    [
-  {
+    {
     "question": "Qual estado brasileiro possui o maior rebanho bovino?",
     "options": ["Mato Grosso", "São Paulo", "Minas Gerais", "Bahia"],
     "answer": 0
@@ -508,11 +507,10 @@
     "options": ["Pasto e suplementação alimentar", "Apenas confinamento", "Apenas pasto nativo", "Nenhum manejo"],
     "answer": 0
   }
-]
+],
 
-  ],
   "História": [
-    [
+  
   {
     "question": "Em que ano ocorreu o descobrimento do Brasil?",
     "options": ["1500", "1600", "1822", "1889"],
@@ -778,12 +776,9 @@
     "options": ["Fernando Collor", "José Sarney", "Itamar Franco", "Fernando Henrique Cardoso"],
     "answer": 0
   }
-]
-
-  ],
+],
   "Instituições": [
-   [
-  {
+    {
     "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil?",
     "options": ["Embrapa", "IBGE", "INCRA", "MAPA"],
     "answer": 0
@@ -1039,6 +1034,4 @@
     "answer": 0
   }
 ]
-
-  ]
 }

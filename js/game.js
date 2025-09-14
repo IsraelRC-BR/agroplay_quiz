@@ -7,7 +7,7 @@ let playerName = "Jogador";
 
 async function loadQuestionsFromJSON() {
   try {
-    const response = await fetch("pergunta.json");
+    const response = await fetch("perguntas.json");
     if (!response.ok) throw new Error("Erro ao carregar perguntas.json");
     questionsData = await response.json();
     console.log("Categorias carregadas:", Object.keys(questionsData));
@@ -49,6 +49,7 @@ function startGame() {
   playerName = nome;
 
   const categorySelect = document.getElementById("category");
+  
   const val = categorySelect ? categorySelect.value : null;
   if (!val || !questionsData[val]) {
     alert("Selecione um tema válido!");

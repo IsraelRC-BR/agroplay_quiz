@@ -3,6 +3,7 @@ let currentCategory = null;
 let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
+let playerName = "Jogador";
 
 async function loadQuestionsFromJSON() {
   try {
@@ -38,18 +39,28 @@ async function loadQuestionsFromJSON() {
 }
 
 function startGame() {
-  const select = document.getElementById("tema-select");
-  if (!select) {
-    alert("Seletor de tema não encontrado");
+  // pega o nome do jogador
+  const nameInput = document.getElementById("player-name");
+  const nome = nameInput && nameInput.value.trim();
+  if (!nome) {
+    alert("Por favor, digite seu nome antes de iniciar.");
     return;
   }
-  const val = select.value;
-  if (!val) {
-    alert("Selecione um tema antes de iniciar");
+  playerName = nome;
+
+  const categorySelect = document.getElementById("category");
+  const val = categorySelect ? categorySelect.value : null;
+  if (!val || !questionsData[val]) {
+    alert("Selecione um tema válido!");
     return;
   }
+
   currentCategory = val;
-  currentQuestions = questionsData[currentCategory] || [];
+  let allQuestions = questionsData[currentCategory] || [];
+
+  // Sorteio de 30 perguntas aleatórias
+  currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 30);
+
   currentQuestionIndex = 0;
   score = 0;
 
@@ -59,6 +70,7 @@ function startGame() {
 
   showQuestion();
 }
+
 
 function showQuestion() {
   if (currentQuestionIndex >= currentQuestions.length) {

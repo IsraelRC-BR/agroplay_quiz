@@ -2,37 +2,32 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AgroPlay com a FAEMG Jovem</title>
-  
-  <!-- Fonte estilizada -->
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-  <!-- CSS externo -->
-  <link rel="stylesheet" href="css/style.css">
+  <script src="js/game.js" defer></script>
 </head>
 <body>
 
   <!-- Tela inicial -->
-  <div id="start-screen" class="screen active">
+  <div id="start-screen" class="active">
     <h1>AgroPlay com a FAEMG Jovem</h1>
-    <p class="creditos">
-      Desenvolvido por estudantes da Central de Ensino e Desenvolvimento Agrário de Florestal (CEDAF) / 
-      Universidade Federal de Viçosa - Campus Florestal (UFV-CAF) juntamente com o Sindicato Rural de Pará de Minas (SRPM) / 
-      Sistema FAEMG Senar-MG.
+    <p>
+      Desenvolvido por estudantes da Central de Ensino e Desenvolvimento Agrário de Florestal (CEDAF) /
+      Universidade Federal de Viçosa – Campus Florestal (UFV-CAF), em parceria com o Sindicato Rural de Pará de Minas (SRPM) /
+      Sistema FAEMG-Senar-MG.
     </p>
-  
-    <!-- Campo para inserir o nome do jogador -->
-    <label for="player-name">Digite seu nome:</label>
-    <input id="player-name" type="text" placeholder="Seu nome" autocomplete="name" />
 
-    <br/>
+    <label for="nome-input">Digite seu nome:</label>
+    <input type="text" id="nome-input" placeholder="Seu nome">
 
-    <label for="category">Selecione um tema:</label>
-    <select id="category">
-      <!-- opções serão preenchidas pelo game.js -->
+    <br><br>
+
+    <label for="tema-select">Selecione um tema:</label>
+    <select id="tema-select">
+      <option value="">-- escolha um tema --</option>
+      <!-- opções preenchidas pelo JS -->
     </select>
 
+    <br><br>
     <br/>
     <div class="logos">
       <img src="logo-cedaf.png" alt="CEDAF">

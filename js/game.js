@@ -66,6 +66,13 @@ function showQuestion() {
   }
 
   const q = currentQuestions[currentQuestionIndex];
+
+  // ✅ Atualiza título com número da pergunta
+  const titleEl = document.getElementById("question-title");
+  if (titleEl) {
+    titleEl.textContent = `Pergunta ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
+  }
+
   console.log("Pergunta atual:", q.question, "Opções:", q.options);
 
   const questionEl = document.querySelector("#question-screen .question");
@@ -74,6 +81,7 @@ function showQuestion() {
   } else {
     console.error("Elemento .question não encontrado no HTML");
   }
+
 
   const optionsContainer = document.querySelector("#question-screen .options");
   if (!optionsContainer) {

@@ -39,26 +39,25 @@ async function loadQuestionsFromJSON() {
 
 function startGame() {
   const select = document.getElementById("tema-select");
-  if (!select) {
-    alert("Seletor de tema não encontrado");
-    return;
-  }
+  if (!select) return alert("Seletor de tema não encontrado");
   const val = select.value;
-  if (!val) {
-    alert("Selecione um tema antes de iniciar");
-    return;
-  }
+  if (!val) return alert("Selecione um tema antes de iniciar");
+
   currentCategory = val;
-  currentQuestions = questionsData[currentCategory] || [];
+
+  // 🔥 Sorteia 30 das 50 perguntas
+  let allQuestions = questionsData[currentCategory] || [];
+  currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 30);
+
   currentQuestionIndex = 0;
   score = 0;
 
-  // Troca telas
   document.getElementById("start-screen").classList.remove("active");
   document.getElementById("question-screen").classList.add("active");
 
   showQuestion();
 }
+
 
 function showQuestion() {
   if (currentQuestionIndex >= currentQuestions.length) {

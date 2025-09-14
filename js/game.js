@@ -132,6 +132,11 @@ function endGame() {
     row.innerHTML = `<td>Você</td><td>${score}</td>`;
     table.appendChild(row);
   }
+  const finalScoreEl = document.getElementById("final-score");
+const finalPlayerEl = document.getElementById("final-player");
+if (finalScoreEl) finalScoreEl.textContent = score.toFixed(2);
+if (finalPlayerEl) finalPlayerEl.textContent = playerName || "Jogador";
+
 }
 
 // Botão voltar dentro do quiz

@@ -7,7 +7,7 @@ let playerName = "Jogador";
 
 async function loadQuestionsFromJSON() {
   try {
-    const response = await fetch("perguntas.json");
+    const response = await fetch("pergunta.json");
     if (!response.ok) throw new Error("Erro ao carregar perguntas.json");
     questionsData = await response.json();
     console.log("Categorias carregadas:", Object.keys(questionsData));

@@ -112,7 +112,6 @@ function showQuestion() {
 }
 
 
-
   const optionsContainer = document.querySelector("#question-screen .options");
   if (!optionsContainer) {
     console.error("Elemento .options não encontrado no HTML");

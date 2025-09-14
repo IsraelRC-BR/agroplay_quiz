@@ -1,0 +1,2210 @@
+{
+  "Agricultura": [
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem?",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira?",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola?",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil?",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja?",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 5)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 6)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 7)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 8)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 9)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 10)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 11)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 12)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 13)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 14)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 15)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 16)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 17)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 18)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 19)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 20)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 21)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 22)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 23)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 24)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 25)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 26)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 27)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 28)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 29)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 30)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 31)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 32)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 33)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 34)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 35)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 36)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 37)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 38)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 39)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 40)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 41)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 42)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 43)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 44)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 45)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 46)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 47)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual região do Brasil é líder na produção de soja? (variação 48)",
+      "options": [
+        "Centro-Oeste",
+        "Nordeste",
+        "Sul",
+        "Sudeste"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 49)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os cultivos a seguir, qual se destaca como a principal commodity agrícola brasileira? (variação 50)",
+      "options": [
+        "Soja",
+        "Arroz",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 51)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em sistemas de rotação de culturas, qual a principal vantagem? (variação 52)",
+      "options": [
+        "Controle de pragas e doenças",
+        "Aumentar o preço da terra",
+        "Diminuir o trabalho humano",
+        "Reduzir o consumo de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto agrícola é a base para a produção de etanol no Brasil? (variação 53)",
+      "options": [
+        "Cana-de-açúcar",
+        "Milho",
+        "Soja",
+        "Algodão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os fatores listados, qual mais influencia a produtividade agrícola? (variação 54)",
+      "options": [
+        "Tecnologia e manejo",
+        "Cor do solo",
+        "Distância da cidade",
+        "Idade do produtor"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pecuária": [
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina?",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo?",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino?",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira?",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira?",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 5)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 6)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 7)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 8)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino? (variação 9)",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 10)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 11)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 12)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 13)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 14)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 15)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 16)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 17)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 18)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 19)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 20)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 21)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 22)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 23)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 24)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 25)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino? (variação 26)",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 27)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 28)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 29)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 30)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 31)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 32)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 33)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 34)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 35)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 36)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 37)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino? (variação 38)",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 39)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 40)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 41)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 42)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual estado brasileiro é um dos maiores produtores de carne bovina? (variação 43)",
+      "options": [
+        "Mato Grosso",
+        "Pernambuco",
+        "Rio Grande do Sul",
+        "Bahia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 44)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 45)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 46)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Na nutrição animal, o que é comumente usado como fonte de energia? (variação 47)",
+      "options": [
+        "Milho",
+        "Feno",
+        "Sal mineral",
+        "Água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 48)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Entre os animais listados, qual é o mais representativo da pecuária leiteira? (variação 49)",
+      "options": [
+        "Vaca",
+        "Cabra",
+        "Búfalo",
+        "Ovelha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino? (variação 50)",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 51)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino? (variação 52)",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual tecnologia contribui para o melhoramento genético bovino? (variação 53)",
+      "options": [
+        "Inseminação artificial",
+        "Vacinação",
+        "Silagem",
+        "Pastejo rotacionado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "No manejo de pastagens, qual prática ajuda a evitar a degradação do solo? (variação 54)",
+      "options": [
+        "Rotação de pastagens",
+        "Superpastejo",
+        "Uso contínuo",
+        "Queima controlada"
+      ],
+      "answer": 0
+    }
+  ],
+  "História": [
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil?",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano?",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil?",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil?",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil?",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 5)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 6)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 7)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 8)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 9)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 10)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 11)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 12)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 13)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 14)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual movimento do século XIX buscava a independência de Minas Gerais? (variação 15)",
+      "options": [
+        "Inconfidência Mineira",
+        "Revolta da Armada",
+        "Cabanagem",
+        "Guerra dos Farrapos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 16)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual movimento do século XIX buscava a independência de Minas Gerais? (variação 17)",
+      "options": [
+        "Inconfidência Mineira",
+        "Revolta da Armada",
+        "Cabanagem",
+        "Guerra dos Farrapos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 18)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual movimento do século XIX buscava a independência de Minas Gerais? (variação 19)",
+      "options": [
+        "Inconfidência Mineira",
+        "Revolta da Armada",
+        "Cabanagem",
+        "Guerra dos Farrapos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 20)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 21)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 22)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 23)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 24)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 25)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 26)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 27)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 28)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 29)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 30)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 31)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 32)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 33)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 34)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual movimento do século XIX buscava a independência de Minas Gerais? (variação 35)",
+      "options": [
+        "Inconfidência Mineira",
+        "Revolta da Armada",
+        "Cabanagem",
+        "Guerra dos Farrapos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 36)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 37)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 38)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual movimento do século XIX buscava a independência de Minas Gerais? (variação 39)",
+      "options": [
+        "Inconfidência Mineira",
+        "Revolta da Armada",
+        "Cabanagem",
+        "Guerra dos Farrapos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 40)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 41)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 42)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 43)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 44)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 45)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 46)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 47)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A Lei Áurea, que aboliu a escravidão, foi assinada em qual ano? (variação 48)",
+      "options": [
+        "1888",
+        "1824",
+        "1870",
+        "1891"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quem foi o primeiro presidente do Brasil? (variação 49)",
+      "options": [
+        "Deodoro da Fonseca",
+        "Getúlio Vargas",
+        "Dom Pedro II",
+        "Floriano Peixoto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 50)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 51)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em que ano ocorreu a Proclamação da República no Brasil? (variação 52)",
+      "options": [
+        "1889",
+        "1822",
+        "1930",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual evento marcou o início da colonização portuguesa no Brasil? (variação 53)",
+      "options": [
+        "Chegada de Cabral",
+        "Inconfidência Mineira",
+        "Independência",
+        "Era Vargas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual movimento do século XIX buscava a independência de Minas Gerais? (variação 54)",
+      "options": [
+        "Inconfidência Mineira",
+        "Revolta da Armada",
+        "Cabanagem",
+        "Guerra dos Farrapos"
+      ],
+      "answer": 0
+    }
+  ],
+  "Instituições": [
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil?",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil?",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil?",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil?",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil?",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 5)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 6)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 7)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil? (variação 8)",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 9)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 10)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 11)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 12)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 13)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 14)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil? (variação 15)",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 16)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 17)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 18)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 19)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 20)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 21)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 22)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 23)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil? (variação 24)",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 25)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 26)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 27)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil? (variação 28)",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 29)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 30)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil? (variação 31)",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 32)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 33)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 34)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 35)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 36)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 37)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 38)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 39)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 40)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 41)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ministério coordena as políticas agrícolas no Brasil? (variação 42)",
+      "options": [
+        "MAPA",
+        "MEC",
+        "MS",
+        "MDIC"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 43)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 44)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 45)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 46)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 47)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 48)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 49)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição representa os produtores rurais? (variação 50)",
+      "options": [
+        "CNA",
+        "Embrapa",
+        "IBGE",
+        "INCRA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil? (variação 51)",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "CNA",
+        "MAPA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 52)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual instituição é responsável pela reforma agrária? (variação 53)",
+      "options": [
+        "INCRA",
+        "IBAMA",
+        "MAPA",
+        "FUNAI"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o órgão de estatística oficial do Brasil? (variação 54)",
+      "options": [
+        "IBGE",
+        "Embrapa",
+        "CNA",
+        "Fiocruz"
+      ],
+      "answer": 0
+    }
+  ]
+}

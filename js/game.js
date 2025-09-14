@@ -3,8 +3,6 @@ let currentCategory = null;
 let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-let timer;
-let timeLeft = 20;
 
 // Carregar perguntas do JSON
 async function loadQuestions() {
@@ -78,14 +76,9 @@ function showQuestion() {
   q.options.forEach((opt, i) => {
     const btn = document.createElement("button");
     btn.textContent = opt;
-    btn.addEventListener("click", () => {
-      clearInterval(timer); // parar timer ao responder
-      checkAnswer(i);
-    });
+    btn.addEventListener("click", () => checkAnswer(i));
     optionsEl.appendChild(btn);
   });
-
-  startTimer();
 }
 
 // Verificar resposta
@@ -98,30 +91,8 @@ function checkAnswer(choice) {
   showQuestion();
 }
 
-// Timer por pergunta
-function startTimer() {
-  timeLeft = 20;
-  const timerEl = document.getElementById("timer");
-  if (timerEl) timerEl.textContent = `Tempo: ${timeLeft}s`;
-
-  clearInterval(timer);
-  timer = setInterval(() => {
-    timeLeft--;
-    if (timerEl) timerEl.textContent = `Tempo: ${timeLeft}s`;
-
-    if (timeLeft <= 0) {
-      clearInterval(timer);
-      alert("⏰ Tempo esgotado!");
-      currentQuestionIndex++;
-      showQuestion();
-    }
-  }, 1000);
-}
-
 // Encerrar jogo
 function endGame() {
-  clearInterval(timer);
-
   document.getElementById("question-screen").classList.remove("active");
   document.getElementById("end-screen").classList.add("active");
 

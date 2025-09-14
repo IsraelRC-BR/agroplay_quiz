@@ -1,0 +1,51 @@
+{
+  "total": 220,
+  "Agricultura": [
+    {
+      "question": "Qual é a principal commodity agrícola exportada pelo Brasil?",
+      "options": [
+        "Café",
+        "Soja",
+        "Algodão",
+        "Milho"
+      ],
+      "answer": 1
+    }
+  ],
+  "Pecuária": [
+    {
+      "question": "Qual estado brasileiro possui o maior rebanho bovino?",
+      "options": [
+        "Mato Grosso",
+        "São Paulo",
+        "Minas Gerais",
+        "Bahia"
+      ],
+      "answer": 0
+    }
+  ],
+  "História": [
+    {
+      "question": "Em que ano ocorreu a independência do Brasil?",
+      "options": [
+        "1822",
+        "1889",
+        "1500",
+        "1964"
+      ],
+      "answer": 0
+    }
+  ],
+  "Instituições": [
+    {
+      "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil?",
+      "options": [
+        "Embrapa",
+        "IBGE",
+        "INCRA",
+        "MAPA"
+      ],
+      "answer": 0
+    }
+  ]
+}

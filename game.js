@@ -112,16 +112,4 @@ function endGame() {
     row.innerHTML = `<td>Você</td><td>${score}</td>`;
     table.appendChild(row);
   }
-}
-
-// Aqui é importante: garantir que o listener seja ligado após o DOM estar pronto
-document.addEventListener("DOMContentLoaded", () => {
-  loadQuestionsFromJSON();
-
-  const startBtn = document.getElementById("start-game-btn");
-  if (startBtn) {
-    startBtn.addEventListener("click", startGame);
-  } else {
-    console.error("Botão start-game-btn não encontrado");
-  }
 });

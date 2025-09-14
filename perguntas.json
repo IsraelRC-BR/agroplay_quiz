@@ -1,21 +1,2512 @@
 {
   "Agricultura": [
     {
-      "question": "Qual é a principal cultura agrícola do Brasil?",
-      "options": ["Soja", "Milho", "Arroz", "Café"],
+      "question": "O que são leguminosas na agricultura? (prática)",
+      "options": [
+        "Plantas que não precisam de luz",
+        "Plantas que fixam nitrogênio no solo",
+        "Plantas que necessitam de muita água",
+        "Plantas que produzem frutos cítricos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa a sigla NPK em fertilizantes?",
+      "options": [
+        "Nitrogênio, Potássio e Cálcio",
+        "Nitrogênio, Fósforo e Potássio",
+        "Nitrogênio, Fósforo e Azoto",
+        "Níquel, Fósforo e Potássio"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática melhora a estrutura do solo e reduz pragas?",
+      "options": [
+        "Uso contínuo da mesma cultura",
+        "Queima de restos culturais",
+        "Plantio intensivo sem intervalos",
+        "Rotação de culturas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é plantio direto?",
+      "options": [
+        "Plantio manual com enxada",
+        "Sistema que mantém a palha na superfície do solo",
+        "Sistema que remove toda a palha antes do plantio",
+        "Irrigação por aspersão"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual método de irrigação usa aspersores móveis sobre a lavoura?",
+      "options": [
+        "Irrigação por sulcos",
+        "Pivô central",
+        "Irrigação por gotejamento",
+        "Microaspersão fixa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é adubação verde?",
+      "options": [
+        "Uso de fertilizantes foliares",
+        "Aplicação de fertilizante químico líquido",
+        "Plantio de culturas que são incorporadas ao solo para melhorar a fertilidade",
+        "Queima controlada de resíduos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é manejo integrado de pragas (MIP)?",
+      "options": [
+        "Uso de inseticidas domésticos",
+        "Uso exclusivo de pesticidas",
+        "Plantio de uma única cultura",
+        "Combinação de métodos físicos, biológicos e químicos para controlar pragas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática reduz a compactação do solo? (prática)",
+      "options": [
+        "Aração constante",
+        "Remoção de matéria orgânica",
+        "Uso intensivo de máquinas pesadas sem manejo",
+        "Rotação de pastagens e uso de plantas de cobertura"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que descreve melhor sementes híbridas (F1)?",
+      "options": [
+        "São obtidas por cruzamento controlado para características específicas",
+        "São sempre salvas para replantio sem perda de vigor",
+        "São sementes transgênicas por definição",
+        "São sementes encontradas apenas em plantações orgânicas"
+      ],
       "answer": 0
     },
     {
-      "question": "O que é rotação de culturas?",
-      "options": ["Plantio da mesma cultura todo ano", "Alternância de culturas em uma área", "Uso de fertilizantes", "Colheita mecanizada"],
+      "question": "O que é pós-colheita?",
+      "options": [
+        "A preparação do solo antes do plantio",
+        "Conjunto de operações desde a colheita até a comercialização que preservam o produto",
+        "A irrigação durante a fase vegetativa",
+        "O plantio de cobertura após a colheita"
+      ],
       "answer": 1
+    },
+    {
+      "question": "Qual é a finalidade principal da calagem em solos ácidos?",
+      "options": [
+        "Eliminar matéria orgânica",
+        "Aumentar salinidade do solo",
+        "Corrigir a acidez e fornecer cálcio",
+        "Aumentar a acidez"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa irrigação por gotejamento?",
+      "options": [
+        "Molhar toda a superfície por aspersão",
+        "Irrigar apenas no período noturno",
+        "Encharcar os sulcos entre linhas",
+        "Distribuir água lentamente diretamente na zona radicular"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é o papel dos microrganismos do solo?",
+      "options": [
+        "Decompor matéria orgânica e ciclar nutrientes",
+        "Remover nutrientes do solo",
+        "Evitar a infiltração de água",
+        "Aumentar a acidez somente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é sementes certificadas?",
+      "options": [
+        "Sementes avaliadas por qualidade e autenticidade genética",
+        "Sementes sem garantia de procedência",
+        "Sementes somente para uso em hortas caseiras",
+        "Sementes encontradas livremente no mercado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual técnica ajuda a aumentar a eficiência do uso de fertilizantes? (prática)",
+      "options": [
+        "Adubação de precisão baseada em análise de solo",
+        "Aplicar fertilizante indiscriminadamente",
+        "Remover adubo após aplicação",
+        "Não fazer análise de solo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que são leguminosas na agricultura?",
+      "options": [
+        "Plantas que necessitam de muita água",
+        "Plantas que produzem frutos cítricos",
+        "Plantas que fixam nitrogênio no solo",
+        "Plantas que não precisam de luz"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa a sigla NPK em fertilizantes?",
+      "options": [
+        "Nitrogênio, Fósforo e Azoto",
+        "Nitrogênio, Potássio e Cálcio",
+        "Nitrogênio, Fósforo e Potássio",
+        "Níquel, Fósforo e Potássio"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática melhora a estrutura do solo e reduz pragas?",
+      "options": [
+        "Uso contínuo da mesma cultura",
+        "Queima de restos culturais",
+        "Plantio intensivo sem intervalos",
+        "Rotação de culturas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é plantio direto?",
+      "options": [
+        "Sistema que mantém a palha na superfície do solo",
+        "Plantio manual com enxada",
+        "Irrigação por aspersão",
+        "Sistema que remove toda a palha antes do plantio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual método de irrigação usa aspersores móveis sobre a lavoura?",
+      "options": [
+        "Irrigação por gotejamento",
+        "Microaspersão fixa",
+        "Pivô central",
+        "Irrigação por sulcos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é adubação verde?",
+      "options": [
+        "Queima controlada de resíduos",
+        "Plantio de culturas que são incorporadas ao solo para melhorar a fertilidade",
+        "Aplicação de fertilizante químico líquido",
+        "Uso de fertilizantes foliares"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é manejo integrado de pragas (MIP)? (prática)",
+      "options": [
+        "Combinação de métodos físicos, biológicos e químicos para controlar pragas",
+        "Uso de inseticidas domésticos",
+        "Plantio de uma única cultura",
+        "Uso exclusivo de pesticidas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual prática reduz a compactação do solo?",
+      "options": [
+        "Remoção de matéria orgânica",
+        "Rotação de pastagens e uso de plantas de cobertura",
+        "Aração constante",
+        "Uso intensivo de máquinas pesadas sem manejo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que descreve melhor sementes híbridas (F1)?",
+      "options": [
+        "São sementes encontradas apenas em plantações orgânicas",
+        "São sementes transgênicas por definição",
+        "São obtidas por cruzamento controlado para características específicas",
+        "São sempre salvas para replantio sem perda de vigor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é pós-colheita?",
+      "options": [
+        "A preparação do solo antes do plantio",
+        "O plantio de cobertura após a colheita",
+        "A irrigação durante a fase vegetativa",
+        "Conjunto de operações desde a colheita até a comercialização que preservam o produto"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a finalidade principal da calagem em solos ácidos?",
+      "options": [
+        "Eliminar matéria orgânica",
+        "Aumentar salinidade do solo",
+        "Corrigir a acidez e fornecer cálcio",
+        "Aumentar a acidez"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa irrigação por gotejamento?",
+      "options": [
+        "Distribuir água lentamente diretamente na zona radicular",
+        "Encharcar os sulcos entre linhas",
+        "Molhar toda a superfície por aspersão",
+        "Irrigar apenas no período noturno"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o papel dos microrganismos do solo?",
+      "options": [
+        "Decompor matéria orgânica e ciclar nutrientes",
+        "Remover nutrientes do solo",
+        "Aumentar a acidez somente",
+        "Evitar a infiltração de água"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é sementes certificadas? (prática)",
+      "options": [
+        "Sementes somente para uso em hortas caseiras",
+        "Sementes encontradas livremente no mercado",
+        "Sementes sem garantia de procedência",
+        "Sementes avaliadas por qualidade e autenticidade genética"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual técnica ajuda a aumentar a eficiência do uso de fertilizantes?",
+      "options": [
+        "Não fazer análise de solo",
+        "Remover adubo após aplicação",
+        "Aplicar fertilizante indiscriminadamente",
+        "Adubação de precisão baseada em análise de solo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que são leguminosas na agricultura?",
+      "options": [
+        "Plantas que necessitam de muita água",
+        "Plantas que produzem frutos cítricos",
+        "Plantas que fixam nitrogênio no solo",
+        "Plantas que não precisam de luz"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa a sigla NPK em fertilizantes?",
+      "options": [
+        "Nitrogênio, Fósforo e Azoto",
+        "Nitrogênio, Fósforo e Potássio",
+        "Nitrogênio, Potássio e Cálcio",
+        "Níquel, Fósforo e Potássio"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática melhora a estrutura do solo e reduz pragas?",
+      "options": [
+        "Rotação de culturas",
+        "Plantio intensivo sem intervalos",
+        "Queima de restos culturais",
+        "Uso contínuo da mesma cultura"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é plantio direto?",
+      "options": [
+        "Plantio manual com enxada",
+        "Sistema que remove toda a palha antes do plantio",
+        "Sistema que mantém a palha na superfície do solo",
+        "Irrigação por aspersão"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual método de irrigação usa aspersores móveis sobre a lavoura?",
+      "options": [
+        "Irrigação por gotejamento",
+        "Microaspersão fixa",
+        "Irrigação por sulcos",
+        "Pivô central"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é adubação verde? (prática)",
+      "options": [
+        "Uso de fertilizantes foliares",
+        "Plantio de culturas que são incorporadas ao solo para melhorar a fertilidade",
+        "Queima controlada de resíduos",
+        "Aplicação de fertilizante químico líquido"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é manejo integrado de pragas (MIP)?",
+      "options": [
+        "Uso de inseticidas domésticos",
+        "Uso exclusivo de pesticidas",
+        "Plantio de uma única cultura",
+        "Combinação de métodos físicos, biológicos e químicos para controlar pragas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática reduz a compactação do solo?",
+      "options": [
+        "Uso intensivo de máquinas pesadas sem manejo",
+        "Rotação de pastagens e uso de plantas de cobertura",
+        "Remoção de matéria orgânica",
+        "Aração constante"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que descreve melhor sementes híbridas (F1)?",
+      "options": [
+        "São obtidas por cruzamento controlado para características específicas",
+        "São sementes encontradas apenas em plantações orgânicas",
+        "São sempre salvas para replantio sem perda de vigor",
+        "São sementes transgênicas por definição"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é pós-colheita?",
+      "options": [
+        "Conjunto de operações desde a colheita até a comercialização que preservam o produto",
+        "O plantio de cobertura após a colheita",
+        "A irrigação durante a fase vegetativa",
+        "A preparação do solo antes do plantio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a finalidade principal da calagem em solos ácidos?",
+      "options": [
+        "Aumentar salinidade do solo",
+        "Eliminar matéria orgânica",
+        "Corrigir a acidez e fornecer cálcio",
+        "Aumentar a acidez"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa irrigação por gotejamento?",
+      "options": [
+        "Encharcar os sulcos entre linhas",
+        "Distribuir água lentamente diretamente na zona radicular",
+        "Molhar toda a superfície por aspersão",
+        "Irrigar apenas no período noturno"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é o papel dos microrganismos do solo? (prática)",
+      "options": [
+        "Aumentar a acidez somente",
+        "Decompor matéria orgânica e ciclar nutrientes",
+        "Remover nutrientes do solo",
+        "Evitar a infiltração de água"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é sementes certificadas?",
+      "options": [
+        "Sementes sem garantia de procedência",
+        "Sementes somente para uso em hortas caseiras",
+        "Sementes encontradas livremente no mercado",
+        "Sementes avaliadas por qualidade e autenticidade genética"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual técnica ajuda a aumentar a eficiência do uso de fertilizantes?",
+      "options": [
+        "Adubação de precisão baseada em análise de solo",
+        "Aplicar fertilizante indiscriminadamente",
+        "Remover adubo após aplicação",
+        "Não fazer análise de solo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que são leguminosas na agricultura?",
+      "options": [
+        "Plantas que produzem frutos cítricos",
+        "Plantas que não precisam de luz",
+        "Plantas que necessitam de muita água",
+        "Plantas que fixam nitrogênio no solo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa a sigla NPK em fertilizantes?",
+      "options": [
+        "Níquel, Fósforo e Potássio",
+        "Nitrogênio, Potássio e Cálcio",
+        "Nitrogênio, Fósforo e Azoto",
+        "Nitrogênio, Fósforo e Potássio"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática melhora a estrutura do solo e reduz pragas?",
+      "options": [
+        "Rotação de culturas",
+        "Plantio intensivo sem intervalos",
+        "Uso contínuo da mesma cultura",
+        "Queima de restos culturais"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é plantio direto?",
+      "options": [
+        "Plantio manual com enxada",
+        "Irrigação por aspersão",
+        "Sistema que remove toda a palha antes do plantio",
+        "Sistema que mantém a palha na superfície do solo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual método de irrigação usa aspersores móveis sobre a lavoura? (prática)",
+      "options": [
+        "Pivô central",
+        "Irrigação por sulcos",
+        "Irrigação por gotejamento",
+        "Microaspersão fixa"
+      ],
+      "answer": 0
     }
   ],
   "Pecuária": [
     {
-      "question": "Qual animal é mais comum na pecuária brasileira?",
-      "options": ["Suínos", "Ovinos", "Bovinos", "Aves"],
+      "question": "O que é rúmen em ruminantes? (prática)",
+      "options": [
+        "Um tipo de vacina",
+        "Um tipo de pasto",
+        "Uma técnica de manejo sanitário",
+        "Uma das câmaras do estômago onde ocorre fermentação microbiana"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual produto é obtido diretamente do leite após processamento?",
+      "options": [
+        "Tecido",
+        "Cimento",
+        "Queijo",
+        "Aço"
+      ],
       "answer": 2
+    },
+    {
+      "question": "O que caracteriza a pecuária de corte?",
+      "options": [
+        "Produção de lã",
+        "Produção exclusiva de leite",
+        "Produção de ovos",
+        "Produção voltada para carne"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é confinamento na pecuária?",
+      "options": [
+        "Liberdade total para os animais",
+        "Criação em instalações com alimentação e manejo controlados",
+        "Criação apenas em pasto nativo",
+        "Criação sem nenhum manejo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é um benefício da vacinação em rebanhos?",
+      "options": [
+        "Prevenir doenças e reduzir perdas",
+        "Substituir manejo sanitário",
+        "Mudar a cor da pele do animal",
+        "Aumentar o apetite sem razão"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é leite pasteurizado?",
+      "options": [
+        "Leite submetido a calor para reduzir microrganismos patogênicos",
+        "Leite sem gordura",
+        "Leite apenas para alimentação animal",
+        "Leite fermentado naturalmente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a função da nutrição balanceada em bovinos de crescimento?",
+      "options": [
+        "Promover ganho de peso eficiente e saudável",
+        "Aumentar somente a ingestão de água",
+        "Diminuir a produção de carne",
+        "Remover minerais essenciais"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que são pastagens rotacionadas? (prática)",
+      "options": [
+        "Retirar animais permanentemente",
+        "Queima do pasto para renovação",
+        "Uso contínuo do mesmo pasto sem descanso",
+        "Dividir o pasto em parcelas e alternar o uso para recuperação"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a importância do registro zootécnico?",
+      "options": [
+        "Para armazenamento de sementes",
+        "Controlar genealogia e desempenho dos animais",
+        "Somente para estética da fazenda",
+        "Não tem utilidade prática"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é inseminação artificial?",
+      "options": [
+        "Uma técnica de ordenha",
+        "Um tipo de medicamento",
+        "Introdução de sêmen no trato reprodutor das fêmeas sem cobertura natural",
+        "Alimentação suplementar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rúmen em ruminantes?",
+      "options": [
+        "Uma técnica de manejo sanitário",
+        "Um tipo de vacina",
+        "Uma das câmaras do estômago onde ocorre fermentação microbiana",
+        "Um tipo de pasto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual produto é obtido diretamente do leite após processamento?",
+      "options": [
+        "Queijo",
+        "Aço",
+        "Cimento",
+        "Tecido"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que caracteriza a pecuária de corte?",
+      "options": [
+        "Produção exclusiva de leite",
+        "Produção de lã",
+        "Produção de ovos",
+        "Produção voltada para carne"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é confinamento na pecuária?",
+      "options": [
+        "Criação apenas em pasto nativo",
+        "Criação em instalações com alimentação e manejo controlados",
+        "Criação sem nenhum manejo",
+        "Liberdade total para os animais"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é um benefício da vacinação em rebanhos? (prática)",
+      "options": [
+        "Aumentar o apetite sem razão",
+        "Prevenir doenças e reduzir perdas",
+        "Mudar a cor da pele do animal",
+        "Substituir manejo sanitário"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é leite pasteurizado?",
+      "options": [
+        "Leite fermentado naturalmente",
+        "Leite sem gordura",
+        "Leite apenas para alimentação animal",
+        "Leite submetido a calor para reduzir microrganismos patogênicos"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a função da nutrição balanceada em bovinos de crescimento?",
+      "options": [
+        "Diminuir a produção de carne",
+        "Aumentar somente a ingestão de água",
+        "Remover minerais essenciais",
+        "Promover ganho de peso eficiente e saudável"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que são pastagens rotacionadas?",
+      "options": [
+        "Dividir o pasto em parcelas e alternar o uso para recuperação",
+        "Queima do pasto para renovação",
+        "Uso contínuo do mesmo pasto sem descanso",
+        "Retirar animais permanentemente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a importância do registro zootécnico?",
+      "options": [
+        "Para armazenamento de sementes",
+        "Não tem utilidade prática",
+        "Controlar genealogia e desempenho dos animais",
+        "Somente para estética da fazenda"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é inseminação artificial?",
+      "options": [
+        "Introdução de sêmen no trato reprodutor das fêmeas sem cobertura natural",
+        "Alimentação suplementar",
+        "Uma técnica de ordenha",
+        "Um tipo de medicamento"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é rúmen em ruminantes?",
+      "options": [
+        "Uma das câmaras do estômago onde ocorre fermentação microbiana",
+        "Um tipo de pasto",
+        "Uma técnica de manejo sanitário",
+        "Um tipo de vacina"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é obtido diretamente do leite após processamento? (prática)",
+      "options": [
+        "Cimento",
+        "Aço",
+        "Tecido",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que caracteriza a pecuária de corte?",
+      "options": [
+        "Produção exclusiva de leite",
+        "Produção de ovos",
+        "Produção de lã",
+        "Produção voltada para carne"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é confinamento na pecuária?",
+      "options": [
+        "Criação em instalações com alimentação e manejo controlados",
+        "Criação sem nenhum manejo",
+        "Liberdade total para os animais",
+        "Criação apenas em pasto nativo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é um benefício da vacinação em rebanhos?",
+      "options": [
+        "Mudar a cor da pele do animal",
+        "Substituir manejo sanitário",
+        "Aumentar o apetite sem razão",
+        "Prevenir doenças e reduzir perdas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é leite pasteurizado?",
+      "options": [
+        "Leite submetido a calor para reduzir microrganismos patogênicos",
+        "Leite apenas para alimentação animal",
+        "Leite sem gordura",
+        "Leite fermentado naturalmente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a função da nutrição balanceada em bovinos de crescimento?",
+      "options": [
+        "Remover minerais essenciais",
+        "Promover ganho de peso eficiente e saudável",
+        "Aumentar somente a ingestão de água",
+        "Diminuir a produção de carne"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que são pastagens rotacionadas?",
+      "options": [
+        "Retirar animais permanentemente",
+        "Dividir o pasto em parcelas e alternar o uso para recuperação",
+        "Queima do pasto para renovação",
+        "Uso contínuo do mesmo pasto sem descanso"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a importância do registro zootécnico? (prática)",
+      "options": [
+        "Somente para estética da fazenda",
+        "Não tem utilidade prática",
+        "Para armazenamento de sementes",
+        "Controlar genealogia e desempenho dos animais"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é inseminação artificial?",
+      "options": [
+        "Um tipo de medicamento",
+        "Alimentação suplementar",
+        "Introdução de sêmen no trato reprodutor das fêmeas sem cobertura natural",
+        "Uma técnica de ordenha"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rúmen em ruminantes?",
+      "options": [
+        "Uma das câmaras do estômago onde ocorre fermentação microbiana",
+        "Um tipo de vacina",
+        "Uma técnica de manejo sanitário",
+        "Um tipo de pasto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual produto é obtido diretamente do leite após processamento?",
+      "options": [
+        "Queijo",
+        "Tecido",
+        "Aço",
+        "Cimento"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que caracteriza a pecuária de corte?",
+      "options": [
+        "Produção exclusiva de leite",
+        "Produção de lã",
+        "Produção voltada para carne",
+        "Produção de ovos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é confinamento na pecuária?",
+      "options": [
+        "Liberdade total para os animais",
+        "Criação em instalações com alimentação e manejo controlados",
+        "Criação apenas em pasto nativo",
+        "Criação sem nenhum manejo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é um benefício da vacinação em rebanhos?",
+      "options": [
+        "Prevenir doenças e reduzir perdas",
+        "Aumentar o apetite sem razão",
+        "Substituir manejo sanitário",
+        "Mudar a cor da pele do animal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é leite pasteurizado? (prática)",
+      "options": [
+        "Leite sem gordura",
+        "Leite submetido a calor para reduzir microrganismos patogênicos",
+        "Leite apenas para alimentação animal",
+        "Leite fermentado naturalmente"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a função da nutrição balanceada em bovinos de crescimento?",
+      "options": [
+        "Aumentar somente a ingestão de água",
+        "Remover minerais essenciais",
+        "Diminuir a produção de carne",
+        "Promover ganho de peso eficiente e saudável"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que são pastagens rotacionadas?",
+      "options": [
+        "Queima do pasto para renovação",
+        "Uso contínuo do mesmo pasto sem descanso",
+        "Retirar animais permanentemente",
+        "Dividir o pasto em parcelas e alternar o uso para recuperação"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a importância do registro zootécnico?",
+      "options": [
+        "Controlar genealogia e desempenho dos animais",
+        "Para armazenamento de sementes",
+        "Não tem utilidade prática",
+        "Somente para estética da fazenda"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é inseminação artificial?",
+      "options": [
+        "Introdução de sêmen no trato reprodutor das fêmeas sem cobertura natural",
+        "Alimentação suplementar",
+        "Um tipo de medicamento",
+        "Uma técnica de ordenha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é rúmen em ruminantes?",
+      "options": [
+        "Uma técnica de manejo sanitário",
+        "Uma das câmaras do estômago onde ocorre fermentação microbiana",
+        "Um tipo de vacina",
+        "Um tipo de pasto"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual produto é obtido diretamente do leite após processamento?",
+      "options": [
+        "Cimento",
+        "Tecido",
+        "Aço",
+        "Queijo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que caracteriza a pecuária de corte? (prática)",
+      "options": [
+        "Produção de ovos",
+        "Produção exclusiva de leite",
+        "Produção de lã",
+        "Produção voltada para carne"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é confinamento na pecuária?",
+      "options": [
+        "Criação sem nenhum manejo",
+        "Liberdade total para os animais",
+        "Criação apenas em pasto nativo",
+        "Criação em instalações com alimentação e manejo controlados"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é um benefício da vacinação em rebanhos?",
+      "options": [
+        "Mudar a cor da pele do animal",
+        "Aumentar o apetite sem razão",
+        "Substituir manejo sanitário",
+        "Prevenir doenças e reduzir perdas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é leite pasteurizado?",
+      "options": [
+        "Leite submetido a calor para reduzir microrganismos patogênicos",
+        "Leite fermentado naturalmente",
+        "Leite apenas para alimentação animal",
+        "Leite sem gordura"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a função da nutrição balanceada em bovinos de crescimento?",
+      "options": [
+        "Remover minerais essenciais",
+        "Aumentar somente a ingestão de água",
+        "Diminuir a produção de carne",
+        "Promover ganho de peso eficiente e saudável"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que são pastagens rotacionadas?",
+      "options": [
+        "Retirar animais permanentemente",
+        "Queima do pasto para renovação",
+        "Uso contínuo do mesmo pasto sem descanso",
+        "Dividir o pasto em parcelas e alternar o uso para recuperação"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é a importância do registro zootécnico?",
+      "options": [
+        "Controlar genealogia e desempenho dos animais",
+        "Para armazenamento de sementes",
+        "Não tem utilidade prática",
+        "Somente para estética da fazenda"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é inseminação artificial? (prática)",
+      "options": [
+        "Alimentação suplementar",
+        "Uma técnica de ordenha",
+        "Um tipo de medicamento",
+        "Introdução de sêmen no trato reprodutor das fêmeas sem cobertura natural"
+      ],
+      "answer": 3
+    }
+  ],
+  "Meio Ambiente e Sustentabilidade": [
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas? (prática)",
+      "options": [
+        "Neônio (Ne)",
+        "Hélio (He)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Oxigênio (O₂)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Remoção de solos férteis",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Ações de queima controlada",
+        "Construção de estradas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Preservar variedade de espécies e habitats",
+        "Construir áreas urbanas",
+        "Transformar florestas em pastos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Plantio em contorno e cobertura do solo",
+        "Remover todos os resíduos",
+        "Arar repetidamente o solo",
+        "Usar apenas monoculturas ano após ano"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Queima de resíduos",
+        "Enviar resíduos para o mar",
+        "Enterrar resíduos sem tratamento",
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Hélio (He)",
+        "Neônio (Ne)",
+        "Oxigênio (O₂)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Construção de estradas",
+        "Remoção de solos férteis",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Ações de queima controlada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa conservação da biodiversidade? (prática)",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Preservar variedade de espécies e habitats",
+        "Transformar florestas em pastos",
+        "Construir áreas urbanas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Arar repetidamente o solo",
+        "Usar apenas monoculturas ano após ano",
+        "Remover todos os resíduos",
+        "Plantio em contorno e cobertura do solo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Queima de resíduos",
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enviar resíduos para o mar",
+        "Enterrar resíduos sem tratamento"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Hélio (He)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Neônio (Ne)",
+        "Oxigênio (O₂)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Ações de queima controlada",
+        "Construção de estradas",
+        "Remoção de solos férteis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Construir áreas urbanas",
+        "Preservar variedade de espécies e habitats",
+        "Transformar florestas em pastos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Remover todos os resíduos",
+        "Usar apenas monoculturas ano após ano",
+        "Plantio em contorno e cobertura do solo",
+        "Arar repetidamente o solo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é compostagem? (prática)",
+      "options": [
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enviar resíduos para o mar",
+        "Queima de resíduos",
+        "Enterrar resíduos sem tratamento"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Oxigênio (O₂)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Hélio (He)",
+        "Neônio (Ne)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Remoção de solos férteis",
+        "Ações de queima controlada",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Construção de estradas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Transformar florestas em pastos",
+        "Construir áreas urbanas",
+        "Preservar variedade de espécies e habitats",
+        "Eliminar espécies exóticas somente"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Plantio em contorno e cobertura do solo",
+        "Usar apenas monoculturas ano após ano",
+        "Arar repetidamente o solo",
+        "Remover todos os resíduos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Enviar resíduos para o mar",
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Queima de resíduos",
+        "Enterrar resíduos sem tratamento"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Neônio (Ne)",
+        "Hélio (He)",
+        "Oxigênio (O₂)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é reflorestamento? (prática)",
+      "options": [
+        "Construção de estradas",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Remoção de solos férteis",
+        "Ações de queima controlada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Transformar florestas em pastos",
+        "Preservar variedade de espécies e habitats",
+        "Construir áreas urbanas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Remover todos os resíduos",
+        "Usar apenas monoculturas ano após ano",
+        "Plantio em contorno e cobertura do solo",
+        "Arar repetidamente o solo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Enviar resíduos para o mar",
+        "Queima de resíduos",
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enterrar resíduos sem tratamento"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Hélio (He)",
+        "Neônio (Ne)",
+        "Oxigênio (O₂)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Construção de estradas",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Ações de queima controlada",
+        "Remoção de solos férteis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Preservar variedade de espécies e habitats",
+        "Construir áreas urbanas",
+        "Transformar florestas em pastos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo? (prática)",
+      "options": [
+        "Usar apenas monoculturas ano após ano",
+        "Plantio em contorno e cobertura do solo",
+        "Arar repetidamente o solo",
+        "Remover todos os resíduos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Enviar resíduos para o mar",
+        "Queima de resíduos",
+        "Enterrar resíduos sem tratamento",
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Neônio (Ne)",
+        "Oxigênio (O₂)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Hélio (He)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Remoção de solos férteis",
+        "Ações de queima controlada",
+        "Construção de estradas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Preservar variedade de espécies e habitats",
+        "Eliminar espécies exóticas somente",
+        "Construir áreas urbanas",
+        "Transformar florestas em pastos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Arar repetidamente o solo",
+        "Usar apenas monoculturas ano após ano",
+        "Plantio em contorno e cobertura do solo",
+        "Remover todos os resíduos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enterrar resíduos sem tratamento",
+        "Queima de resíduos",
+        "Enviar resíduos para o mar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas? (prática)",
+      "options": [
+        "Oxigênio (O₂)",
+        "Neônio (Ne)",
+        "Hélio (He)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Remoção de solos férteis",
+        "Ações de queima controlada",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Construção de estradas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Preservar variedade de espécies e habitats",
+        "Construir áreas urbanas",
+        "Transformar florestas em pastos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Arar repetidamente o solo",
+        "Usar apenas monoculturas ano após ano",
+        "Remover todos os resíduos",
+        "Plantio em contorno e cobertura do solo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Enviar resíduos para o mar",
+        "Queima de resíduos",
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enterrar resíduos sem tratamento"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Neônio (Ne)",
+        "Oxigênio (O₂)",
+        "Hélio (He)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Construção de estradas",
+        "Ações de queima controlada",
+        "Remoção de solos férteis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa conservação da biodiversidade? (prática)",
+      "options": [
+        "Eliminar espécies exóticas somente",
+        "Construir áreas urbanas",
+        "Transformar florestas em pastos",
+        "Preservar variedade de espécies e habitats"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Plantio em contorno e cobertura do solo",
+        "Usar apenas monoculturas ano após ano",
+        "Remover todos os resíduos",
+        "Arar repetidamente o solo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é compostagem?",
+      "options": [
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enviar resíduos para o mar",
+        "Enterrar resíduos sem tratamento",
+        "Queima de resíduos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual gás é associado ao efeito estufa e é emitido por atividades agrícolas?",
+      "options": [
+        "Neônio (Ne)",
+        "Hélio (He)",
+        "Dióxido de carbono (CO₂) e metano (CH₄)",
+        "Oxigênio (O₂)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é reflorestamento?",
+      "options": [
+        "Remoção de solos férteis",
+        "Plantio de árvores em áreas desmatadas para recuperar vegetação",
+        "Ações de queima controlada",
+        "Construção de estradas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa conservação da biodiversidade?",
+      "options": [
+        "Transformar florestas em pastos",
+        "Construir áreas urbanas",
+        "Eliminar espécies exóticas somente",
+        "Preservar variedade de espécies e habitats"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual prática agrícola contribui para reduzir a erosão do solo?",
+      "options": [
+        "Arar repetidamente o solo",
+        "Plantio em contorno e cobertura do solo",
+        "Remover todos os resíduos",
+        "Usar apenas monoculturas ano após ano"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é compostagem? (prática)",
+      "options": [
+        "Transformação de resíduos orgânicos em húmus por decomposição controlada",
+        "Enterrar resíduos sem tratamento",
+        "Enviar resíduos para o mar",
+        "Queima de resíduos"
+      ],
+      "answer": 0
+    }
+  ],
+  "Agroindústria e Tecnologia": [
+    {
+      "question": "O que é agricultura de precisão? (prática)",
+      "options": [
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Plantio manual exclusivo",
+        "Uso de camponeses sem tecnologia",
+        "Processamento de alimentos em fábricas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "GPS e imagens de satélite",
+        "Mapa impresso de 1900",
+        "Barômetro",
+        "Bússola manual"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis",
+        "Processo de cozimento industrial",
+        "Embalagem sem controle",
+        "Transporte sem refrigeração"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Esconder a origem do produto",
+        "Eliminar informações de lotes",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Somente rotular o produto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual exclusivo",
+        "Processamento de alimentos em fábricas",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Uso de camponeses sem tecnologia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Barômetro",
+        "Mapa impresso de 1900",
+        "Bússola manual",
+        "GPS e imagens de satélite"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Embalagem sem controle",
+        "Transporte sem refrigeração",
+        "Processo de cozimento industrial",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria? (prática)",
+      "options": [
+        "Esconder a origem do produto",
+        "Eliminar informações de lotes",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Somente rotular o produto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Uso de camponeses sem tecnologia",
+        "Plantio manual exclusivo",
+        "Processamento de alimentos em fábricas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Barômetro",
+        "Mapa impresso de 1900",
+        "GPS e imagens de satélite",
+        "Bússola manual"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Processo de cozimento industrial",
+        "Embalagem sem controle",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis",
+        "Transporte sem refrigeração"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Eliminar informações de lotes",
+        "Somente rotular o produto",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Esconder a origem do produto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Processamento de alimentos em fábricas",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Uso de camponeses sem tecnologia",
+        "Plantio manual exclusivo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Barômetro",
+        "GPS e imagens de satélite",
+        "Bússola manual",
+        "Mapa impresso de 1900"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria? (prática)",
+      "options": [
+        "Embalagem sem controle",
+        "Processo de cozimento industrial",
+        "Transporte sem refrigeração",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Eliminar informações de lotes",
+        "Somente rotular o produto",
+        "Esconder a origem do produto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de camponeses sem tecnologia",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Processamento de alimentos em fábricas",
+        "Plantio manual exclusivo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Bússola manual",
+        "Mapa impresso de 1900",
+        "Barômetro",
+        "GPS e imagens de satélite"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Processo de cozimento industrial",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis",
+        "Embalagem sem controle",
+        "Transporte sem refrigeração"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Eliminar informações de lotes",
+        "Esconder a origem do produto",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Somente rotular o produto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual exclusivo",
+        "Processamento de alimentos em fábricas",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Uso de camponeses sem tecnologia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão? (prática)",
+      "options": [
+        "Mapa impresso de 1900",
+        "Barômetro",
+        "Bússola manual",
+        "GPS e imagens de satélite"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Embalagem sem controle",
+        "Processo de cozimento industrial",
+        "Transporte sem refrigeração",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Esconder a origem do produto",
+        "Somente rotular o produto",
+        "Eliminar informações de lotes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de camponeses sem tecnologia",
+        "Plantio manual exclusivo",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Processamento de alimentos em fábricas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Mapa impresso de 1900",
+        "GPS e imagens de satélite",
+        "Bússola manual",
+        "Barômetro"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Embalagem sem controle",
+        "Transporte sem refrigeração",
+        "Processo de cozimento industrial",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Eliminar informações de lotes",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Somente rotular o produto",
+        "Esconder a origem do produto"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é agricultura de precisão? (prática)",
+      "options": [
+        "Processamento de alimentos em fábricas",
+        "Uso de camponeses sem tecnologia",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Plantio manual exclusivo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "GPS e imagens de satélite",
+        "Mapa impresso de 1900",
+        "Barômetro",
+        "Bússola manual"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Transporte sem refrigeração",
+        "Embalagem sem controle",
+        "Processo de cozimento industrial",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Somente rotular o produto",
+        "Eliminar informações de lotes",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Esconder a origem do produto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Processamento de alimentos em fábricas",
+        "Uso de camponeses sem tecnologia",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Plantio manual exclusivo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Mapa impresso de 1900",
+        "GPS e imagens de satélite",
+        "Bússola manual",
+        "Barômetro"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Transporte sem refrigeração",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis",
+        "Embalagem sem controle",
+        "Processo de cozimento industrial"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria? (prática)",
+      "options": [
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Somente rotular o produto",
+        "Eliminar informações de lotes",
+        "Esconder a origem do produto"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Plantio manual exclusivo",
+        "Uso de camponeses sem tecnologia",
+        "Processamento de alimentos em fábricas",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Barômetro",
+        "GPS e imagens de satélite",
+        "Mapa impresso de 1900",
+        "Bússola manual"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Processo de cozimento industrial",
+        "Transporte sem refrigeração",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis",
+        "Embalagem sem controle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Esconder a origem do produto",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Somente rotular o produto",
+        "Eliminar informações de lotes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Uso de camponeses sem tecnologia",
+        "Plantio manual exclusivo",
+        "Processamento de alimentos em fábricas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "GPS e imagens de satélite",
+        "Barômetro",
+        "Mapa impresso de 1900",
+        "Bússola manual"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria? (prática)",
+      "options": [
+        "Transporte sem refrigeração",
+        "Embalagem sem controle",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis",
+        "Processo de cozimento industrial"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Esconder a origem do produto",
+        "Somente rotular o produto",
+        "Eliminar informações de lotes",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Processamento de alimentos em fábricas",
+        "Plantio manual exclusivo",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Uso de camponeses sem tecnologia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão?",
+      "options": [
+        "Mapa impresso de 1900",
+        "Barômetro",
+        "Bússola manual",
+        "GPS e imagens de satélite"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é cadeia de frio (cold chain) na agroindústria?",
+      "options": [
+        "Transporte sem refrigeração",
+        "Processo de cozimento industrial",
+        "Embalagem sem controle",
+        "Sistemas de conservação em baixa temperatura para produtos perecíveis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é rastreabilidade na agroindústria?",
+      "options": [
+        "Esconder a origem do produto",
+        "Somente rotular o produto",
+        "Capacidade de acompanhar um produto desde a origem até o consumidor",
+        "Eliminar informações de lotes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é agricultura de precisão?",
+      "options": [
+        "Uso de camponeses sem tecnologia",
+        "Uso de tecnologia como GPS, sensores e drones para otimizar manejo",
+        "Plantio manual exclusivo",
+        "Processamento de alimentos em fábricas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual ferramenta é usada para mapear áreas agrícolas com precisão? (prática)",
+      "options": [
+        "Barômetro",
+        "Mapa impresso de 1900",
+        "GPS e imagens de satélite",
+        "Bússola manual"
+      ],
+      "answer": 2
+    }
+  ],
+  "História, Políticas e Instituições": [
+    {
+      "question": "O que é a Embrapa? (prática)",
+      "options": [
+        "Um sindicato rural",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma escola de culinária",
+        "Uma usina de açúcar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Administra universidades",
+        "Cuida exclusivamente de saúde pública",
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Subvenção para indústria automobilística",
+        "Crédito para compra de eletrodomésticos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Uma usina de açúcar",
+        "Um sindicato rural",
+        "Uma escola de culinária",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário",
+        "Administra universidades",
+        "Cuida exclusivamente de saúde pública"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Subvenção para indústria automobilística",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Crédito para compra de eletrodomésticos",
+        "Seguro habitacional"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Uma usina de açúcar",
+        "Uma escola de culinária",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Um sindicato rural"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura? (prática)",
+      "options": [
+        "Administra universidades",
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário",
+        "Cuida exclusivamente de saúde pública"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Crédito para compra de eletrodomésticos",
+        "Subvenção para indústria automobilística"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Um sindicato rural",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma escola de culinária",
+        "Uma usina de açúcar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Administra universidades",
+        "Gerencia o sistema bancário",
+        "Cuida exclusivamente de saúde pública",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Seguro habitacional",
+        "Subvenção para indústria automobilística",
+        "Crédito para compra de eletrodomésticos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma escola de culinária",
+        "Um sindicato rural",
+        "Uma usina de açúcar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Administra universidades",
+        "Cuida exclusivamente de saúde pública",
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural? (prática)",
+      "options": [
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Subvenção para indústria automobilística",
+        "Crédito para compra de eletrodomésticos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Uma escola de culinária",
+        "Um sindicato rural",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma usina de açúcar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Gerencia o sistema bancário",
+        "Cuida exclusivamente de saúde pública",
+        "Formula políticas e ações para o setor agropecuário",
+        "Administra universidades"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Crédito para compra de eletrodomésticos",
+        "Subvenção para indústria automobilística"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma usina de açúcar",
+        "Um sindicato rural",
+        "Uma escola de culinária"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Administra universidades",
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário",
+        "Cuida exclusivamente de saúde pública"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Subvenção para indústria automobilística",
+        "Crédito para compra de eletrodomésticos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa? (prática)",
+      "options": [
+        "Um sindicato rural",
+        "Uma escola de culinária",
+        "Uma usina de açúcar",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Cuida exclusivamente de saúde pública",
+        "Gerencia o sistema bancário",
+        "Administra universidades",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Subvenção para indústria automobilística",
+        "Crédito para compra de eletrodomésticos",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Seguro habitacional"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Um sindicato rural",
+        "Uma escola de culinária",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma usina de açúcar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Cuida exclusivamente de saúde pública",
+        "Formula políticas e ações para o setor agropecuário",
+        "Administra universidades",
+        "Gerencia o sistema bancário"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Subvenção para indústria automobilística",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Seguro habitacional",
+        "Crédito para compra de eletrodomésticos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Uma usina de açúcar",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma escola de culinária",
+        "Um sindicato rural"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura? (prática)",
+      "options": [
+        "Gerencia o sistema bancário",
+        "Administra universidades",
+        "Cuida exclusivamente de saúde pública",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Crédito para compra de eletrodomésticos",
+        "Subvenção para indústria automobilística",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Seguro habitacional"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma usina de açúcar",
+        "Um sindicato rural",
+        "Uma escola de culinária"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Administra universidades",
+        "Cuida exclusivamente de saúde pública",
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Subvenção para indústria automobilística",
+        "Seguro habitacional",
+        "Crédito para compra de eletrodomésticos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Um sindicato rural",
+        "Uma usina de açúcar",
+        "Uma escola de culinária",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Administra universidades",
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário",
+        "Cuida exclusivamente de saúde pública"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é crédito rural? (prática)",
+      "options": [
+        "Subvenção para indústria automobilística",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Crédito para compra de eletrodomésticos",
+        "Seguro habitacional"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma usina de açúcar",
+        "Um sindicato rural",
+        "Uma escola de culinária"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Formula políticas e ações para o setor agropecuário",
+        "Gerencia o sistema bancário",
+        "Cuida exclusivamente de saúde pública",
+        "Administra universidades"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Crédito para compra de eletrodomésticos",
+        "Subvenção para indústria automobilística",
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Um sindicato rural",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma usina de açúcar",
+        "Uma escola de culinária"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Gerencia o sistema bancário",
+        "Cuida exclusivamente de saúde pública",
+        "Formula políticas e ações para o setor agropecuário",
+        "Administra universidades"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Seguro habitacional",
+        "Subvenção para indústria automobilística",
+        "Crédito para compra de eletrodomésticos",
+        "Financiamento destinado a atividades do setor agrícola e pecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é a Embrapa? (prática)",
+      "options": [
+        "Um sindicato rural",
+        "Uma usina de açúcar",
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Uma escola de culinária"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Formula políticas e ações para o setor agropecuário",
+        "Administra universidades",
+        "Gerencia o sistema bancário",
+        "Cuida exclusivamente de saúde pública"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Crédito para compra de eletrodomésticos",
+        "Subvenção para indústria automobilística",
+        "Seguro habitacional"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Um sindicato rural",
+        "Uma escola de culinária",
+        "Uma usina de açúcar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura?",
+      "options": [
+        "Cuida exclusivamente de saúde pública",
+        "Gerencia o sistema bancário",
+        "Administra universidades",
+        "Formula políticas e ações para o setor agropecuário"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é crédito rural?",
+      "options": [
+        "Crédito para compra de eletrodomésticos",
+        "Seguro habitacional",
+        "Financiamento destinado a atividades do setor agrícola e pecuário",
+        "Subvenção para indústria automobilística"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é a Embrapa?",
+      "options": [
+        "Empresa Brasileira de Pesquisa Agropecuária, órgão de pesquisa",
+        "Um sindicato rural",
+        "Uma usina de açúcar",
+        "Uma escola de culinária"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que faz o Ministério da Agricultura? (prática)",
+      "options": [
+        "Gerencia o sistema bancário",
+        "Formula políticas e ações para o setor agropecuário",
+        "Cuida exclusivamente de saúde pública",
+        "Administra universidades"
+      ],
+      "answer": 1
     }
   ]
 }

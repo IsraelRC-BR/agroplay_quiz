@@ -65,6 +65,17 @@ function showQuestion() {
   }
 
   const q = currentQuestions[currentQuestionIndex];
+
+  // Atualiza título da pergunta (Pergunta X de Y)
+  const titleEl = document.getElementById("question-title");
+  if (titleEl) {
+    titleEl.textContent = `Pergunta ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
+  }
+  if (currentQuestionIndex >= currentQuestions.length) {
+    return endGame();
+  }
+
+  const q = currentQuestions[currentQuestionIndex];
   console.log("Pergunta atual:", q.question, "Opções:", q.options);
 
   const questionEl = document.querySelector("#question-screen .question");

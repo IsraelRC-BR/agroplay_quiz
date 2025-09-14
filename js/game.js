@@ -3,6 +3,9 @@ let currentCategory = null;
 let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
+let timer;
+let timeLeft = 20; // tempo por pergunta em segundos
+
 
 async function loadQuestionsFromJSON() {
   try {
@@ -66,20 +69,48 @@ function showQuestion() {
 
   const q = currentQuestions[currentQuestionIndex];
 
-  // ✅ Atualiza título com número da pergunta
+  // Atualiza título
   const titleEl = document.getElementById("question-title");
   if (titleEl) {
     titleEl.textContent = `Pergunta ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
   }
 
-  console.log("Pergunta atual:", q.question, "Opções:", q.options);
-
+  // Exibe a pergunta
   const questionEl = document.querySelector("#question-screen .question");
-  if (questionEl) {
-    questionEl.textContent = q.question || "Pergunta sem texto";
-  } else {
-    console.error("Elemento .question não encontrado no HTML");
-  }
+  if (questionEl) questionEl.textContent = q.question || "Pergunta sem texto";
+
+  // Exibe opções
+  const optionsContainer = document.querySelector("#question-screen .options");
+  optionsContainer.innerHTML = "";
+  q.options.forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.textContent = opt;
+    btn.addEventListener("click", () => {
+      clearInterval(timer); // parar contador ao responder
+      checkAnswer(i);
+    });
+    optionsContainer.appendChild(btn);
+  });
+
+  // 🔥 Timer
+  timeLeft = 20;
+  const timerEl = document.getElementById("timer");
+  if (timerEl) timerEl.textContent = `Tempo: ${timeLeft}s`;
+
+  clearInterval(timer);
+  timer = setInterval(() => {
+    timeLeft--;
+    if (timerEl) timerEl.textContent = `Tempo: ${timeLeft}s`;
+
+    if (timeLeft <= 0) {
+      clearInterval(timer);
+      alert("⏰ Tempo esgotado! Vamos para a próxima.");
+      currentQuestionIndex++;
+      showQuestion();
+    }
+  }, 1000);
+}
+
 
 
   const optionsContainer = document.querySelector("#question-screen .options");

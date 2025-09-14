@@ -1,0 +1,1048 @@
+{
+  "total": 220,
+  "Agricultura": [
+   [
+  {
+    "question": "Qual é a principal leguminosa cultivada no Brasil para alimentação humana?",
+    "options": ["Feijão", "Grão-de-bico", "Lentilha", "Ervilha"],
+    "answer": 0
+  },
+  {
+    "question": "Qual região brasileira concentra a maior produção de frutas tropicais?",
+    "options": ["Nordeste", "Sul", "Sudeste", "Centro-Oeste"],
+    "answer": 0
+  },
+  {
+    "question": "Qual produto agrícola é símbolo da economia do Vale do São Francisco?",
+    "options": ["Uva", "Soja", "Arroz", "Café"],
+    "answer": 0
+  },
+  {
+    "question": "A sigla OGM, muito usada na agricultura, significa:",
+    "options": ["Organismo Geneticamente Modificado", "Óleo de Grãos Modificado", "Organização de Grãos Mercantis", "Operação de Gestão Múltipla"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal oleaginosa cultivada no Brasil?",
+    "options": ["Soja", "Girassol", "Algodão", "Amendoim"],
+    "answer": 0
+  },
+  {
+    "question": "O café arábica é mais produzido em qual região brasileira?",
+    "options": ["Minas Gerais", "Amazonas", "Mato Grosso", "Pernambuco"],
+    "answer": 0
+  },
+  {
+    "question": "Qual prática agrícola ajuda a fixar nitrogênio no solo?",
+    "options": ["Consórcio com leguminosas", "Uso de adubo mineral", "Queimada", "Monocultura"],
+    "answer": 0
+  },
+  {
+    "question": "O que caracteriza a agricultura de subsistência?",
+    "options": ["Produção voltada ao consumo da família", "Produção para exportação", "Produção com mecanização pesada", "Produção destinada à indústria"],
+    "answer": 0
+  },
+  {
+    "question": "Qual técnica é usada para irrigar grandes áreas agrícolas no semiárido?",
+    "options": ["Irrigação por gotejamento", "Irrigação manual", "Aspersão com baldes", "Plantio sem irrigação"],
+    "answer": 0
+  },
+  {
+    "question": "Qual cultura foi responsável pela interiorização da agricultura no Centro-Oeste?",
+    "options": ["Soja", "Trigo", "Café", "Mandioca"],
+    "answer": 0
+  },
+  {
+    "question": "Qual fator climático é essencial para a germinação das sementes?",
+    "options": ["Umidade", "Vento", "Poluição", "Altitude"],
+    "answer": 0
+  },
+  {
+    "question": "A agricultura de precisão utiliza tecnologias como:",
+    "options": ["GPS e drones", "Arado de madeira", "Bois de tração", "Sementes não tratadas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é o principal produto agrícola da região Sul do Brasil?",
+    "options": ["Milho", "Algodão", "Uva", "Cacau"],
+    "answer": 0
+  },
+  {
+    "question": "O cacau é tradicionalmente cultivado em qual estado?",
+    "options": ["Bahia", "Amazonas", "São Paulo", "Maranhão"],
+    "answer": 0
+  },
+  {
+    "question": "O que é a agricultura orgânica?",
+    "options": ["Produção sem agrotóxicos", "Produção intensiva", "Produção mecanizada", "Produção destinada à exportação"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal função do calcário na agricultura?",
+    "options": ["Corrigir a acidez do solo", "Fornecer nitrogênio", "Eliminar pragas", "Aumentar a coloração das folhas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual cultura agrícola foi chamada de 'ouro verde' no Brasil?",
+    "options": ["Café", "Soja", "Arroz", "Milho"],
+    "answer": 0
+  },
+  {
+    "question": "Qual sistema agrícola utiliza água corrente para transportar nutrientes?",
+    "options": ["Hidroponia", "Rotação de culturas", "Agrossilvicultura", "Monocultura"],
+    "answer": 0
+  },
+  {
+    "question": "O que é o zoneamento agrícola?",
+    "options": ["Definição de áreas adequadas ao cultivo", "Divisão política de municípios", "Construção de armazéns", "Distribuição de sementes"],
+    "answer": 0
+  },
+  {
+    "question": "Qual região brasileira é maior produtora de algodão?",
+    "options": ["Mato Grosso", "Paraná", "Minas Gerais", "Piauí"],
+    "answer": 0
+  },
+  {
+    "question": "A cana-de-açúcar foi importante no período colonial porque:",
+    "options": ["Era principal produto de exportação", "Servia apenas para subsistência", "Era cultivada no Sul", "Tinha pouca importância econômica"],
+    "answer": 0
+  },
+  {
+    "question": "Qual equipamento agrícola é utilizado para semeadura mecanizada?",
+    "options": ["Semeadeira", "Colheitadeira", "Adubadeira", "Grade aradora"],
+    "answer": 0
+  },
+  {
+    "question": "O que significa SAF na agricultura sustentável?",
+    "options": ["Sistema Agroflorestal", "Sistema de Água Filtrada", "Serviço de Agricultura Familiar", "Semente Analisada Finamente"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal leguminosa exportada pelo Brasil?",
+    "options": ["Soja", "Feijão", "Ervilha", "Grão-de-bico"],
+    "answer": 0
+  },
+  {
+    "question": "A agricultura irrigada do semiárido brasileiro se destaca pela produção de:",
+    "options": ["Fruticultura", "Soja", "Trigo", "Cana-de-açúcar"],
+    "answer": 0
+  },
+  {
+    "question": "Qual prática contribui para a recuperação de solos degradados?",
+    "options": ["Adubação verde", "Queimada", "Monocultura", "Excesso de arado"],
+    "answer": 0
+  },
+  {
+    "question": "O milho é considerado uma cultura de:",
+    "options": ["Ciclo anual", "Ciclo perene", "Ciclo semestral", "Ciclo indefinido"],
+    "answer": 0
+  },
+  {
+    "question": "O que caracteriza a agricultura itinerante?",
+    "options": ["Uso temporário da terra com abandono posterior", "Uso intensivo do solo por anos", "Cultivo mecanizado em larga escala", "Produção irrigada permanente"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é o principal destino da soja brasileira?",
+    "options": ["Exportação", "Consumo familiar", "Subsistência", "Pequenas feiras locais"],
+    "answer": 0
+  },
+  {
+    "question": "O cultivo protegido em estufas é utilizado principalmente para:",
+    "options": ["Hortaliças", "Arroz", "Soja", "Milho"],
+    "answer": 0
+  },
+  {
+    "question": "Qual fator contribuiu para o avanço da fronteira agrícola no Cerrado?",
+    "options": ["Uso de calcário", "Baixa mecanização", "Excesso de chuvas", "Baixa tecnologia"],
+    "answer": 0
+  },
+  {
+    "question": "O cultivo consorciado consiste em:",
+    "options": ["Plantar duas ou mais culturas juntas", "Produzir apenas uma cultura", "Usar apenas sementes transgênicas", "Queimar a vegetação nativa"],
+    "answer": 0
+  },
+  {
+    "question": "Qual técnica agrícola reduz a dependência de agrotóxicos?",
+    "options": ["Controle biológico", "Queimada", "Monocultura", "Aragem intensiva"],
+    "answer": 0
+  },
+  {
+    "question": "O Brasil é o maior produtor mundial de qual grão?",
+    "options": ["Soja", "Arroz", "Cevada", "Girassol"],
+    "answer": 0
+  },
+  {
+    "question": "O que significa agricultura de sequeiro?",
+    "options": ["Agricultura sem irrigação", "Agricultura mecanizada", "Agricultura de precisão", "Agricultura em estufas"],
+    "answer": 0
+  },
+  {
+    "question": "A introdução de sementes transgênicas no Brasil teve como objetivo:",
+    "options": ["Aumentar resistência a pragas", "Diminuir a exportação", "Aumentar o uso de agrotóxicos", "Reduzir produtividade"],
+    "answer": 0
+  },
+  {
+    "question": "Qual estado brasileiro é o maior produtor de soja?",
+    "options": ["Mato Grosso", "Bahia", "Paraná", "São Paulo"],
+    "answer": 0
+  },
+  {
+    "question": "O cultivo de laranja é tradicionalmente associado a qual estado?",
+    "options": ["São Paulo", "Amazonas", "Ceará", "Goiás"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal técnica de conservação de sementes?",
+    "options": ["Armazenamento em locais secos e ventilados", "Exposição ao sol", "Deixar ao ar livre", "Misturar com água"],
+    "answer": 0
+  },
+  {
+    "question": "O Brasil é destaque mundial na produção de:",
+    "options": ["Café", "Trigo", "Cevada", "Aveia"],
+    "answer": 0
+  },
+  {
+    "question": "Qual prática agrícola ajuda a reduzir a compactação do solo?",
+    "options": ["Plantio direto", "Aragem profunda", "Uso intensivo de máquinas", "Queimadas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal oleaginosa utilizada na produção de biodiesel no Brasil?",
+    "options": ["Soja", "Algodão", "Girassol", "Mamona"],
+    "answer": 0
+  },
+  {
+    "question": "O que caracteriza a agricultura sustentável?",
+    "options": ["Uso racional dos recursos naturais", "Exaustão do solo", "Excesso de agrotóxicos", "Queimadas frequentes"],
+    "answer": 0
+  },
+  {
+    "question": "A rizicultura é o cultivo de qual alimento?",
+    "options": ["Arroz", "Feijão", "Milho", "Soja"],
+    "answer": 0
+  },
+  {
+    "question": "Qual região brasileira é a principal produtora de uva para vinhos?",
+    "options": ["Sul", "Norte", "Centro-Oeste", "Nordeste"],
+    "answer": 0
+  },
+  {
+    "question": "O que é policultura?",
+    "options": ["Cultivo de várias espécies agrícolas", "Cultivo de uma só espécie", "Produção exclusivamente irrigada", "Produção sem tecnologia"],
+    "answer": 0
+  },
+  {
+    "question": "Qual técnica reduz perdas de água na irrigação?",
+    "options": ["Gotejamento", "Aspersão manual", "Alagamento", "Sulcos abertos"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal fibra têxtil produzida no Brasil?",
+    "options": ["Algodão", "Seda", "Linho", "Juta"],
+    "answer": 0
+  },
+  {
+    "question": "A cultura do trigo é mais comum em qual região brasileira?",
+    "options": ["Sul", "Norte", "Nordeste", "Centro-Oeste"],
+    "answer": 0
+  },
+  {
+    "question": "O que caracteriza a agricultura intensiva?",
+    "options": ["Alto uso de insumos e tecnologia", "Produção de subsistência", "Pouca mecanização", "Uso de técnicas arcaicas"],
+    "answer": 0
+  }
+]
+
+  ],
+  "Pecuária": [
+    [
+  {
+    "question": "Qual estado brasileiro possui o maior rebanho bovino?",
+    "options": ["Mato Grosso", "São Paulo", "Minas Gerais", "Bahia"],
+    "answer": 0
+  },
+  {
+    "question": "Qual produto é derivado da pecuária leiteira?",
+    "options": ["Queijo", "Algodão", "Arroz", "Trigo"],
+    "answer": 0
+  },
+  {
+    "question": "O Nelore é uma raça bovina originária de qual país?",
+    "options": ["Índia", "Brasil", "México", "Estados Unidos"],
+    "answer": 0
+  },
+  {
+    "question": "Na pecuária leiteira, a raça mais difundida no Brasil é:",
+    "options": ["Holandesa", "Nelore", "Angus", "Gir"],
+    "answer": 0
+  },
+  {
+    "question": "Qual alimento é usado principalmente como volumoso na nutrição de bovinos?",
+    "options": ["Silagem", "Farelo de soja", "Sal mineral", "Milho moído"],
+    "answer": 0
+  },
+  {
+    "question": "O melhoramento genético de bovinos pode ser feito por meio de:",
+    "options": ["Inseminação artificial", "Vacinação", "Adubação", "Corte de chifres"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal finalidade da pecuária de corte?",
+    "options": ["Produção de carne", "Produção de leite", "Produção de ovos", "Produção de lã"],
+    "answer": 0
+  },
+  {
+    "question": "A mastite é uma doença que afeta qual sistema das vacas?",
+    "options": ["Mamário", "Digestivo", "Respiratório", "Nervoso"],
+    "answer": 0
+  },
+  {
+    "question": "Qual prática reduz a degradação de pastagens?",
+    "options": ["Pastejo rotacionado", "Superpastejo", "Queimada", "Excesso de animais"],
+    "answer": 0
+  },
+  {
+    "question": "A principal proteína fornecida pelo leite é:",
+    "options": ["Caseína", "Albumina", "Glúten", "Hemoglobina"],
+    "answer": 0
+  },
+  {
+    "question": "Qual suplemento é usado para corrigir deficiências minerais em bovinos?",
+    "options": ["Sal mineral", "Ração concentrada", "Silagem", "Água"],
+    "answer": 0
+  },
+  {
+    "question": "A inseminação artificial ajuda a:",
+    "options": ["Acelerar o melhoramento genético", "Diminuir a produção de carne", "Aumentar doenças", "Eliminar pastagens"],
+    "answer": 0
+  },
+  {
+    "question": "Qual espécie animal é explorada na avicultura?",
+    "options": ["Aves", "Bovinos", "Caprinos", "Suínos"],
+    "answer": 0
+  },
+  {
+    "question": "O suíno é criado principalmente para produção de:",
+    "options": ["Carne suína", "Leite", "Lã", "Couro fino"],
+    "answer": 0
+  },
+  {
+    "question": "A apicultura refere-se à criação de:",
+    "options": ["Abelhas", "Peixes", "Cabras", "Galinhas"],
+    "answer": 0
+  },
+  {
+    "question": "Na produção de carne bovina, a terminação em confinamento tem como objetivo:",
+    "options": ["Engordar rapidamente os animais", "Reduzir o peso dos animais", "Aumentar a mastite", "Eliminar pastagens"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a raça de bovinos especializada em carne de alta qualidade?",
+    "options": ["Angus", "Holandesa", "Jersey", "Gir"],
+    "answer": 0
+  },
+  {
+    "question": "O bem-estar animal está relacionado a:",
+    "options": ["Condições adequadas de criação", "Excesso de confinamento", "Falta de água", "Manejo agressivo"],
+    "answer": 0
+  },
+  {
+    "question": "Qual produto é obtido da ovinocultura?",
+    "options": ["Lã", "Trigo", "Milho", "Arroz"],
+    "answer": 0
+  },
+  {
+    "question": "A piscicultura é a criação de:",
+    "options": ["Peixes", "Cabras", "Galinhas", "Porcos"],
+    "answer": 0
+  },
+  {
+    "question": "O frango de corte é abatido geralmente com quantos dias de vida?",
+    "options": ["42 dias", "10 dias", "120 dias", "200 dias"],
+    "answer": 0
+  },
+  {
+    "question": "Qual estado brasileiro é destaque na produção de frango?",
+    "options": ["Paraná", "Amazonas", "Bahia", "Amapá"],
+    "answer": 0
+  },
+  {
+    "question": "Na criação de bovinos, a sigla GTA significa:",
+    "options": ["Guia de Trânsito Animal", "Grupo Técnico Agrícola", "Gestão de Terras Agrícolas", "Grande Taxa Alimentar"],
+    "answer": 0
+  },
+  {
+    "question": "O principal subproduto do couro bovino é:",
+    "options": ["Calçados", "Grãos", "Carne processada", "Adubo químico"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal fonte de proteína na alimentação de aves?",
+    "options": ["Farelo de soja", "Silagem de milho", "Capim", "Feno"],
+    "answer": 0
+  },
+  {
+    "question": "O casqueamento é uma prática realizada em:",
+    "options": ["Bovinos", "Aves", "Peixes", "Abelhas"],
+    "answer": 0
+  },
+  {
+    "question": "A leptospirose é uma doença que pode afetar:",
+    "options": ["Animais e humanos", "Apenas aves", "Apenas peixes", "Somente abelhas"],
+    "answer": 0
+  },
+  {
+    "question": "Na pecuária leiteira, a ordenha deve ser realizada:",
+    "options": ["Duas vezes ao dia", "Uma vez por semana", "A cada três dias", "Somente quando o tanque enche"],
+    "answer": 0
+  },
+  {
+    "question": "O zebu é um tipo de bovino adaptado ao:",
+    "options": ["Clima tropical", "Clima polar", "Clima desértico", "Clima frio"],
+    "answer": 0
+  },
+  {
+    "question": "O controle de parasitas internos em bovinos é feito com:",
+    "options": ["Vermífugos", "Antibióticos", "Vitaminas", "Vacinas de vírus inativados"],
+    "answer": 0
+  },
+  {
+    "question": "A produção de leite orgânico exige:",
+    "options": ["Ausência de antibióticos e hormônios", "Uso intensivo de aditivos químicos", "Excesso de pastagens queimadas", "Baixa qualidade sanitária"],
+    "answer": 0
+  },
+  {
+    "question": "Qual carne é conhecida como 'carne branca'?",
+    "options": ["Frango", "Boi", "Cordeiro", "Búfalo"],
+    "answer": 0
+  },
+  {
+    "question": "O que é silagem?",
+    "options": ["Forragem fermentada para alimentação animal", "Ração industrial", "Subproduto de grãos", "Excesso de capim seco"],
+    "answer": 0
+  },
+  {
+    "question": "O leite tipo A é caracterizado por:",
+    "options": ["Alto padrão de qualidade e higiene", "Baixa produção", "Maior quantidade de água", "Processamento artesanal"],
+    "answer": 0
+  },
+  {
+    "question": "Na criação de aves poedeiras, o produto principal é:",
+    "options": ["Ovo", "Carne", "Couro", "Mel"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal vantagem do cruzamento industrial em bovinos?",
+    "options": ["Melhor desempenho produtivo", "Maior risco de doenças", "Menor qualidade da carne", "Redução da fertilidade"],
+    "answer": 0
+  },
+  {
+    "question": "O búfalo é criado principalmente para produção de:",
+    "options": ["Leite e carne", "Algodão", "Grãos", "Couro sintético"],
+    "answer": 0
+  },
+  {
+    "question": "A vacinação contra a febre aftosa é obrigatória em qual espécie?",
+    "options": ["Bovinos", "Aves", "Abelhas", "Peixes"],
+    "answer": 0
+  },
+  {
+    "question": "Qual produto é obtido na caprinocultura?",
+    "options": ["Leite de cabra", "Couro sintético", "Trigo", "Ovo de pata"],
+    "answer": 0
+  },
+  {
+    "question": "A bronquite infecciosa é uma doença que afeta:",
+    "options": ["Aves", "Bovinos", "Caprinos", "Peixes"],
+    "answer": 0
+  },
+  {
+    "question": "O que caracteriza a pecuária intensiva?",
+    "options": ["Alto uso de tecnologia e insumos", "Baixa produtividade", "Uso de pasto nativo", "Produção sem manejo"],
+    "answer": 0
+  },
+  {
+    "question": "A carne ovina é também conhecida como:",
+    "options": ["Carne de cordeiro", "Carne de frango", "Carne bovina", "Carne suína"],
+    "answer": 0
+  },
+  {
+    "question": "Qual prática ajuda a reduzir o estresse em animais de corte?",
+    "options": ["Manejo racional", "Uso de choques elétricos", "Superlotação", "Falta de água"],
+    "answer": 0
+  },
+  {
+    "question": "O leite em pó é produzido por meio de:",
+    "options": ["Desidratação do leite líquido", "Adição de água ao pó", "Fermentação", "Congelamento"],
+    "answer": 0
+  },
+  {
+    "question": "Na piscicultura, a tilápia é criada principalmente por:",
+    "options": ["Crescimento rápido", "Produção de lã", "Produção de ovos", "Produção de couro"],
+    "answer": 0
+  },
+  {
+    "question": "O controle de carrapatos em bovinos deve ser feito com:",
+    "options": ["Acaricidas", "Vermífugos", "Antibióticos", "Vitaminas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal característica da carne Angus?",
+    "options": ["Marmoreio e maciez", "Pouca gordura", "Maior dureza", "Ausência de sabor"],
+    "answer": 0
+  },
+  {
+    "question": "O leite longa vida é tratado por qual processo?",
+    "options": ["UHT – alta temperatura", "Congelamento", "Fermentação", "Pasteurização simples"],
+    "answer": 0
+  },
+  {
+    "question": "Na produção de mel, o trabalho das abelhas operárias inclui:",
+    "options": ["Coleta de néctar", "Reprodução", "Corte de cera", "Postura de ovos"],
+    "answer": 0
+  },
+  {
+    "question": "O couro bovino é utilizado principalmente pela indústria:",
+    "options": ["Calçadista", "Têxtil", "Automobilística", "Alimentícia"],
+    "answer": 0
+  },
+  {
+    "question": "O sistema semi-intensivo de criação animal combina:",
+    "options": ["Pasto e suplementação alimentar", "Apenas confinamento", "Apenas pasto nativo", "Nenhum manejo"],
+    "answer": 0
+  }
+]
+
+  ],
+  "História": [
+    [
+  {
+    "question": "Em que ano ocorreu o descobrimento do Brasil?",
+    "options": ["1500", "1600", "1822", "1889"],
+    "answer": 0
+  },
+  {
+    "question": "Quem comandava a esquadra que chegou ao Brasil em 1500?",
+    "options": ["Pedro Álvares Cabral", "Cristóvão Colombo", "Vasco da Gama", "Tomé de Souza"],
+    "answer": 0
+  },
+  {
+    "question": "Qual produto foi a base da economia colonial brasileira nos séculos XVI e XVII?",
+    "options": ["Cana-de-açúcar", "Café", "Algodão", "Soja"],
+    "answer": 0
+  },
+  {
+    "question": "Qual capital foi a primeira do Brasil colonial?",
+    "options": ["Salvador", "Rio de Janeiro", "São Paulo", "Brasília"],
+    "answer": 0
+  },
+  {
+    "question": "A Inconfidência Mineira, movimento de 1789, ocorreu em qual capitania?",
+    "options": ["Minas Gerais", "Bahia", "Rio de Janeiro", "Pará"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o líder da Inconfidência Mineira conhecido como Tiradentes?",
+    "options": ["Joaquim José da Silva Xavier", "José Bonifácio", "Dom Pedro I", "Getúlio Vargas"],
+    "answer": 0
+  },
+  {
+    "question": "Em que ano foi proclamada a Independência do Brasil?",
+    "options": ["1822", "1808", "1889", "1930"],
+    "answer": 0
+  },
+  {
+    "question": "O grito da Independência foi dado às margens de qual rio?",
+    "options": ["Rio Ipiranga", "Rio Amazonas", "Rio São Francisco", "Rio Paraná"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o primeiro imperador do Brasil?",
+    "options": ["Dom Pedro I", "Dom Pedro II", "Deodoro da Fonseca", "José Bonifácio"],
+    "answer": 0
+  },
+  {
+    "question": "A Lei Áurea, que aboliu a escravidão no Brasil, foi assinada em:",
+    "options": ["1888", "1824", "1871", "1891"],
+    "answer": 0
+  },
+  {
+    "question": "Quem assinou a Lei Áurea?",
+    "options": ["Princesa Isabel", "Dom Pedro II", "Deodoro da Fonseca", "Getúlio Vargas"],
+    "answer": 0
+  },
+  {
+    "question": "Em que ano ocorreu a Proclamação da República?",
+    "options": ["1889", "1822", "1930", "1964"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "options": ["Deodoro da Fonseca", "Floriano Peixoto", "Getúlio Vargas", "Campos Sales"],
+    "answer": 0
+  },
+  {
+    "question": "Qual movimento social ocorreu no sertão baiano entre 1896 e 1897?",
+    "options": ["Guerra de Canudos", "Revolta da Armada", "Revolta da Vacina", "Cabanagem"],
+    "answer": 0
+  },
+  {
+    "question": "A Revolta da Chibata, em 1910, foi liderada por:",
+    "options": ["João Cândido", "Tiradentes", "Getúlio Vargas", "Dom Pedro II"],
+    "answer": 0
+  },
+  {
+    "question": "A Revolução de 1930 levou quem ao poder?",
+    "options": ["Getúlio Vargas", "Deodoro da Fonseca", "Juscelino Kubitschek", "Dom Pedro II"],
+    "answer": 0
+  },
+  {
+    "question": "O Estado Novo, de 1937 a 1945, foi um regime de:",
+    "options": ["Ditadura", "Monarquia", "República parlamentarista", "Democracia plena"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o presidente responsável pela construção de Brasília?",
+    "options": ["Juscelino Kubitschek", "Getúlio Vargas", "Fernando Collor", "João Goulart"],
+    "answer": 0
+  },
+  {
+    "question": "Em que ano foi inaugurada a cidade de Brasília?",
+    "options": ["1960", "1950", "1970", "1980"],
+    "answer": 0
+  },
+  {
+    "question": "A ditadura militar no Brasil teve início em:",
+    "options": ["1964", "1954", "1970", "1985"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o presidente deposto pelo golpe de 1964?",
+    "options": ["João Goulart", "Getúlio Vargas", "Jânio Quadros", "Juscelino Kubitschek"],
+    "answer": 0
+  },
+  {
+    "question": "O AI-5, de 1968, marcou:",
+    "options": ["O endurecimento da ditadura", "A volta das eleições diretas", "O fim da escravidão", "A independência"],
+    "answer": 0
+  },
+  {
+    "question": "As Diretas Já, movimento popular de 1984, defendia:",
+    "options": ["Eleições diretas para presidente", "Fim da escravidão", "Independência do Brasil", "Fim da monarquia"],
+    "answer": 0
+  },
+  {
+    "question": "A Constituição de 1988 ficou conhecida como:",
+    "options": ["Constituição Cidadã", "Constituição Imperial", "Constituição Republicana", "Constituição Militar"],
+    "answer": 0
+  },
+  {
+    "question": "Qual país europeu colonizou o Brasil?",
+    "options": ["Portugal", "Espanha", "Inglaterra", "França"],
+    "answer": 0
+  },
+  {
+    "question": "O ciclo do ouro no Brasil ocorreu principalmente em qual estado?",
+    "options": ["Minas Gerais", "Bahia", "São Paulo", "Rio Grande do Sul"],
+    "answer": 0
+  },
+  {
+    "question": "A Guerra dos Farrapos ocorreu em qual região?",
+    "options": ["Sul", "Norte", "Nordeste", "Centro-Oeste"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o líder da Coluna Prestes?",
+    "options": ["Luís Carlos Prestes", "Getúlio Vargas", "João Cândido", "Dom Pedro II"],
+    "answer": 0
+  },
+  {
+    "question": "A abolição da escravidão no Brasil ocorreu em:",
+    "options": ["1888", "1822", "1930", "1964"],
+    "answer": 0
+  },
+  {
+    "question": "Quem governava o Brasil quando foi proclamada a República?",
+    "options": ["Dom Pedro II", "Dom Pedro I", "Princesa Isabel", "Getúlio Vargas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual foi a principal justificativa para a vinda da corte portuguesa ao Brasil em 1808?",
+    "options": ["Fuga das tropas napoleônicas", "Fim da escravidão", "Busca por ouro", "Exploração da Amazônia"],
+    "answer": 0
+  },
+  {
+    "question": "A Revolta da Vacina ocorreu em qual cidade?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o presidente brasileiro que se suicidou em 1954?",
+    "options": ["Getúlio Vargas", "Juscelino Kubitschek", "João Goulart", "Tancredo Neves"],
+    "answer": 0
+  },
+  {
+    "question": "O governo de Juscelino Kubitschek ficou marcado pelo lema:",
+    "options": ["50 anos em 5", "Ordem e progresso", "Independência ou morte", "Pão e circo"],
+    "answer": 0
+  },
+  {
+    "question": "A Guerra do Paraguai ocorreu no século:",
+    "options": ["XIX", "XVIII", "XX", "XVII"],
+    "answer": 0
+  },
+  {
+    "question": "A Revolta dos Malês foi liderada por:",
+    "options": ["Escravos muçulmanos", "Índios tupis", "Soldados portugueses", "Fazendeiros"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o responsável pela vinda da Missão Artística Francesa ao Brasil?",
+    "options": ["Dom João VI", "Dom Pedro II", "Getúlio Vargas", "Juscelino Kubitschek"],
+    "answer": 0
+  },
+  {
+    "question": "A primeira Constituição brasileira foi promulgada em:",
+    "options": ["1824", "1889", "1934", "1988"],
+    "answer": 0
+  },
+  {
+    "question": "O golpe militar que instituiu a ditadura em 1964 depôs o presidente:",
+    "options": ["João Goulart", "Getúlio Vargas", "Tancredo Neves", "Deodoro da Fonseca"],
+    "answer": 0
+  },
+  {
+    "question": "Qual foi o primeiro governador-geral do Brasil?",
+    "options": ["Tomé de Souza", "Duarte da Costa", "Mem de Sá", "Pero Vaz de Caminha"],
+    "answer": 0
+  },
+  {
+    "question": "Quem proclamou a independência do Brasil?",
+    "options": ["Dom Pedro I", "Dom Pedro II", "José Bonifácio", "Tiradentes"],
+    "answer": 0
+  },
+  {
+    "question": "Em que ano Tancredo Neves foi eleito presidente, mas faleceu antes da posse?",
+    "options": ["1985", "1990", "1979", "2002"],
+    "answer": 0
+  },
+  {
+    "question": "Qual cidade se tornou capital do Brasil em 1763?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o principal articulador da independência do Brasil?",
+    "options": ["José Bonifácio", "Dom Pedro I", "Princesa Isabel", "Tiradentes"],
+    "answer": 0
+  },
+  {
+    "question": "O ciclo do café impulsionou a economia brasileira em qual século?",
+    "options": ["XIX", "XVIII", "XX", "XVII"],
+    "answer": 0
+  },
+  {
+    "question": "A Guerra de Canudos foi narrada por qual escritor?",
+    "options": ["Euclides da Cunha", "Machado de Assis", "José de Alencar", "Cecília Meireles"],
+    "answer": 0
+  },
+  {
+    "question": "A Revolta da Armada ocorreu em qual período da história brasileira?",
+    "options": ["Primeira República", "Colônia", "Império", "Ditadura Militar"],
+    "answer": 0
+  },
+  {
+    "question": "A Constituição de 1891 estabeleceu no Brasil o regime:",
+    "options": ["Republicano presidencialista", "Monárquico parlamentarista", "Ditatorial", "Militarista"],
+    "answer": 0
+  },
+  {
+    "question": "Quem governava o Brasil quando ocorreu a Guerra do Paraguai?",
+    "options": ["Dom Pedro II", "Dom Pedro I", "Deodoro da Fonseca", "Getúlio Vargas"],
+    "answer": 0
+  },
+  {
+    "question": "A bandeira do Brasil adotada em 1889 manteve como herança do Império:",
+    "options": ["As cores verde e amarela", "O brasão da monarquia", "O lema positivista", "A cor azul predominante"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o presidente que instituiu o Plano Real?",
+    "options": ["Itamar Franco", "Fernando Collor", "Lula", "Juscelino Kubitschek"],
+    "answer": 0
+  },
+  {
+    "question": "A redemocratização do Brasil ocorreu em:",
+    "options": ["1985", "1970", "1994", "1964"],
+    "answer": 0
+  },
+  {
+    "question": "Quem foi o primeiro presidente eleito pelo voto direto após a ditadura militar?",
+    "options": ["Fernando Collor", "José Sarney", "Itamar Franco", "Fernando Henrique Cardoso"],
+    "answer": 0
+  }
+]
+
+  ],
+  "Instituições": [
+   [
+  {
+    "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil?",
+    "options": ["Embrapa", "IBGE", "INCRA", "MAPA"],
+    "answer": 0
+  },
+  {
+    "question": "O Ministério da Agricultura, Pecuária e Abastecimento é conhecido pela sigla:",
+    "options": ["MAPA", "MEC", "MS", "MMA"],
+    "answer": 0
+  },
+  {
+    "question": "Qual instituição coleta e divulga dados estatísticos oficiais no Brasil?",
+    "options": ["IBGE", "Embrapa", "INCRA", "CNA"],
+    "answer": 0
+  },
+  {
+    "question": "O INCRA é responsável principalmente por:",
+    "options": ["Reforma agrária e colonização", "Educação básica", "Polícia rodoviária", "Controle sanitário"],
+    "answer": 0
+  },
+  {
+    "question": "A CNA representa nacionalmente os:",
+    "options": ["Produtores rurais", "Professores", "Trabalhadores urbanos", "Estudantes"],
+    "answer": 0
+  },
+  {
+    "question": "Qual órgão é responsável pela fiscalização ambiental no Brasil?",
+    "options": ["IBAMA", "MAPA", "Embrapa", "INCRA"],
+    "answer": 0
+  },
+  {
+    "question": "Qual programa do governo federal concede crédito ao pequeno agricultor?",
+    "options": ["PRONAF", "FIES", "PROUNI", "BNDES Educação"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é o órgão responsável pela vigilância sanitária de produtos de origem animal?",
+    "options": ["SIF", "INMETRO", "IBGE", "FUNAI"],
+    "answer": 0
+  },
+  {
+    "question": "O Censo Agropecuário é realizado periodicamente por qual instituição?",
+    "options": ["IBGE", "Embrapa", "MAPA", "INCRA"],
+    "answer": 0
+  },
+  {
+    "question": "A EMBRAPA foi criada em que década?",
+    "options": ["1970", "1950", "1990", "2000"],
+    "answer": 0
+  },
+  {
+    "question": "O que significa a sigla CONAB?",
+    "options": ["Companhia Nacional de Abastecimento", "Conselho Nacional de Agricultura Básica", "Controle Nacional de Alimentos e Bebidas", "Coordenação de Agronegócio Brasileiro"],
+    "answer": 0
+  },
+  {
+    "question": "O Estatuto da Terra, de 1964, regulamenta principalmente:",
+    "options": ["Questões fundiárias e uso da terra", "Educação superior", "Previdência social", "Política cambial"],
+    "answer": 0
+  },
+  {
+    "question": "Qual instituição é vinculada ao MAPA e coordena pesquisas científicas?",
+    "options": ["Embrapa", "INMETRO", "Fiocruz", "IBAMA"],
+    "answer": 0
+  },
+  {
+    "question": "Qual órgão define o calendário oficial de vacinação de bovinos contra aftosa?",
+    "options": ["MAPA", "IBGE", "INCRA", "CNA"],
+    "answer": 0
+  },
+  {
+    "question": "A CONAB atua principalmente em:",
+    "options": ["Gestão de estoques e abastecimento", "Educação básica", "Produção de estatísticas econômicas", "Controle ambiental"],
+    "answer": 0
+  },
+  {
+    "question": "A FUNAI é responsável pela:",
+    "options": ["Proteção dos povos indígenas", "Estatística nacional", "Produção agrícola", "Controle de exportações"],
+    "answer": 0
+  },
+  {
+    "question": "O IBAMA foi criado para atuar na área de:",
+    "options": ["Proteção ambiental", "Educação superior", "Produção leiteira", "Reforma agrária"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a função principal do BNDES no setor agropecuário?",
+    "options": ["Financiamento de investimentos", "Fiscalização ambiental", "Pesquisa científica", "Produção estatística"],
+    "answer": 0
+  },
+  {
+    "question": "O Código Florestal Brasileiro estabelece regras para:",
+    "options": ["Uso e conservação das florestas", "Produção de grãos", "Educação básica", "Controle de preços"],
+    "answer": 0
+  },
+  {
+    "question": "Qual instituição pública brasileira é referência mundial em agricultura tropical?",
+    "options": ["Embrapa", "INCRA", "CNA", "SENAR"],
+    "answer": 0
+  },
+  {
+    "question": "O Serviço Nacional de Aprendizagem Rural (SENAR) tem como objetivo:",
+    "options": ["Capacitar trabalhadores rurais", "Produzir estatísticas", "Gerir crédito bancário", "Controlar exportações"],
+    "answer": 0
+  },
+  {
+    "question": "Qual ministério brasileiro é responsável pelo meio ambiente?",
+    "options": ["MMA", "MAPA", "MEC", "MS"],
+    "answer": 0
+  },
+  {
+    "question": "O INMET é responsável por:",
+    "options": ["Meteorologia e clima", "Educação agrícola", "Gestão fundiária", "Policiamento rural"],
+    "answer": 0
+  },
+  {
+    "question": "Qual documento é emitido pelo INCRA para assentados da reforma agrária?",
+    "options": ["Título de domínio", "Carteira de trabalho", "Registro de exportação", "Licença ambiental"],
+    "answer": 0
+  },
+  {
+    "question": "O Selo Arte foi criado para:",
+    "options": ["Valorizar alimentos artesanais de origem animal", "Certificar escolas rurais", "Controlar estatísticas agrícolas", "Identificar produtos transgênicos"],
+    "answer": 0
+  },
+  {
+    "question": "O Sislegis é utilizado para:",
+    "options": ["Consulta de legislação agrícola", "Armazenamento de sementes", "Produção de mel", "Controle de irrigação"],
+    "answer": 0
+  },
+  {
+    "question": "Qual lei brasileira instituiu a Política Nacional de Meio Ambiente?",
+    "options": ["Lei 6.938/81", "Lei Áurea", "Constituição de 1824", "Lei do Ventre Livre"],
+    "answer": 0
+  },
+  {
+    "question": "O Proálcool, criado em 1975, tinha como objetivo:",
+    "options": ["Estimular a produção de etanol", "Expandir o cultivo de arroz", "Controlar preços do café", "Eliminar a pecuária extensiva"],
+    "answer": 0
+  },
+  {
+    "question": "O IBGE realiza qual levantamento fundamental para o setor rural?",
+    "options": ["Censo Agropecuário", "Cadastro de Pessoas Físicas", "Censo Escolar", "Pesquisa de Orçamentos Familiares"],
+    "answer": 0
+  },
+  {
+    "question": "A Organização das Nações Unidas para Agricultura e Alimentação é conhecida como:",
+    "options": ["FAO", "OMS", "ONU", "OIT"],
+    "answer": 0
+  },
+  {
+    "question": "Qual programa distribui alimentos da agricultura familiar a escolas públicas?",
+    "options": ["PNAE", "PROUNI", "FIES", "SUS"],
+    "answer": 0
+  },
+  {
+    "question": "O CAR (Cadastro Ambiental Rural) serve para:",
+    "options": ["Registrar informações ambientais de imóveis rurais", "Emitir CPF", "Controlar importações", "Gerir escolas técnicas"],
+    "answer": 0
+  },
+  {
+    "question": "A EMBRAPA atua em quantos centros de pesquisa aproximadamente?",
+    "options": ["Mais de 40", "5", "15", "10"],
+    "answer": 0
+  },
+  {
+    "question": "A lei que criou o Estatuto da Juventude Rural visa:",
+    "options": ["Incentivar jovens no campo", "Controlar preços agrícolas", "Estatizar fazendas", "Eliminar cooperativas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual instituição é responsável por regular os defensivos agrícolas?",
+    "options": ["MAPA", "IBGE", "CNA", "INCRA"],
+    "answer": 0
+  },
+  {
+    "question": "O conceito de segurança alimentar foi adotado na Constituição de:",
+    "options": ["1988", "1891", "1937", "1824"],
+    "answer": 0
+  },
+  {
+    "question": "O Programa de Aquisição de Alimentos (PAA) beneficia principalmente:",
+    "options": ["Agricultores familiares", "Grandes empresas", "Indústrias têxteis", "Instituições militares"],
+    "answer": 0
+  },
+  {
+    "question": "A FUNASA atua na área de:",
+    "options": ["Saúde pública em comunidades rurais e indígenas", "Produção agrícola", "Educação rural", "Exportações"],
+    "answer": 0
+  },
+  {
+    "question": "O Sistema Nacional de Crédito Rural foi criado para:",
+    "options": ["Financiar a produção agropecuária", "Controlar importações", "Produzir estatísticas", "Gerir escolas agrícolas"],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a função do CONAMA?",
+    "options": ["Deliberar sobre normas ambientais", "Produzir leite", "Gerir escolas", "Controlar exportações"],
+    "answer": 0
+  },
+  {
+    "question": "O SIF encontrado em rótulos de carnes significa:",
+    "options": ["Serviço de Inspeção Federal", "Sistema Internacional de Frigoríficos", "Selo de Importação Federal", "Serviço de Informação Fiscal"],
+    "answer": 0
+  },
+  {
+    "question": "O Código Civil brasileiro regula também as atividades de:",
+    "options": ["Propriedade e contratos rurais", "Estatística agrícola", "Produção de sementes", "Registro de transgênicos"],
+    "answer": 0
+  },
+  {
+    "question": "O Plano Safra é lançado anualmente com objetivo de:",
+    "options": ["Apoiar crédito e seguro agrícola", "Aumentar impostos", "Regular eleições", "Produzir estatísticas escolares"],
+    "answer": 0
+  },
+  {
+    "question": "A EMBRAPA é vinculada a qual ministério?",
+    "options": ["MAPA", "MMA", "MS", "MEC"],
+    "answer": 0
+  },
+  {
+    "question": "O objetivo do PRONAF é apoiar:",
+    "options": ["Agricultores familiares", "Exportadores de petróleo", "Estudantes urbanos", "Trabalhadores da indústria"],
+    "answer": 0
+  },
+  {
+    "question": "A OIT é uma instituição internacional que trata de:",
+    "options": ["Questões trabalhistas", "Pesquisa agrícola", "Política monetária", "Educação"],
+    "answer": 0
+  },
+  {
+    "question": "O CAR é obrigatório para imóveis:",
+    "options": ["Rurais", "Urbanos", "Escolares", "Industriais"],
+    "answer": 0
+  },
+  {
+    "question": "A EMBRAPA foi fundamental no desenvolvimento agrícola do:",
+    "options": ["Cerrado brasileiro", "Pantanal", "Amazônia", "Litoral nordestino"],
+    "answer": 0
+  },
+  {
+    "question": "O INCRA é responsável pela criação de:",
+    "options": ["Projetos de assentamento", "Escolas urbanas", "Hospitais", "Universidades"],
+    "answer": 0
+  },
+  {
+    "question": "O Conselho Nacional de Educação é vinculado a qual ministério?",
+    "options": ["MEC", "MAPA", "MS", "MMA"],
+    "answer": 0
+  },
+  {
+    "question": "O Plano Real foi implementado no governo de:",
+    "options": ["Itamar Franco", "Fernando Henrique Cardoso", "Lula", "Dilma Rousseff"],
+    "answer": 0
+  }
+]
+
+  ]
+}

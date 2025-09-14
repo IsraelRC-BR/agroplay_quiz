@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>AgroPlay com a FAEMG Jovem</title>
 
-  <!-- Fonte estilizada (mantida) -->
+  <!-- Fonte -->
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
-  <!-- CSS externo (mantido) -->
+  <!-- CSS -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -17,38 +17,36 @@
   <div id="start-screen" class="screen active">
     <h1>AgroPlay com a FAEMG Jovem</h1>
     <p class="creditos">
-      Desenvolvido por estudantes da Central de Ensino e Desenvolvimento Agrário de Florestal (CEDAF) / 
-      Universidade Federal de Viçosa - Campus Florestal (UFV CAF) juntamente com o Sindicato Rural de Pará de Minas (SRPM) / 
+      Desenvolvido por estudantes da Central de Ensino e Desenvolvimento Agrário de Florestal (CEDAF) /
+      Universidade Federal de Viçosa - Campus Florestal (UFV CAF) juntamente com o Sindicato Rural de Pará de Minas (SRPM) /
       Sistema FAEMG Senar-MG.
     </p>
 
-    <!-- Entrada de nome e seleção de categoria -->
+    <!-- Nome do jogador -->
+    <label for="player-name">Nome do jogador:</label><br>
+    <input id="player-name" type="text" placeholder="Digite seu nome">
+
+    <!-- Seleção de categoria -->
+    <label for="tema-select">Escolha a categoria:</label><br>
+    <select id="tema-select">
+      <option value="">-- carregando categorias --</option>
+    </select>
+
+    <!-- Botões -->
     <div>
-      <label for="player-name">Nome do jogador:</label><br/>
-      <input id="player-name" type="text" placeholder="Digite seu nome" />
-    </div>
-     <div>
-      <label for="tema-select">Escolha a categoria:</label><br/>
-      <select id="tema-select">
-        <option value="">-- Selecione a categoria --</option>
-      </select>
+      <button id="start-game-btn">🎮 Iniciar Novo Jogo</button>
+      <button id="ranking-btn">🏆 Ver Ranking</button>
+      <button id="export-questions-btn">📥 Exportar Banco de Perguntas (CSV)</button>
     </div>
 
+    <!-- Logos -->
     <div class="logos">
       <img src="logo-cedaf.png" alt="CEDAF">
       <img src="logo-ufv.png" alt="UFV CAF">
       <img src="logo-srpm.png" alt="SRPM">
       <img src="logo-faemg.png" alt="FAEMG">
       <img src="logo-raizes.png" alt="Equipe Raízes">
-      
     </div>
- 
-
-    <button id="start-game-btn">🎮 Iniciar Novo Jogo</button>
-    <button id="ranking-btn">🏆 Ver Ranking</button>
-    <button id="export-questions-btn">📥 Exportar Banco de Perguntas (CSV)</button>
-
-   
   </div>
 
   <!-- Tela de perguntas -->
@@ -57,9 +55,7 @@
     <div class="question">Aqui vai a pergunta...</div>
     <div class="options"></div>
 
-    <div style="margin-top:20px;">
-      <button id="btn-voltar">🔙 Sair (voltar ao menu)</button>
-    </div>
+    <button id="btn-voltar">🔙 Sair (voltar ao menu)</button>
 
     <div class="logos">
       <img src="logo-cedaf.png" alt="CEDAF">
@@ -77,7 +73,7 @@
       <tr><th>Jogador</th><th>Pontos</th><th>Categoria</th><th>Data</th></tr>
     </table>
 
-    <div style="margin-top:16px;">
+    <div>
       <button id="back-menu-btn">🔙 Voltar ao Menu</button>
       <button id="clear-ranking-btn">🧹 Limpar Ranking</button>
     </div>
@@ -91,7 +87,7 @@
     </div>
   </div>
 
-  <!-- Script: usar caminho direto game.js (arquivo na raiz do projeto) -->
+  <!-- Script -->
   <script src="js/game.js"></script>
 </body>
 </html>

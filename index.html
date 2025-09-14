@@ -21,13 +21,19 @@
       Universidade Federal de Viçosa - Campus Florestal (UFV-CAF) juntamente com o Sindicato Rural de Pará de Minas (SRPM) / 
       Sistema FAEMG Senar-MG.
     </p>
+  
+    <!-- Campo para inserir o nome do jogador -->
     <label for="player-name">Digite seu nome:</label>
     <input id="player-name" type="text" placeholder="Seu nome" autocomplete="name" />
 
-    <!-- Seletor de tema -->
-    <label for="tema-select">Escolha um tema:</label>
-    <select id="tema-select"></select>
+    <br/>
 
+    <label for="category">Selecione um tema:</label>
+    <select id="category">
+      <!-- opções serão preenchidas pelo game.js -->
+    </select>
+
+    <br/>
     <div class="logos">
       <img src="logo-cedaf.png" alt="CEDAF">
       <img src="logo-ufv.png" alt="UFV CAF">
@@ -35,11 +41,12 @@
       <img src="logo-faemg.png" alt="FAEMG">
       <img src="logo-raizes.png" alt="Equipe Raízes">
     </div>
+  
     <button id="start-game-btn">🎮 Iniciar Novo Jogo</button>
     <button id="ranking-btn">🏆 Ver Ranking</button>
     <button id="export-questions-btn">📥 Exportar Banco de Perguntas</button>
   </div>
-
+  
   <!-- Tela de perguntas -->
   <div id="question-screen" class="screen">
     <h2 id="question-title">Pergunta</h2>

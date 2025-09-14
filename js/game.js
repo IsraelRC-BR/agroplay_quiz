@@ -4,48 +4,52 @@ let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 
-// Carregar perguntas do JSON
-async function loadQuestions() {
+async function loadQuestionsFromJSON() {
   try {
     const response = await fetch("perguntas.json");
+    if (!response.ok) throw new Error("Erro ao carregar perguntas.json");
     questionsData = await response.json();
+    console.log("Categorias carregadas:", Object.keys(questionsData));
 
-    console.log("Perguntas carregadas:", questionsData);
-    populateCategories();
+    const select = document.getElementById("tema-select");
+    if (!select) {
+      console.error("Elemento tema-select não encontrado no HTML");
+      return;
+    }
+    select.innerHTML = "";
+
+    // Adiciona opção padrão
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.textContent = "-- Selecione um tema --";
+    select.appendChild(placeholder);
+
+    // Preenche categorias
+    Object.keys(questionsData).forEach(category => {
+      const option = document.createElement("option");
+      option.value = category;
+      option.textContent = category;
+      select.appendChild(option);
+    });
+
   } catch (error) {
     console.error("Erro ao carregar perguntas:", error);
   }
 }
 
-// Popular seletor de categorias
-function populateCategories() {
-  const categorySelect = document.getElementById("category");
-  categorySelect.innerHTML = "";
-
-  Object.keys(questionsData).forEach((category) => {
-    const option = document.createElement("option");
-    option.value = category;
-    option.textContent = category;
-    categorySelect.appendChild(option);
-  });
-}
-
-// Iniciar jogo
 function startGame() {
-  const categorySelect = document.getElementById("category");
-  const val = categorySelect.value;
-
-  if (!val || !questionsData[val]) {
-    alert("Selecione um tema válido!");
+  const select = document.getElementById("tema-select");
+  if (!select) {
+    alert("Seletor de tema não encontrado");
     return;
   }
-
+  const val = select.value;
+  if (!val) {
+    alert("Selecione um tema antes de iniciar");
+    return;
+  }
   currentCategory = val;
-  let allQuestions = questionsData[currentCategory] || [];
-
-  // Sorteio de 30 perguntas aleatórias
-  currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 30);
-
+  currentQuestions = questionsData[currentCategory] || [];
   currentQuestionIndex = 0;
   score = 0;
 
@@ -56,7 +60,6 @@ function startGame() {
   showQuestion();
 }
 
-// Exibir pergunta
 function showQuestion() {
   if (currentQuestionIndex >= currentQuestions.length) {
     return endGame();
@@ -67,44 +70,76 @@ function showQuestion() {
 
   const questionEl = document.querySelector("#question-screen .question");
   if (questionEl) {
-    questionEl.textContent = `(${currentQuestionIndex + 1}/${currentQuestions.length}) ${q.question || "Pergunta sem texto"}`;
+    questionEl.textContent = q.question || "Pergunta sem texto";
+  } else {
+    console.error("Elemento .question não encontrado no HTML");
   }
 
-  const optionsEl = document.querySelector("#question-screen .options");
-  optionsEl.innerHTML = "";
+  const optionsContainer = document.querySelector("#question-screen .options");
+  if (!optionsContainer) {
+    console.error("Elemento .options não encontrado no HTML");
+    return;
+  }
+  optionsContainer.innerHTML = "";
 
-  q.options.forEach((opt, i) => {
-    const btn = document.createElement("button");
-    btn.textContent = opt;
-    btn.addEventListener("click", () => checkAnswer(i));
-    optionsEl.appendChild(btn);
-  });
+  if (Array.isArray(q.options) && q.options.length > 0) {
+    q.options.forEach((opt, i) => {
+      const btn = document.createElement("button");
+      btn.textContent = opt;
+      btn.addEventListener("click", () => checkAnswer(i));
+      optionsContainer.appendChild(btn);
+    });
+  } else {
+    optionsContainer.innerHTML = "<p>Sem opções disponíveis</p>";
+  }
 }
 
-// Verificar resposta
-function checkAnswer(choice) {
-  const q = currentQuestions[currentQuestionIndex];
-  if (choice === q.answer) {
-    score += 100 / currentQuestions.length;
+function checkAnswer(i) {
+  if (currentQuestions[currentQuestionIndex].answer === i) {
+    score++;
   }
   currentQuestionIndex++;
   showQuestion();
 }
 
-// Encerrar jogo
 function endGame() {
   document.getElementById("question-screen").classList.remove("active");
-  document.getElementById("end-screen").classList.add("active");
-
-  const resultEl = document.querySelector("#end-screen .result");
-  resultEl.textContent = `Você fez ${score.toFixed(2)} pontos!`;
+  document.getElementById("ranking-screen").classList.add("active");
+  const table = document.querySelector("#ranking-screen table");
+  if (table) {
+    table.innerHTML = "<tr><th>Jogador</th><th>Pontos</th></tr>";
+    const row = document.createElement("tr");
+    row.innerHTML = `<td>Você</td><td>${score}</td>`;
+    table.appendChild(row);
+  }
 }
 
-// Reiniciar jogo
-function restartGame() {
-  document.getElementById("end-screen").classList.remove("active");
-  document.getElementById("start-screen").classList.add("active");
+// Botão voltar dentro do quiz
+function setupVoltarButton() {
+  const btnVoltar = document.getElementById("btn-voltar");
+  if (btnVoltar) {
+    btnVoltar.addEventListener("click", () => {
+      const confirmar = confirm("Deseja realmente sair do jogo e voltar ao início?");
+      if (confirmar) {
+        document.getElementById("question-screen").classList.remove("active");
+        document.getElementById("start-screen").classList.add("active");
+        currentQuestionIndex = 0;
+        currentCategory = null;
+      }
+    });
+  }
 }
 
-// Carregar perguntas ao iniciar
-window.onload = loadQuestions;
+// Inicialização
+document.addEventListener("DOMContentLoaded", () => {
+  loadQuestionsFromJSON();
+
+  const startBtn = document.getElementById("start-game-btn");
+  if (startBtn) {
+    startBtn.addEventListener("click", startGame);
+  } else {
+    console.error("Botão start-game-btn não encontrado");
+  }
+
+  setupVoltarButton();
+});

@@ -1,0 +1,2762 @@
+{
+  "Agricultura": [
+    {
+      "question": "Qual é a principal cultura agrícola do Brasil?",
+      "options": [
+        "Soja",
+        "Café",
+        "Milho",
+        "Cana-de-açúcar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que caracteriza a rotação de culturas?",
+      "options": [
+        "Plantio contínuo de uma única cultura",
+        "Alternância de culturas na mesma área",
+        "Uso de defensivos",
+        "Irrigação"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é o maior produtor mundial de café?",
+      "options": [
+        "Brasil",
+        "Colômbia",
+        "Etiópia",
+        "Vietnã"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A adubação verde é feita com:",
+      "options": [
+        "Leguminosas",
+        "Gramíneas",
+        "Plantas ornamentais",
+        "Frutíferas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a função da calagem no solo?",
+      "options": [
+        "Diminuir a acidez",
+        "Aumentar a acidez",
+        "Eliminar pragas",
+        "Aumentar a salinidade"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 6: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 7: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 8: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 9: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 10: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 11: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 12: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 13: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 14: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 15: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 16: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 17: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 18: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 19: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 20: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 21: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 22: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 23: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 24: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 25: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 26: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 27: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 28: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 29: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 30: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 31: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 32: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 33: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 34: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 35: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 36: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 37: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 38: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 39: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 40: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 41: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 42: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 43: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 44: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 45: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 46: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 47: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 48: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agricultura número 49: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 50: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 51: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agricultura número 52: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agricultura número 53: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 54: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agricultura número 55: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    }
+  ],
+  "Pecuária": [
+    {
+      "question": "Qual é a principal raça bovina de corte no Brasil?",
+      "options": [
+        "Nelore",
+        "Holandesa",
+        "Jersey",
+        "Angus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A produção leiteira é mais associada a qual raça?",
+      "options": [
+        "Nelore",
+        "Holandesa",
+        "Gir",
+        "Simental"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa confinamento de gado?",
+      "options": [
+        "Pasto rotacionado",
+        "Criação intensiva em área restrita",
+        "Uso de suplementação mineral",
+        "Livre pastoreio"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O Brasil é líder mundial em exportação de:",
+      "options": [
+        "Leite",
+        "Carne bovina",
+        "Ovos",
+        "Suínos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual região brasileira mais concentra bovinos?",
+      "options": [
+        "Sudeste",
+        "Sul",
+        "Centro-Oeste",
+        "Norte"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 6: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 7: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 8: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 9: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 10: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 11: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 12: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 13: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 14: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 15: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 16: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 17: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 18: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 19: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 20: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 21: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 22: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 23: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 24: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 25: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 26: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 27: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 28: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 29: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 30: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 31: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 32: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 33: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 34: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 35: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 36: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 37: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 38: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 39: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 40: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 41: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 42: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 43: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 44: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 45: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 46: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 47: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 48: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 49: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 50: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Pecuária número 51: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 52: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Pecuária número 53: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Pecuária número 54: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Pecuária número 55: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    }
+  ],
+  "Meio Ambiente e Sustentabilidade": [
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 1: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 2: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 3: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 4: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 5: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 6: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 7: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 8: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 9: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 10: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 11: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 12: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 13: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 14: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 15: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 16: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 17: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 18: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 19: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 20: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 21: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 22: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 23: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 24: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 25: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 26: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 27: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 28: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 29: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 30: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 31: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 32: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 33: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 34: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 35: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 36: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 37: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 38: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 39: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 40: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 41: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 42: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 43: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 44: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 45: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 46: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 47: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 48: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 49: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 50: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 51: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 52: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 53: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 54: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Meio Ambiente e Sustentabilidade número 55: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    }
+  ],
+  "Agroindústria e Tecnologia": [
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 1: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 2: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 3: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 4: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 5: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 6: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 7: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 8: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 9: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 10: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 11: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 12: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 13: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 14: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 15: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 16: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 17: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 18: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 19: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 20: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 21: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 22: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 23: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 24: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 25: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 26: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 27: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 28: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 29: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 30: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 31: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 32: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 33: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 34: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 35: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 36: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 37: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 38: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 39: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 40: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 41: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 42: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 43: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 44: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 45: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 46: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 47: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 48: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 49: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 50: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 51: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 52: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 53: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 54: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de Agroindústria e Tecnologia número 55: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    }
+  ],
+  "História, Políticas e Instituições": [
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 1: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 2: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 3: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 4: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 5: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 6: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 7: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 8: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 9: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 10: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 11: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 12: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 13: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 14: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 15: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 16: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 17: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 18: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 19: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 20: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 21: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 22: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 23: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 24: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 25: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 26: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 27: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 28: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 29: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 30: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 31: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 32: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 33: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 34: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 35: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 36: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 37: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 38: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 39: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 40: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 41: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 42: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 43: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 44: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 45: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 46: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 47: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 48: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 49: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 50: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 51: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 52: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 53: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 54: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pergunta de História, Políticas e Instituições número 55: qual é a alternativa correta?",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ],
+      "answer": 3
+    }
+  ]
+}

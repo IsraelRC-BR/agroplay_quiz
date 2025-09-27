@@ -212,7 +212,7 @@
   },
   {
     "question": "O que caracteriza a agricultura sustentável?",
-    "options": "Exaustão do solo", ["Uso racional dos recursos naturais",  "Excesso de agrotóxicos", "Queimadas frequentes"],
+    "options": ["Exaustão do solo", "Uso racional dos recursos naturais",  "Excesso de agrotóxicos", "Queimadas frequentes"],
     "answer": 1
   },
   {

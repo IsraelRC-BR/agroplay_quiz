@@ -254,8 +254,8 @@
   "Pecuária": [
     {
     "question": "Qual estado brasileiro possui o maior rebanho bovino?",
-    "options": ["Mato Grosso", "São Paulo", "Minas Gerais", "Bahia"],
-    "answer": 0
+    "options": ["São Paulo", "Mato Grosso", "Minas Gerais", "Bahia"],
+    "answer": 1
   },
   {
     "question": "Qual produto é derivado da pecuária leiteira?",
@@ -269,23 +269,23 @@
   },
   {
     "question": "Na pecuária leiteira, a raça mais difundida no Brasil é:",
-    "options": ["Holandesa", "Nelore", "Angus", "Gir"],
-    "answer": 0
+    "options": ["Nelore", "Angus", "Holandesa", "Gir"],
+    "answer": 2
   },
   {
     "question": "Qual alimento é usado principalmente como volumoso na nutrição de bovinos?",
-    "options": ["Silagem", "Farelo de soja", "Sal mineral", "Milho moído"],
-    "answer": 0
+    "options": ["Farelo de soja", "Silagem",  "Sal mineral", "Milho moído"],
+    "answer": 1
   },
   {
     "question": "O melhoramento genético de bovinos pode ser feito por meio de:",
-    "options": ["Inseminação artificial", "Vacinação", "Adubação", "Corte de chifres"],
-    "answer": 0
+    "options": ["Vacinação", "Adubação", "Inseminação artificial",  "Corte de chifres"],
+    "answer": 2
   },
   {
     "question": "Qual é a principal finalidade da pecuária de corte?",
-    "options": ["Produção de carne", "Produção de leite", "Produção de ovos", "Produção de lã"],
-    "answer": 0
+    "options": ["Produção de leite", "Produção de ovos", "Produção de carne",  "Produção de lã"],
+    "answer": 2
   },
   {
     "question": "A mastite é uma doença que afeta qual sistema das vacas?",
@@ -294,8 +294,8 @@
   },
   {
     "question": "Qual prática reduz a degradação de pastagens?",
-    "options": ["Pastejo rotacionado", "Superpastejo", "Queimada", "Excesso de animais"],
-    "answer": 0
+    "options": ["Superpastejo", "Queimada", "Pastejo rotacionado",  "Excesso de animais"],
+    "answer": 2
   },
   {
     "question": "A principal proteína fornecida pelo leite é:",
@@ -304,8 +304,8 @@
   },
   {
     "question": "Qual suplemento é usado para corrigir deficiências minerais em bovinos?",
-    "options": ["Sal mineral", "Ração concentrada", "Silagem", "Água"],
-    "answer": 0
+    "options": ["Ração concentrada", "Sal mineral", "Silagem", "Água"],
+    "answer": 1
   },
   {
     "question": "A inseminação artificial ajuda a:",
@@ -314,13 +314,13 @@
   },
   {
     "question": "Qual espécie animal é explorada na avicultura?",
-    "options": ["Aves", "Bovinos", "Caprinos", "Suínos"],
-    "answer": 0
+    "options": ["Bovinos", "Caprinos", "Aves", "Suínos"],
+    "answer": 2
   },
   {
     "question": "O suíno é criado principalmente para produção de:",
-    "options": ["Carne suína", "Leite", "Lã", "Couro fino"],
-    "answer": 0
+    "options": ["Leite", "Lã", "Carne suína", "Couro fino"],
+    "answer": 2
   },
   {
     "question": "A apicultura refere-se à criação de:",
@@ -334,18 +334,18 @@
   },
   {
     "question": "Qual é a raça de bovinos especializada em carne de alta qualidade?",
-    "options": ["Angus", "Holandesa", "Jersey", "Gir"],
-    "answer": 0
+    "options": ["Holandesa", "Jersey", "Gir" , "Angus"],
+    "answer": 3
   },
   {
     "question": "O bem-estar animal está relacionado a:",
-    "options": ["Condições adequadas de criação", "Excesso de confinamento", "Falta de água", "Manejo agressivo"],
-    "answer": 0
+    "options": ["Excesso de confinamento", "Condições adequadas de criação", "Falta de água", "Manejo agressivo"],
+    "answer": 1
   },
   {
     "question": "Qual produto é obtido da ovinocultura?",
-    "options": ["Lã", "Trigo", "Milho", "Arroz"],
-    "answer": 0
+    "options": ["Trigo", "Milho", "Lã",  "Arroz"],
+    "answer": 2
   },
   {
     "question": "A piscicultura é a criação de:",
@@ -354,8 +354,8 @@
   },
   {
     "question": "O frango de corte é abatido geralmente com quantos dias de vida?",
-    "options": ["42 dias", "10 dias", "120 dias", "200 dias"],
-    "answer": 0
+    "options": ["10 dias", "42 dias", "120 dias", "200 dias"],
+    "answer": 1
   },
   {
     "question": "Qual estado brasileiro é destaque na produção de frango?",
@@ -364,13 +364,13 @@
   },
   {
     "question": "Na criação de bovinos, a sigla GTA significa:",
-    "options": ["Guia de Trânsito Animal", "Grupo Técnico Agrícola", "Gestão de Terras Agrícolas", "Grande Taxa Alimentar"],
-    "answer": 0
+    "options": ["Grupo Técnico Agrícola", "Gestão de Terras Agrícolas", "Guia de Trânsito Animal", "Grande Taxa Alimentar"],
+    "answer": 2
   },
   {
     "question": "O principal subproduto do couro bovino é:",
-    "options": ["Calçados", "Grãos", "Carne processada", "Adubo químico"],
-    "answer": 0
+    "options": ["Grãos", "Carne processada", "Calçados", "Adubo químico"],
+    "answer": 2
   },
   {
     "question": "Qual é a principal fonte de proteína na alimentação de aves?",
@@ -384,8 +384,8 @@
   },
   {
     "question": "A leptospirose é uma doença que pode afetar:",
-    "options": ["Animais e humanos", "Apenas aves", "Apenas peixes", "Somente abelhas"],
-    "answer": 0
+    "options": ["Apenas aves", "Apenas peixes", "Somente abelhas" , "Animais e humanos"],
+    "answer": 3
   },
   {
     "question": "Na pecuária leiteira, a ordenha deve ser realizada:",
@@ -394,13 +394,13 @@
   },
   {
     "question": "O zebu é um tipo de bovino adaptado ao:",
-    "options": ["Clima tropical", "Clima polar", "Clima desértico", "Clima frio"],
-    "answer": 0
+    "options": ["Clima polar", "Clima tropical", "Clima desértico", "Clima frio"],
+    "answer": 1
   },
   {
     "question": "O controle de parasitas internos em bovinos é feito com:",
-    "options": ["Vermífugos", "Antibióticos", "Vitaminas", "Vacinas de vírus inativados"],
-    "answer": 0
+    "options": ["Antibióticos", "Vermífugos",  "Vitaminas", "Vacinas de vírus inativados"],
+    "answer": 1
   },
   {
     "question": "A produção de leite orgânico exige:",
@@ -419,18 +419,18 @@
   },
   {
     "question": "O leite tipo A é caracterizado por:",
-    "options": ["Alto padrão de qualidade e higiene", "Baixa produção", "Maior quantidade de água", "Processamento artesanal"],
-    "answer": 0
+    "options": ["Baixa produção", "Maior quantidade de água", "Alto padrão de qualidade e higiene", "Processamento artesanal"],
+    "answer": 2
   },
   {
     "question": "Na criação de aves poedeiras, o produto principal é:",
-    "options": ["Ovo", "Carne", "Couro", "Mel"],
-    "answer": 0
+    "options": ["Carne", "Couro", "Ovo",  "Mel"],
+    "answer": 2
   },
   {
     "question": "Qual é a principal vantagem do cruzamento industrial em bovinos?",
-    "options": ["Melhor desempenho produtivo", "Maior risco de doenças", "Menor qualidade da carne", "Redução da fertilidade"],
-    "answer": 0
+    "options": ["Maior risco de doenças", "Menor qualidade da carne", "Melhor desempenho produtivo",  "Redução da fertilidade"],
+    "answer": 2
   },
   {
     "question": "O búfalo é criado principalmente para produção de:",
@@ -439,8 +439,8 @@
   },
   {
     "question": "A vacinação contra a febre aftosa é obrigatória em qual espécie?",
-    "options": ["Bovinos", "Aves", "Abelhas", "Peixes"],
-    "answer": 0
+    "options": ["Aves", "Abelhas", "Bovinos", "Peixes"],
+    "answer": 2
   },
   {
     "question": "Qual produto é obtido na caprinocultura?",
@@ -454,8 +454,8 @@
   },
   {
     "question": "O que caracteriza a pecuária intensiva?",
-    "options": ["Alto uso de tecnologia e insumos", "Baixa produtividade", "Uso de pasto nativo", "Produção sem manejo"],
-    "answer": 0
+    "options": ["Baixa produtividade", "Uso de pasto nativo", "Alto uso de tecnologia e insumos", "Produção sem manejo"],
+    "answer": 2
   },
   {
     "question": "A carne ovina é também conhecida como:",
@@ -469,38 +469,38 @@
   },
   {
     "question": "O leite em pó é produzido por meio de:",
-    "options": ["Desidratação do leite líquido", "Adição de água ao pó", "Fermentação", "Congelamento"],
-    "answer": 0
+    "options": ["Adição de água ao pó", "Desidratação do leite líquido", "Fermentação", "Congelamento"],
+    "answer": 1
   },
   {
     "question": "Na piscicultura, a tilápia é criada principalmente por:",
-    "options": ["Crescimento rápido", "Produção de lã", "Produção de ovos", "Produção de couro"],
-    "answer": 0
+    "options": ["Produção de lã", "Crescimento rápido",  "Produção de ovos", "Produção de couro"],
+    "answer": 1
   },
   {
     "question": "O controle de carrapatos em bovinos deve ser feito com:",
-    "options": ["Acaricidas", "Vermífugos", "Antibióticos", "Vitaminas"],
-    "answer": 0
+    "options": ["Vermífugos", "Antibióticos", "Acaricidas",  "Vitaminas"],
+    "answer": 2
   },
   {
     "question": "Qual é a principal característica da carne Angus?",
-    "options": ["Marmoreio e maciez", "Pouca gordura", "Maior dureza", "Ausência de sabor"],
-    "answer": 0
+    "options": ["Pouca gordura", "Maior dureza", "Marmoreio e maciez",  "Ausência de sabor"],
+    "answer": 2
   },
   {
     "question": "O leite longa vida é tratado por qual processo?",
-    "options": ["UHT – alta temperatura", "Congelamento", "Fermentação", "Pasteurização simples"],
-    "answer": 0
+    "options": ["Congelamento", "Fermentação", "Pasteurização simples" , "UHT – alta temperatura"],
+    "answer": 3
   },
   {
     "question": "Na produção de mel, o trabalho das abelhas operárias inclui:",
-    "options": ["Coleta de néctar", "Reprodução", "Corte de cera", "Postura de ovos"],
-    "answer": 0
+    "options": ["Reprodução", "Corte de cera", "Postura de ovos" , "Coleta de néctar"],
+    "answer": 3
   },
   {
     "question": "O couro bovino é utilizado principalmente pela indústria:",
-    "options": ["Calçadista", "Têxtil", "Automobilística", "Alimentícia"],
-    "answer": 0
+    "options": ["Têxtil", "Automobilística", "Alimentícia" , "Calçadista"],
+    "answer": 3
   },
   {
     "question": "O sistema semi-intensivo de criação animal combina:",

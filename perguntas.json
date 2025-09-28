@@ -518,18 +518,18 @@
   },
   {
     "question": "Quem comandava a esquadra que chegou ao Brasil em 1500?",
-    "options": ["Pedro Álvares Cabral", "Cristóvão Colombo", "Vasco da Gama", "Tomé de Souza"],
-    "answer": 0
+    "options": ["Cristóvão Colombo", "Pedro Álvares Cabral", "Vasco da Gama", "Tomé de Souza"],
+    "answer": 1
   },
   {
     "question": "Qual produto foi a base da economia colonial brasileira nos séculos XVI e XVII?",
-    "options": ["Cana-de-açúcar", "Café", "Algodão", "Soja"],
-    "answer": 0
+    "options": ["Café", "Algodão", "Cana-de-açúcar",  "Soja"],
+    "answer": 2
   },
   {
     "question": "Qual capital foi a primeira do Brasil colonial?",
-    "options": ["Salvador", "Rio de Janeiro", "São Paulo", "Brasília"],
-    "answer": 0
+    "options": ["Rio de Janeiro", "Salvador",  "São Paulo", "Brasília"],
+    "answer": 1
   },
   {
     "question": "A Inconfidência Mineira, movimento de 1789, ocorreu em qual capitania?",
@@ -543,13 +543,13 @@
   },
   {
     "question": "Em que ano foi proclamada a Independência do Brasil?",
-    "options": ["1822", "1808", "1889", "1930"],
-    "answer": 0
+    "options": ["1808", "1822",  "1889", "1930"],
+    "answer": 1
   },
   {
     "question": "O grito da Independência foi dado às margens de qual rio?",
-    "options": ["Rio Ipiranga", "Rio Amazonas", "Rio São Francisco", "Rio Paraná"],
-    "answer": 0
+    "options": ["Rio Amazonas", "Rio Ipiranga",  "Rio São Francisco", "Rio Paraná"],
+    "answer": 1
   },
   {
     "question": "Quem foi o primeiro imperador do Brasil?",
@@ -563,13 +563,13 @@
   },
   {
     "question": "Quem assinou a Lei Áurea?",
-    "options": ["Princesa Isabel", "Dom Pedro II", "Deodoro da Fonseca", "Getúlio Vargas"],
-    "answer": 0
+    "options": ["Dom Pedro II", "Deodoro da Fonseca", "Princesa Isabel", "Getúlio Vargas"],
+    "answer": 2
   },
   {
     "question": "Em que ano ocorreu a Proclamação da República?",
-    "options": ["1889", "1822", "1930", "1964"],
-    "answer": 0
+    "options": ["1822", "1889", "1930", "1964"],
+    "answer": 1
   },
   {
     "question": "Quem foi o primeiro presidente do Brasil?",
@@ -583,38 +583,38 @@
   },
   {
     "question": "A Revolta da Chibata, em 1910, foi liderada por:",
-    "options": ["João Cândido", "Tiradentes", "Getúlio Vargas", "Dom Pedro II"],
-    "answer": 0
+    "options": ["Tiradentes", "Getúlio Vargas", "João Cândido", "Dom Pedro II"],
+    "answer": 2
   },
   {
     "question": "A Revolução de 1930 levou quem ao poder?",
-    "options": ["Getúlio Vargas", "Deodoro da Fonseca", "Juscelino Kubitschek", "Dom Pedro II"],
-    "answer": 0
+    "options": ["Deodoro da Fonseca", "Juscelino Kubitschek", "Getúlio Vargas", "Dom Pedro II"],
+    "answer": 2
   },
   {
     "question": "O Estado Novo, de 1937 a 1945, foi um regime de:",
-    "options": ["Ditadura", "Monarquia", "República parlamentarista", "Democracia plena"],
-    "answer": 0
+    "options": ["Monarquia", "República parlamentarista", "Ditadura", "Democracia plena"],
+    "answer": 2
   },
   {
     "question": "Quem foi o presidente responsável pela construção de Brasília?",
-    "options": ["Juscelino Kubitschek", "Getúlio Vargas", "Fernando Collor", "João Goulart"],
-    "answer": 0
+    "options": ["Getúlio Vargas", "Fernando Collor", "Juscelino Kubitschek",  "João Goulart"],
+    "answer": 2
   },
   {
     "question": "Em que ano foi inaugurada a cidade de Brasília?",
-    "options": ["1960", "1950", "1970", "1980"],
-    "answer": 0
+    "options": ["1950", "1960",  "1970", "1980"],
+    "answer": 1
   },
   {
     "question": "A ditadura militar no Brasil teve início em:",
-    "options": ["1964", "1954", "1970", "1985"],
-    "answer": 0
+    "options": ["1954", "1964", "1970", "1985"],
+    "answer": 1
   },
   {
     "question": "Quem foi o presidente deposto pelo golpe de 1964?",
-    "options": ["João Goulart", "Getúlio Vargas", "Jânio Quadros", "Juscelino Kubitschek"],
-    "answer": 0
+    "options": ["Getúlio Vargas", "Jânio Quadros", "João Goulart",  "Juscelino Kubitschek"],
+    "answer": 2
   },
   {
     "question": "O AI-5, de 1968, marcou:",
@@ -628,48 +628,48 @@
   },
   {
     "question": "A Constituição de 1988 ficou conhecida como:",
-    "options": ["Constituição Cidadã", "Constituição Imperial", "Constituição Republicana", "Constituição Militar"],
-    "answer": 0
+    "options": ["Constituição Imperial", "Constituição Republicana", "Constituição Militar" , "Constituição Cidadã"],
+    "answer": 3
   },
   {
     "question": "Qual país europeu colonizou o Brasil?",
-    "options": ["Portugal", "Espanha", "Inglaterra", "França"],
-    "answer": 0
+    "options": ["Espanha", "Inglaterra", "França" , "Portugal"],
+    "answer": 3
   },
   {
     "question": "O ciclo do ouro no Brasil ocorreu principalmente em qual estado?",
-    "options": ["Minas Gerais", "Bahia", "São Paulo", "Rio Grande do Sul"],
-    "answer": 0
+    "options": ["Bahia", "São Paulo", "Rio Grande do Sul" , "Minas Gerais"],
+    "answer": 3
   },
   {
     "question": "A Guerra dos Farrapos ocorreu em qual região?",
-    "options": ["Sul", "Norte", "Nordeste", "Centro-Oeste"],
-    "answer": 0
+    "options": ["Norte", "Sul", "Nordeste", "Centro-Oeste"],
+    "answer": 1
   },
   {
     "question": "Quem foi o líder da Coluna Prestes?",
-    "options": ["Luís Carlos Prestes", "Getúlio Vargas", "João Cândido", "Dom Pedro II"],
-    "answer": 0
+    "options": ["Getúlio Vargas", "Luís Carlos Prestes", "João Cândido", "Dom Pedro II"],
+    "answer": 1
   },
   {
     "question": "A abolição da escravidão no Brasil ocorreu em:",
-    "options": ["1888", "1822", "1930", "1964"],
-    "answer": 0
+    "options": ["1822", "1888", "1930", "1964"],
+    "answer": 1
   },
   {
     "question": "Quem governava o Brasil quando foi proclamada a República?",
-    "options": ["Dom Pedro II", "Dom Pedro I", "Princesa Isabel", "Getúlio Vargas"],
-    "answer": 0
+    "options": ["Dom Pedro I", "Dom Pedro II", "Princesa Isabel", "Getúlio Vargas"],
+    "answer": 1
   },
   {
     "question": "Qual foi a principal justificativa para a vinda da corte portuguesa ao Brasil em 1808?",
-    "options": ["Fuga das tropas napoleônicas", "Fim da escravidão", "Busca por ouro", "Exploração da Amazônia"],
-    "answer": 0
+    "options": ["Fim da escravidão", "Fuga das tropas napoleônicas",  "Busca por ouro", "Exploração da Amazônia"],
+    "answer": 1
   },
   {
     "question": "A Revolta da Vacina ocorreu em qual cidade?",
-    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
-    "answer": 0
+    "options": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+    "answer": 1
   },
   {
     "question": "Quem foi o presidente brasileiro que se suicidou em 1954?",
@@ -683,8 +683,8 @@
   },
   {
     "question": "A Guerra do Paraguai ocorreu no século:",
-    "options": ["XIX", "XVIII", "XX", "XVII"],
-    "answer": 0
+    "options": ["XVIII", "XX", "XVII" , "XIX"],
+    "answer": 3
   },
   {
     "question": "A Revolta dos Malês foi liderada por:",
@@ -693,8 +693,8 @@
   },
   {
     "question": "Quem foi o responsável pela vinda da Missão Artística Francesa ao Brasil?",
-    "options": ["Dom João VI", "Dom Pedro II", "Getúlio Vargas", "Juscelino Kubitschek"],
-    "answer": 0
+    "options": ["Dom Pedro II", "Dom João VI", "Getúlio Vargas", "Juscelino Kubitschek"],
+    "answer": 1
   },
   {
     "question": "A primeira Constituição brasileira foi promulgada em:",
@@ -733,38 +733,38 @@
   },
   {
     "question": "O ciclo do café impulsionou a economia brasileira em qual século?",
-    "options": ["XIX", "XVIII", "XX", "XVII"],
-    "answer": 0
+    "options": ["XVIII", "XX", "XVII" , "XIX"],
+    "answer": 3
   },
   {
     "question": "A Guerra de Canudos foi narrada por qual escritor?",
-    "options": ["Euclides da Cunha", "Machado de Assis", "José de Alencar", "Cecília Meireles"],
-    "answer": 0
+    "options": ["Machado de Assis", "Euclides da Cunha", "José de Alencar", "Cecília Meireles"],
+    "answer": 1
   },
   {
     "question": "A Revolta da Armada ocorreu em qual período da história brasileira?",
-    "options": ["Primeira República", "Colônia", "Império", "Ditadura Militar"],
-    "answer": 0
+    "options": ["Colônia", "Primeira República",  "Império", "Ditadura Militar"],
+    "answer": 1
   },
   {
     "question": "A Constituição de 1891 estabeleceu no Brasil o regime:",
-    "options": ["Republicano presidencialista", "Monárquico parlamentarista", "Ditatorial", "Militarista"],
-    "answer": 0
+    "options": ["Monárquico parlamentarista", "Republicano presidencialista", "Ditatorial", "Militarista"],
+    "answer": 1
   },
   {
     "question": "Quem governava o Brasil quando ocorreu a Guerra do Paraguai?",
-    "options": ["Dom Pedro II", "Dom Pedro I", "Deodoro da Fonseca", "Getúlio Vargas"],
-    "answer": 0
+    "options": ["Dom Pedro I", "Dom Pedro II", "Deodoro da Fonseca", "Getúlio Vargas"],
+    "answer": 1
   },
   {
     "question": "A bandeira do Brasil adotada em 1889 manteve como herança do Império:",
-    "options": ["As cores verde e amarela", "O brasão da monarquia", "O lema positivista", "A cor azul predominante"],
-    "answer": 0
+    "options": ["O brasão da monarquia", "As cores verde e amarela",  "O lema positivista", "A cor azul predominante"],
+    "answer": 1
   },
   {
     "question": "Quem foi o presidente que instituiu o Plano Real?",
-    "options": ["Itamar Franco", "Fernando Collor", "Lula", "Juscelino Kubitschek"],
-    "answer": 0
+    "options": ["Fernando Collor", "Itamar Franco", "Lula", "Juscelino Kubitschek"],
+    "answer": 1
   },
   {
     "question": "A redemocratização do Brasil ocorreu em:",
@@ -773,8 +773,8 @@
   },
   {
     "question": "Quem foi o primeiro presidente eleito pelo voto direto após a ditadura militar?",
-    "options": ["Fernando Collor", "José Sarney", "Itamar Franco", "Fernando Henrique Cardoso"],
-    "answer": 0
+    "options": ["José Sarney", "Fernando Collor", "Itamar Franco", "Fernando Henrique Cardoso"],
+    "answer": 1
   }
 ],
   "Instituições": [

@@ -4,6 +4,7 @@ let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 let wrongAnswers = []; // armazenar os erros
+const MAX_QUESTIONS = 30; // limite por rodada
 
 async function loadQuestionsFromJSON() {
   try {
@@ -228,7 +229,18 @@ document.getElementById("start-game-btn").addEventListener("click", () => {
   currentCategory = select.value;
   if (!currentCategory) return alert("Selecione um tema!");
 
-  currentQuestions = [...questionsData[currentCategory]];
+  // Copia todas as perguntas da categoria
+  let allQuestions = [...questionsData[currentCategory]];
+
+  // Embaralha as perguntas (Fisher-Yates)
+  for (let i = allQuestions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
+  }
+
+  // Seleciona até 30 perguntas
+  currentQuestions = allQuestions.slice(0, MAX_QUESTIONS);
+
   currentQuestionIndex = 0;
   score = 0;
   wrongAnswers = [];

@@ -160,6 +160,7 @@ function showReview(index) {
 // ==== Exportar Revisão em PDF ====
 // ==== Exportar Revisão em PDF ====
 // ==== Exportar Revisão em PDF ====
+// ==== Exportar Revisão em PDF ====
 document.getElementById("export-review-pdf-btn").addEventListener("click", async () => {
   const { jsPDF } = window.jspdf;
   const doc = new jsPDF("p", "mm", "a4");
@@ -170,11 +171,9 @@ document.getElementById("export-review-pdf-btn").addEventListener("click", async
   doc.setFont("helvetica", "bold");
   doc.text("AgroPlay com a FAEMG Jovem", pageWidth / 2, 18, { align: "center" });
 
-  // Logos — centralizadas e tamanho uniforme
-  const logoWidth = 26; // mm
-  const logoHeight = 26;
-  const totalWidth = 5 * logoWidth + 4 * 5; // 5 logos + 4 espaçamentos
-  let startX = (pageWidth - totalWidth) / 2;
+  // Configurações das logos
+  const maxSize = 26; // mm
+  const spacing = 5;
   const yPos = 25;
 
   const logos = [
@@ -185,28 +184,54 @@ document.getElementById("export-review-pdf-btn").addEventListener("click", async
     "logo-raizes.png"
   ];
 
-  for (const src of logos) {
-    try {
-      const img = await fetch(src);
-      const blob = await img.blob();
-      const reader = new FileReader();
-      const base64 = await new Promise(resolve => {
-        reader.onload = () => resolve(reader.result);
-        reader.readAsDataURL(blob);
-      });
-      doc.addImage(base64, "PNG", startX, yPos, logoWidth, logoHeight);
-    } catch (e) {
-      console.warn("Erro ao carregar logo:", src);
-    }
-    startX += logoWidth + 5;
-  }
+  // Pré-carregar imagens para medir proporções
+  const loadedLogos = await Promise.all(
+    logos.map(async (src) => {
+      try {
+        const img = await fetch(src);
+        const blob = await img.blob();
+        const reader = new FileReader();
+        const base64 = await new Promise((resolve) => {
+          reader.onload = () => resolve(reader.result);
+          reader.readAsDataURL(blob);
+        });
+        // Criar objeto imagem para pegar dimensões
+        const image = new Image();
+        image.src = base64;
+        await new Promise((r) => (image.onload = r));
+        const ratio = image.width / image.height;
+        let w = maxSize;
+        let h = maxSize;
+        if (ratio > 1) h = w / ratio; // mais largo
+        else w = h * ratio; // mais alto
+        return { base64, w, h };
+      } catch (e) {
+        console.warn("Erro ao carregar logo:", src);
+        return null;
+      }
+    })
+  );
+
+  // Calcular largura total
+  const totalWidth =
+    loadedLogos.filter(Boolean).reduce((acc, l) => acc + l.w, 0) +
+    (loadedLogos.filter(Boolean).length - 1) * spacing;
+  let startX = (pageWidth - totalWidth) / 2;
+
+  // Adicionar imagens proporcionalmente
+  loadedLogos.forEach((logo) => {
+    if (!logo) return;
+    const yAdj = yPos + (maxSize - logo.h) / 2; // centralizar verticalmente
+    doc.addImage(logo.base64, "PNG", startX, yAdj, logo.w, logo.h);
+    startX += logo.w + spacing;
+  });
 
   // Subtítulo
   doc.setFontSize(14);
   doc.setFont("helvetica", "normal");
-  doc.text("Revisão de Erros", pageWidth / 2, yPos + logoHeight + 12, { align: "center" });
+  doc.text("Revisão de Erros", pageWidth / 2, yPos + maxSize + 12, { align: "center" });
 
-  let y = yPos + logoHeight + 25;
+  let y = yPos + maxSize + 25;
 
   const ranking = loadRanking();
   const activeEntry = ranking.find(entry => entry.wrongAnswers && entry.wrongAnswers.length > 0);

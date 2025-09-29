@@ -158,49 +158,78 @@ function showReview(index) {
 }
 
 // ==== Exportar Revisão em PDF ====
-document.getElementById("export-review-pdf-btn").addEventListener("click", () => {
+// ==== Exportar Revisão em PDF ====
+document.getElementById("export-review-pdf-btn").addEventListener("click", async () => {
   const { jsPDF } = window.jspdf;
-  const doc = new jsPDF();
+  const doc = new jsPDF("p", "mm", "a4");
 
-  const title = "Revisão de Erros - AgroPlay";
-  doc.setFontSize(16);
-  doc.text(title, 10, 20);
+  const pageWidth = doc.internal.pageSize.getWidth();
 
-  let y = 40;
+  // Inserir título principal
+  doc.setFontSize(18);
+  doc.setFont("helvetica", "bold");
+  doc.text("AgroPlay com a FAEMG Jovem", pageWidth / 2, 20, { align: "center" });
 
-  const container = document.getElementById("review-content");
-  if (container.innerText.trim() === "") {
-    doc.setFontSize(12);
-    doc.text("Nenhum erro registrado.", 10, y);
-  } else {
-    const ranking = loadRanking();
-    const activeEntry = ranking.find(entry => entry.wrongAnswers && entry.wrongAnswers.length > 0);
-    if (activeEntry) {
-      doc.setFontSize(12);
-      activeEntry.wrongAnswers.forEach(item => {
-        const lines = [
-          "Pergunta: " + item.question,
-          "Sua resposta: " + item.chosen,
-          "Correta: " + item.correct,
-          " "
-        ];
-        lines.forEach(line => {
-          doc.text(line, 10, y);
-          y += 10;
-          if (y > 270) {
-            doc.addPage();
-            y = 20;
-          }
-        });
+  // Inserir logos
+  const logos = [
+    { src: "logo-cedaf.png", x: 10 },
+    { src: "logo-ufv.png", x: 40 },
+    { src: "logo-srpm.png", x: 70 },
+    { src: "logo-faemg.png", x: 100 },
+    { src: "logo-raizes.png", x: 130 }
+  ];
+
+  for (const logo of logos) {
+    try {
+      const img = await fetch(logo.src);
+      const blob = await img.blob();
+      const reader = new FileReader();
+      const base64 = await new Promise(resolve => {
+        reader.onload = () => resolve(reader.result);
+        reader.readAsDataURL(blob);
       });
-    } else {
-      doc.setFontSize(12);
-      doc.text("Parabéns! Você não errou nenhuma questão 🎉", 10, y);
+      doc.addImage(base64, "PNG", logo.x, 25, 20, 20);
+    } catch (e) {
+      console.warn("Erro ao carregar logo:", logo.src);
     }
+  }
+
+  // Título da seção
+  doc.setFontSize(14);
+  doc.setFont("helvetica", "normal");
+  doc.text("Revisão de Erros", pageWidth / 2, 55, { align: "center" });
+
+  let y = 70;
+
+  const ranking = loadRanking();
+  const activeEntry = ranking.find(entry => entry.wrongAnswers && entry.wrongAnswers.length > 0);
+
+  if (!activeEntry || activeEntry.wrongAnswers.length === 0) {
+    doc.setFontSize(12);
+    doc.text("Parabéns! Você não errou nenhuma questão 🎉", 10, y);
+  } else {
+    doc.setFontSize(11);
+    activeEntry.wrongAnswers.forEach(item => {
+      const lines = [
+        "Pergunta: " + item.question,
+        "Sua resposta: " + item.chosen,
+        "Correta: " + item.correct,
+        " "
+      ];
+      lines.forEach(line => {
+        doc.text(line, 10, y);
+        y += 8;
+        if (y > 270) {
+          doc.addPage();
+          y = 20;
+        }
+      });
+    });
   }
 
   doc.save("revisao-erros.pdf");
 });
+
 
 // ==== Navegação ====
 document.getElementById("ranking-btn").addEventListener("click", () => {

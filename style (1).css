@@ -1,0 +1,159 @@
+body {
+  font-family: 'Press Start 2P', cursive, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background: url('https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1950&q=80') 
+              no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Ajuste principal */
+.screen { 
+  display: none; 
+  justify-content: center; 
+  align-items: center; 
+  flex-direction: column; 
+  min-height: 100vh;   /* antes era height */
+  text-align: center; 
+  background-color: rgba(0,0,0,0.6); 
+  padding: 20px; 
+  box-sizing: border-box;
+  overflow-y: auto;    /* permite rolagem no mobile */
+}
+
+.active { display: flex; flex-direction: column; }
+
+h1, h2 { 
+  font-size: 2rem; 
+  margin-bottom: 15px; 
+  text-shadow: 2px 2px 6px #000; 
+}
+
+p.creditos { 
+  font-size: 0.9rem; 
+  max-width: 800px; 
+  margin: 0 auto 30px; 
+  line-height: 1.6;
+}
+
+button { 
+  font-size: 1rem; 
+  padding: 12px 25px; 
+  margin: 10px; 
+  border: none; 
+  border-radius: 12px; 
+  cursor: pointer; 
+  background-color: #28a745; 
+  color: #fff; 
+  transition: 0.3s; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  max-width: 100%;   /* nunca passa da tela */
+  box-sizing: border-box;
+}
+
+button:hover { background-color: #218838; }
+
+.question { font-size: 1.2rem; margin-bottom: 20px; }
+
+.options button { 
+  display: block; 
+  width: 250px; 
+  max-width: 100%; 
+  margin: 5px auto; 
+}
+
+table { 
+  border-collapse: collapse; 
+  margin-top: 20px; 
+  background: rgba(255,255,255,0.9); 
+  color: #000; 
+  font-size: 0.9rem;
+  max-width: 100%;
+  width: 100%;
+  overflow-x: auto;
+  box-sizing: border-box;
+}
+
+th, td { border: 1px solid #000; padding: 8px 15px; }
+
+input, select { 
+  font-size: 1rem; 
+  padding: 5px; 
+  margin: 10px; 
+  max-width: 100%; 
+  box-sizing: border-box;
+}
+
+/* Estilização das logos */
+.logos { 
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center;
+  gap: 20px; 
+  margin-top: 30px; 
+}
+
+.logos img { 
+  width: 100px; 
+  height: 100px; 
+  object-fit: contain;
+  border-radius: 8px; 
+  background-color: rgba(255,255,255,0.8); 
+  padding: 10px; 
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+  h1, h2 { font-size: 1.2rem; }
+  p.creditos { font-size: 0.7rem; }
+  button { width: 90%; font-size: 0.9rem; padding: 10px; }
+  .options button { width: 100%; font-size: 0.9rem; }
+  .logos { flex-direction: column; gap: 10px; }
+  .logos img { width: 80px; height: 80px; }
+  table { font-size: 0.8rem; display: block; overflow-x: auto; }
+  th, td { padding: 6px; }
+}
+
+/* === Revisão Responsiva === */
+#review-content {
+  max-width: 800px;
+  width: 90%;
+  margin: 20px auto;
+  background: rgba(255, 255, 255, 0.9);
+  color: #000;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: left;
+  overflow-y: auto;
+  max-height: 70vh;
+}
+
+#review-content p {
+  margin: 5px 0;
+  line-height: 1.4;
+}
+
+#review-content hr {
+  margin: 10px 0;
+  border: 1px solid #ccc;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  #review-content {
+    width: 95%;
+    font-size: 0.85rem;
+    padding: 10px;
+    max-height: 65vh;
+  }
+}
+
+/* Telas muito pequenas (<= 360px) */
+@media (max-width: 360px) {
+  h1, h2 { font-size: 1rem; }
+  p.creditos { font-size: 0.6rem; }
+  button, .options button, input, select { font-size: 0.8rem; }
+  table { font-size: 0.7rem; }
+}

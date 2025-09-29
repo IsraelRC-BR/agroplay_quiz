@@ -159,47 +159,54 @@ function showReview(index) {
 
 // ==== Exportar Revisão em PDF ====
 // ==== Exportar Revisão em PDF ====
+// ==== Exportar Revisão em PDF ====
 document.getElementById("export-review-pdf-btn").addEventListener("click", async () => {
   const { jsPDF } = window.jspdf;
   const doc = new jsPDF("p", "mm", "a4");
-
   const pageWidth = doc.internal.pageSize.getWidth();
 
-  // Inserir título principal
+  // Título principal
   doc.setFontSize(18);
   doc.setFont("helvetica", "bold");
-  doc.text("AgroPlay com a FAEMG Jovem", pageWidth / 2, 20, { align: "center" });
+  doc.text("AgroPlay com a FAEMG Jovem", pageWidth / 2, 18, { align: "center" });
 
-  // Inserir logos
+  // Logos — centralizadas e tamanho uniforme
+  const logoWidth = 26; // mm
+  const logoHeight = 26;
+  const totalWidth = 5 * logoWidth + 4 * 5; // 5 logos + 4 espaçamentos
+  let startX = (pageWidth - totalWidth) / 2;
+  const yPos = 25;
+
   const logos = [
-    { src: "logo-cedaf.png", x: 10 },
-    { src: "logo-ufv.png", x: 40 },
-    { src: "logo-srpm.png", x: 70 },
-    { src: "logo-faemg.png", x: 100 },
-    { src: "logo-raizes.png", x: 130 }
+    "logo-cedaf.png",
+    "logo-ufv.png",
+    "logo-srpm.png",
+    "logo-faemg.png",
+    "logo-raizes.png"
   ];
 
-  for (const logo of logos) {
+  for (const src of logos) {
     try {
-      const img = await fetch(logo.src);
+      const img = await fetch(src);
       const blob = await img.blob();
       const reader = new FileReader();
       const base64 = await new Promise(resolve => {
         reader.onload = () => resolve(reader.result);
         reader.readAsDataURL(blob);
       });
-      doc.addImage(base64, "PNG", logo.x, 25, 20, 20);
+      doc.addImage(base64, "PNG", startX, yPos, logoWidth, logoHeight);
     } catch (e) {
-      console.warn("Erro ao carregar logo:", logo.src);
+      console.warn("Erro ao carregar logo:", src);
     }
+    startX += logoWidth + 5;
   }
 
-  // Título da seção
+  // Subtítulo
   doc.setFontSize(14);
   doc.setFont("helvetica", "normal");
-  doc.text("Revisão de Erros", pageWidth / 2, 55, { align: "center" });
+  doc.text("Revisão de Erros", pageWidth / 2, yPos + logoHeight + 12, { align: "center" });
 
-  let y = 70;
+  let y = yPos + logoHeight + 25;
 
   const ranking = loadRanking();
   const activeEntry = ranking.find(entry => entry.wrongAnswers && entry.wrongAnswers.length > 0);

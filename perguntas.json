@@ -780,33 +780,33 @@
   "Instituições": [
     {
     "question": "Qual órgão é responsável pela pesquisa agropecuária no Brasil?",
-    "options": ["Embrapa", "IBGE", "INCRA", "MAPA"],
-    "answer": 0
+    "options": ["IBGE", "INCRA", "Embrapa",  "MAPA"],
+    "answer": 2
   },
   {
     "question": "O Ministério da Agricultura, Pecuária e Abastecimento é conhecido pela sigla:",
-    "options": ["MAPA", "MEC", "MS", "MMA"],
-    "answer": 0
+    "options": ["MEC", "MS", "MAPA",  "MMA"],
+    "answer": 2
   },
   {
     "question": "Qual instituição coleta e divulga dados estatísticos oficiais no Brasil?",
-    "options": ["IBGE", "Embrapa", "INCRA", "CNA"],
-    "answer": 0
+    "options": ["Embrapa", "INCRA", "IBGE", "CNA"],
+    "answer": 2
   },
   {
     "question": "O INCRA é responsável principalmente por:",
-    "options": ["Reforma agrária e colonização", "Educação básica", "Polícia rodoviária", "Controle sanitário"],
-    "answer": 0
+    "options": ["Educação básica", "Reforma agrária e colonização", "Polícia rodoviária", "Controle sanitário"],
+    "answer": 1
   },
   {
     "question": "A CNA representa nacionalmente os:",
-    "options": ["Produtores rurais", "Professores", "Trabalhadores urbanos", "Estudantes"],
-    "answer": 0
+    "options": ["Professores", "Trabalhadores urbanos", "Produtores rurais", "Estudantes"],
+    "answer": 2
   },
   {
     "question": "Qual órgão é responsável pela fiscalização ambiental no Brasil?",
-    "options": ["IBAMA", "MAPA", "Embrapa", "INCRA"],
-    "answer": 0
+    "options": ["MAPA", "IBAMA",  "Embrapa", "INCRA"],
+    "answer": 1
   },
   {
     "question": "Qual programa do governo federal concede crédito ao pequeno agricultor?",
@@ -820,23 +820,23 @@
   },
   {
     "question": "O Censo Agropecuário é realizado periodicamente por qual instituição?",
-    "options": ["IBGE", "Embrapa", "MAPA", "INCRA"],
-    "answer": 0
+    "options": ["Embrapa", "IBGE", "MAPA", "INCRA"],
+    "answer": 1
   },
   {
     "question": "A EMBRAPA foi criada em que década?",
-    "options": ["1970", "1950", "1990", "2000"],
-    "answer": 0
+    "options": ["1950", "1970", "1990", "2000"],
+    "answer": 1
   },
   {
     "question": "O que significa a sigla CONAB?",
-    "options": ["Companhia Nacional de Abastecimento", "Conselho Nacional de Agricultura Básica", "Controle Nacional de Alimentos e Bebidas", "Coordenação de Agronegócio Brasileiro"],
-    "answer": 0
+    "options": ["Conselho Nacional de Agricultura Básica", "Companhia Nacional de Abastecimento",  "Controle Nacional de Alimentos e Bebidas", "Coordenação de Agronegócio Brasileiro"],
+    "answer": 1
   },
   {
     "question": "O Estatuto da Terra, de 1964, regulamenta principalmente:",
-    "options": ["Questões fundiárias e uso da terra", "Educação superior", "Previdência social", "Política cambial"],
-    "answer": 0
+    "options": ["Educação superior", "Questões fundiárias e uso da terra",  "Previdência social", "Política cambial"],
+    "answer": 1
   },
   {
     "question": "Qual instituição é vinculada ao MAPA e coordena pesquisas científicas?",
@@ -850,8 +850,8 @@
   },
   {
     "question": "A CONAB atua principalmente em:",
-    "options": ["Gestão de estoques e abastecimento", "Educação básica", "Produção de estatísticas econômicas", "Controle ambiental"],
-    "answer": 0
+    "options": ["Educação básica", "Gestão de estoques e abastecimento",  "Produção de estatísticas econômicas", "Controle ambiental"],
+    "answer": 1
   },
   {
     "question": "A FUNAI é responsável pela:",
@@ -865,13 +865,13 @@
   },
   {
     "question": "Qual é a função principal do BNDES no setor agropecuário?",
-    "options": ["Financiamento de investimentos", "Fiscalização ambiental", "Pesquisa científica", "Produção estatística"],
-    "answer": 0
+    "options": ["Fiscalização ambiental", "Pesquisa científica", "Produção estatística" , "Financiamento de investimentos"],
+    "answer": 3
   },
   {
     "question": "O Código Florestal Brasileiro estabelece regras para:",
-    "options": ["Uso e conservação das florestas", "Produção de grãos", "Educação básica", "Controle de preços"],
-    "answer": 0
+    "options": ["Produção de grãos", "Uso e conservação das florestas", "Educação básica", "Controle de preços"],
+    "answer": 1
   },
   {
     "question": "Qual instituição pública brasileira é referência mundial em agricultura tropical?",
@@ -885,18 +885,18 @@
   },
   {
     "question": "Qual ministério brasileiro é responsável pelo meio ambiente?",
-    "options": ["MMA", "MAPA", "MEC", "MS"],
-    "answer": 0
+    "options": ["MAPA", "MEC", "MMA",  "MS"],
+    "answer": 2
   },
   {
     "question": "O INMET é responsável por:",
-    "options": ["Meteorologia e clima", "Educação agrícola", "Gestão fundiária", "Policiamento rural"],
-    "answer": 0
+    "options": ["Educação agrícola", "Gestão fundiária", "Meteorologia e clima", "Policiamento rural"],
+    "answer": 2
   },
   {
     "question": "Qual documento é emitido pelo INCRA para assentados da reforma agrária?",
-    "options": ["Título de domínio", "Carteira de trabalho", "Registro de exportação", "Licença ambiental"],
-    "answer": 0
+    "options": ["Carteira de trabalho", "Registro de exportação", "Título de domínio",  "Licença ambiental"],
+    "answer": 2
   },
   {
     "question": "O Selo Arte foi criado para:",
@@ -910,13 +910,13 @@
   },
   {
     "question": "Qual lei brasileira instituiu a Política Nacional de Meio Ambiente?",
-    "options": ["Lei 6.938/81", "Lei Áurea", "Constituição de 1824", "Lei do Ventre Livre"],
-    "answer": 0
+    "options": ["Lei Áurea", "Constituição de 1824", "Lei 6.938/81", "Lei do Ventre Livre"],
+    "answer": 2
   },
   {
     "question": "O Proálcool, criado em 1975, tinha como objetivo:",
-    "options": ["Estimular a produção de etanol", "Expandir o cultivo de arroz", "Controlar preços do café", "Eliminar a pecuária extensiva"],
-    "answer": 0
+    "options": ["Expandir o cultivo de arroz", "Controlar preços do café", "Estimular a produção de etanol", "Eliminar a pecuária extensiva"],
+    "answer": 2
   },
   {
     "question": "O IBGE realiza qual levantamento fundamental para o setor rural?",
@@ -930,18 +930,18 @@
   },
   {
     "question": "Qual programa distribui alimentos da agricultura familiar a escolas públicas?",
-    "options": ["PNAE", "PROUNI", "FIES", "SUS"],
-    "answer": 0
+    "options": ["PROUNI", "PNAE", "FIES", "SUS"],
+    "answer": 1
   },
   {
     "question": "O CAR (Cadastro Ambiental Rural) serve para:",
-    "options": ["Registrar informações ambientais de imóveis rurais", "Emitir CPF", "Controlar importações", "Gerir escolas técnicas"],
-    "answer": 0
+    "options": ["Emitir CPF", "Registrar informações ambientais de imóveis rurais", "Controlar importações", "Gerir escolas técnicas"],
+    "answer": 1
   },
   {
     "question": "A EMBRAPA atua em quantos centros de pesquisa aproximadamente?",
-    "options": ["Mais de 40", "5", "15", "10"],
-    "answer": 0
+    "options": ["5", "10" , "15" , "Mais de 40"],
+    "answer": 3
   },
   {
     "question": "A lei que criou o Estatuto da Juventude Rural visa:",
@@ -950,13 +950,13 @@
   },
   {
     "question": "Qual instituição é responsável por regular os defensivos agrícolas?",
-    "options": ["MAPA", "IBGE", "CNA", "INCRA"],
-    "answer": 0
+    "options": ["IBGE", "CNA", "MAPA",  "INCRA"],
+    "answer": 2
   },
   {
     "question": "O conceito de segurança alimentar foi adotado na Constituição de:",
-    "options": ["1988", "1891", "1937", "1824"],
-    "answer": 0
+    "options": ["1824" , "1988", "1891", "1937"],
+    "answer": 1
   },
   {
     "question": "O Programa de Aquisição de Alimentos (PAA) beneficia principalmente:",
@@ -970,18 +970,18 @@
   },
   {
     "question": "O Sistema Nacional de Crédito Rural foi criado para:",
-    "options": ["Financiar a produção agropecuária", "Controlar importações", "Produzir estatísticas", "Gerir escolas agrícolas"],
-    "answer": 0
+    "options": ["Controlar importações", "Produzir estatísticas", "Financiar a produção agropecuária", "Gerir escolas agrícolas"],
+    "answer": 2
   },
   {
     "question": "Qual é a função do CONAMA?",
-    "options": ["Deliberar sobre normas ambientais", "Produzir leite", "Gerir escolas", "Controlar exportações"],
-    "answer": 0
+    "options": ["Produzir leite", "Gerir escolas", "Deliberar sobre normas ambientais", "Controlar exportações"],
+    "answer": 2
   },
   {
     "question": "O SIF encontrado em rótulos de carnes significa:",
-    "options": ["Serviço de Inspeção Federal", "Sistema Internacional de Frigoríficos", "Selo de Importação Federal", "Serviço de Informação Fiscal"],
-    "answer": 0
+    "options": ["Sistema Internacional de Frigoríficos", "Selo de Importação Federal", "Serviço de Informação Fiscal" , "Serviço de Inspeção Federal"],
+    "answer": 3
   },
   {
     "question": "O Código Civil brasileiro regula também as atividades de:",
@@ -995,28 +995,28 @@
   },
   {
     "question": "A EMBRAPA é vinculada a qual ministério?",
-    "options": ["MAPA", "MMA", "MS", "MEC"],
-    "answer": 0
+    "options": ["MMA", "MS", "MEC" , "MAPA"],
+    "answer": 3
   },
   {
     "question": "O objetivo do PRONAF é apoiar:",
-    "options": ["Agricultores familiares", "Exportadores de petróleo", "Estudantes urbanos", "Trabalhadores da indústria"],
-    "answer": 0
+    "options": ["Exportadores de petróleo", "Estudantes urbanos", "Agricultores familiares",  "Trabalhadores da indústria"],
+    "answer": 2
   },
   {
     "question": "A OIT é uma instituição internacional que trata de:",
-    "options": ["Questões trabalhistas", "Pesquisa agrícola", "Política monetária", "Educação"],
-    "answer": 0
+    "options": ["Pesquisa agrícola", "Política monetária", "Questões trabalhistas",  "Educação"],
+    "answer": 2
   },
   {
     "question": "O CAR é obrigatório para imóveis:",
-    "options": ["Rurais", "Urbanos", "Escolares", "Industriais"],
-    "answer": 0
+    "options": ["Urbanos", "Rurais", "Escolares", "Industriais"],
+    "answer": 1
   },
   {
     "question": "A EMBRAPA foi fundamental no desenvolvimento agrícola do:",
-    "options": ["Cerrado brasileiro", "Pantanal", "Amazônia", "Litoral nordestino"],
-    "answer": 0
+    "options": ["Pantanal", "Amazônia", "Cerrado brasileiro", "Litoral nordestino"],
+    "answer": 2
   },
   {
     "question": "O INCRA é responsável pela criação de:",
@@ -1025,8 +1025,8 @@
   },
   {
     "question": "O Conselho Nacional de Educação é vinculado a qual ministério?",
-    "options": ["MEC", "MAPA", "MS", "MMA"],
-    "answer": 0
+    "options": ["MAPA", "MS", "MEC", "MMA"],
+    "answer": 2
   },
   {
     "question": "O Plano Real foi implementado no governo de:",

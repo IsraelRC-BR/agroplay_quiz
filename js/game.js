@@ -4,7 +4,7 @@ let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 let wrongAnswers = []; // armazenar os erros
-const MAX_QUESTIONS = 30; // limite por rodada
+const MAX_QUESTIONS = 15; // limite por rodada
 
 async function loadQuestionsFromJSON() {
   try {

@@ -1,37 +1,37 @@
 {
     "Agricultura": [
  {
-    "question": "Qual é a principal função da **Matéria Orgânica** no solo agrícola?",
+    "question": "Qual é a principal função da Matéria Orgânica no solo agrícola?",
     "options": ["Aumentar a compactação", "Diminuir a retenção de água", "Melhorar a estrutura, a fertilidade e a capacidade de retenção hídrica", "Aumentar a acidez do solo"],
     "answer": 2
   },
   {
-    "question": "O **Vigor de Sementes** é um atributo da qualidade que indica:",
+    "question": "O Vigor de Sementes é um atributo da qualidade que indica:",
     "options": ["O peso absoluto das sementes", "A cor predominante do tegumento", "A capacidade de germinar e originar plântulas fortes sob condições adversas", "A pureza física do lote"],
     "answer": 2
   },
   {
-    "question": "A cultura do **trigo** no Brasil concentra-se majoritariamente na região:",
+    "question": "A cultura do trigo no Brasil concentra-se majoritariamente na região:",
     "options": ["Centro-Oeste (Cerrado)", "Norte (Amazônia)", "Nordeste (Semiárido)", "Sul"],
     "answer": 3
   },
   {
-    "question": "Qual dos seguintes é um **macronutriente primário** essencial para o desenvolvimento das plantas?",
+    "question": "Qual dos seguintes é um macronutriente primário essencial para o desenvolvimento das plantas?",
     "options": ["Zinco (Zn)", "Cobre (Cu)", "Potássio (K)", "Ferro (Fe)"],
     "answer": 2
   },
   {
-    "question": "A técnica de **Alagamento** na irrigação é tradicionalmente utilizada no cultivo de:",
+    "question": "A técnica de Alagamento na irrigação é tradicionalmente utilizada no cultivo de:",
     "options": ["Café", "Soja", "Arroz Irrigado", "Uva"],
     "answer": 2
   },
   {
-    "question": "O que o **Zoneamento Agrícola de Risco Climático (ZARC)** fornece ao produtor?",
+    "question": "O que o Zoneamento Agrícola de Risco Climático (ZARC) fornece ao produtor?",
     "options": ["Apenas o preço de mercado dos insumos", "A previsão de demanda internacional de *commodities*", "Informações sobre datas e locais de plantio com menor risco climático", "O cálculo exato da produtividade esperada"],
     "answer": 2
   },
   {
-    "question": "O principal benefício da **Rotação de Culturas** é:",
+    "question": "O principal benefício da Rotação de Culturas é:",
     "options": ["Aumentar a exaustão de um único nutriente no solo", "Permitir a especialização em uma única espécie", "A ruptura do ciclo de pragas e doenças e a melhoria da fertilidade do solo", "Aumentar a compactação do solo"],
     "answer": 2
   },
@@ -41,12 +41,12 @@
     "answer": 2
   },
   {
-    "question": "A cultura do **cacau** no Brasil é frequentemente cultivada em qual sistema?",
+    "question": "A cultura do cacau no Brasil é frequentemente cultivada em qual sistema?",
     "options": ["Monocultura em campo aberto", "Agrossilvicultura (sob a sombra de outras árvores)", "Hidroponia", "Cultivo em estufas"],
     "answer": 1
   },
   {
-    "question": "O **Plantio Direto** é fundamentado na ausência de **revolvimento do solo**, na cobertura permanente e:",
+    "question": "O Plantio Direto é fundamentado na ausência de **revolvimento do solo**, na cobertura permanente e:",
     "options": ["No uso intensivo de agrotóxicos", "Na rotação de culturas", "Na irrigação por inundação", "Na eliminação de toda a matéria orgânica"],
     "answer": 1
   },
@@ -56,142 +56,137 @@
     "answer": 2
   },
   {
-    "question": "O que é **deriva** na aplicação de agrotóxicos?",
+    "question": "O que é deriva na aplicação de agrotóxicos?",
     "options": ["O descarte correto da embalagem", "O movimento do produto para fora da área alvo, levado pelo vento", "O tempo de carência do produto", "A calibração do equipamento"],
     "answer": 1
   },
   {
-    "question": "A utilização de **calcário** (calagem) no Cerrado brasileiro visa, prioritariamente:",
+    "question": "A utilização de calcário (calagem) no Cerrado brasileiro visa, prioritariamente:",
     "options": ["Aumentar a toxidez por alumínio", "Corrigir a acidez do solo e fornecer cálcio e magnésio", "Diminuir a atividade microbiana", "Aumentar o escoamento superficial da água"],
     "answer": 1
   },
   {
-    "question": "O estado de **Mato Grosso** se destaca como o maior produtor nacional de qual *commodity*?",
+    "question": "O estado de Mato Grosso se destaca como o maior produtor nacional de qual *commodity*?",
     "options": ["Feijão-caupi", "Uva fina", "Soja", "Laranja"],
     "answer": 2
   },
   {
-    "question": "Qual é a principal leguminosa utilizada na prática de **adubação verde** no Brasil?",
+    "question": "Qual é a principal leguminosa utilizada na prática de adubação verde no Brasil?",
     "options": ["Arroz", "Milheto", "Crotalária", "Cana-de-açúcar"],
     "answer": 2
   },
   {
-    "question": "A **Agricultura 4.0** é marcada pela integração de quais tecnologias?",
+    "question": "A Agricultura 4.0 é marcada pela integração de quais tecnologias?",
     "options": ["Apenas ferramentas manuais e tração animal", "Sistemas de irrigação por inundação e queimadas", "Inteligência Artificial, Internet das Coisas (IoT) e Big Data", "Arados de madeira e sementes não melhoradas"],
     "answer": 2
   },
   {
-    "question": "O que a sigla **OGM** (Organismo Geneticamente Modificado) representa na agricultura?",
+    "question": "O que a sigla OGM (Organismo Geneticamente Modificado) representa na agricultura?",
     "options": ["Um novo tipo de fertilizante químico", "Um organismo que teve seu material genético alterado por técnicas de engenharia genética", "Uma técnica de irrigação de baixo custo", "Um sistema de produção orgânica certificada"],
     "answer": 1
   },
   {
-    "question": "O uso de **inimigos naturais** (predadores e parasitoides) para controle de pragas é conhecido como:",
+    "question": "O uso de inimigos naturais (predadores e parasitoides) para controle de pragas é conhecido como:",
     "options": ["Manejo Químico", "Controle Biológico", "Monocultura", "Rotação de Culturas"],
     "answer": 1
   },
-  {
-    "question": "Qual região brasileira concentra a maior parte da produção de **Café Arábica**?",
-    "options": ["Região Norte", "Região Nordeste", "Região Sul", "Região Sudeste (Minas Gerais e São Paulo)"],
-    "answer": 3
-  },
-  {
-    "question": "O que a técnica de **Fertirrigação** permite na agricultura?",
+   {
+    "question": "O que a técnica de Fertirrigação permite na agricultura?",
     "options": ["Apenas o uso de água da chuva", "A aplicação simultânea de água e fertilizantes por meio do sistema de irrigação", "A eliminação total de adubos químicos", "O cultivo sem a necessidade de água"],
     "answer": 1
   },
   {
-    "question": "Qual é a principal matéria-prima para a produção de **Etanol** de primeira geração no Brasil?",
+    "question": "Qual é a principal matéria-prima para a produção de Etanol de primeira geração no Brasil?",
     "options": ["Soja", "Mandioca", "Cana-de-açúcar", "Milho"],
     "answer": 2
   },
   {
-    "question": "O **Fósforo (P)** é um nutriente crucial para qual parte do desenvolvimento da planta?",
+    "question": "O Fósforo (P) é um nutriente crucial para qual parte do desenvolvimento da planta?",
     "options": ["Desenvolvimento de caules e folhas", "Fortalecimento da parede celular", "Florescimento, frutificação e desenvolvimento de raízes", "Regulamentação do balanço hídrico"],
     "answer": 2
   },
   {
-    "question": "A **Agricultura de Precisão** utiliza, entre outros, qual tipo de mapeamento para aplicação localizada de insumos?",
+    "question": "A Agricultura de Precisão utiliza, entre outros, qual tipo de mapeamento para aplicação localizada de insumos?",
     "options": ["Mapeamento manual do terreno", "Mapeamento da variabilidade espacial do solo e da produtividade (GPS)", "Mapeamento da pressão atmosférica", "Mapeamento das áreas de reserva legal"],
     "answer": 1
   },
   {
-    "question": "O que o termo **Perene** significa em relação ao ciclo de vida de uma planta cultivada?",
+    "question": "O que o termo Perene significa em relação ao ciclo de vida de uma planta cultivada?",
     "options": ["Ciclo de vida de um ano", "Ciclo de vida de seis meses", "Ciclo de vida que se estende por vários anos", "Ciclo de vida de apenas algumas semanas"],
     "answer": 2
   },
   {
-    "question": "Qual cultura é historicamente e economicamente importante para o estado da **Bahia**?",
+    "question": "Qual cultura é historicamente e economicamente importante para o estado da Bahia?",
     "options": ["Trigo", "Soja", "Cacau", "Arroz"],
     "answer": 2
   },
   {
-    "question": "O que a prática de **Silagem** visa preservar na alimentação animal?",
+    "question": "O que a prática de Silagem visa preservar na alimentação animal?",
     "options": ["Apenas a fibra bruta dos grãos", "Apenas as raízes e tubérculos", "Os nutrientes da forragem por meio da fermentação (armazenamento verde)", "A parte seca dos cereais (palha)"],
     "answer": 2
   },
   {
-    "question": "A ausência de **Abelhas** e outros polinizadores na lavoura resulta em:",
+    "question": "A ausência de Abelhas e outros polinizadores na lavoura resulta em:",
     "options": ["Aumento da produtividade em culturas autógamas", "Melhora da qualidade de grãos", "Diminuição ou perda da produção em culturas dependentes de polinização", "Redução da necessidade de água"],
     "answer": 2
   },
   {
-    "question": "Qual é a principal oleaginosa utilizada na produção de **Biodiesel** no Brasil?",
+    "question": "Qual é a principal oleaginosa utilizada na produção de Biodiesel no Brasil?",
     "options": ["Mamona", "Girassol", "Soja", "Algodão"],
     "answer": 2
   },
   {
-    "question": "O que o **Manejo Integrado de Pragas (MIP)** prioriza em relação ao controle químico?",
+    "question": "O que o Manejo Integrado de Pragas (MIP) prioriza em relação ao controle químico?",
     "options": ["O uso preventivo e contínuo de agrotóxicos em altas doses", "O controle imediato com a tática mais barata", "A utilização racional do controle químico, apenas quando o nível de dano econômico for atingido", "O abandono total do controle químico em qualquer situação"],
     "answer": 2
   },
   {
-    "question": "A rizicultura no **Rio Grande do Sul** utiliza amplamente qual sistema de cultivo?",
+    "question": "A rizicultura no Rio Grande do Sul utiliza amplamente qual sistema de cultivo?",
     "options": ["Sequeiro em áreas de Cerrado", "Sistema por Inundação e Drenagem", "Cultivo em estufas", "Plantio em curvas de nível"],
     "answer": 1
   },
   {
-    "question": "Qual é a principal fonte de **cálcio e magnésio** para corrigir deficiências no solo?",
+    "question": "Qual é a principal fonte de cálcio e magnésio para corrigir deficiências no solo?",
     "options": ["Ureia", "Calcário", "Cloreto de Potássio", "Fosfato"],
     "answer": 1
   },
   {
-    "question": "O que o termo **ILPF** (Integração Lavoura-Pecuária-Floresta) busca na agricultura?",
+    "question": "O que o termo ILPF (Integração Lavoura-Pecuária-Floresta) busca na agricultura?",
     "options": ["Diminuir a área produtiva da fazenda", "Promover a monocultura e o alto risco", "Aumentar a produtividade por área e a sustentabilidade do sistema", "Aumentar a exaustão dos recursos hídricos"],
     "answer": 2
   },
   {
-    "question": "O principal desafio da **sucessão familiar** no Brasil está ligado ao:",
+    "question": "O principal desafio da sucessão familiar no Brasil está ligado ao:",
     "options": ["Excesso de maquinário na propriedade", "Baixo custo de produção", "O êxodo rural e o desinteresse dos jovens em permanecer no campo", "A facilidade de acesso ao crédito rural"],
     "answer": 2
   },
   {
-    "question": "A cultura do **milho** no Brasil é considerada uma cultura de:",
+    "question": "A cultura do milho no Brasil é considerada uma cultura de:",
     "options": ["Ciclo perene (vários anos)", "Ciclo anual (safrinha e safra principal)", "Ciclo indefinido", "Ciclo bienal"],
     "answer": 1
   },
   {
-    "question": "Qual é a principal leguminosa produzida em larga escala no Brasil para **exportação**?",
+    "question": "Qual é a principal leguminosa produzida em larga escala no Brasil para exportação?",
     "options": ["Feijão", "Grão-de-bico", "Soja", "Lentilha"],
     "answer": 2
   },
   {
-    "question": "A **qualidade sanitária** da semente é fundamental, pois está ligada à:",
+    "question": "A qualidade sanitária da semente é fundamental, pois está ligada à:",
     "options": ["Cor do tegumento", "Presença de patógenos (fungos, bactérias, vírus)", "Pureza física (ausência de pedras)", "Resistência a danos mecânicos"],
     "answer": 1
   },
   {
-    "question": "O que a **Erosão Hídrica** causa no solo agrícola?",
+    "question": "O que a Erosão Hídrica causa no solo agrícola?",
     "options": ["Aumento da matéria orgânica", "A perda da camada superficial fértil do solo", "Melhora da estrutura do solo", "Aumento da infiltração de água"],
     "answer": 1
   },
   {
-    "question": "O **Boro (B)** é um micronutriente essencial para qual processo da planta?",
+    "question": "O Boro (B) é um micronutriente essencial para qual processo da planta?",
     "options": ["Apenas a coloração das folhas", "O desenvolvimento de caules", "O desenvolvimento do tubo polínico e a formação de frutos", "A absorção de água"],
     "answer": 2
   },
   {
-    "question": "O que a técnica de **Consórcio** de culturas significa?",
+    "question": "O que a técnica de Consórcio de culturas significa?",
     "options": ["Cultivar apenas uma espécie por safra", "Plantar duas ou mais espécies na mesma área e ao mesmo tempo", "Uso de apenas sementes transgênicas", "Produzir em rotação a cada 10 anos"],
     "answer": 1
   },
@@ -206,17 +201,12 @@
     "answer": 2
   },
   {
-    "question": "O que a sigla **MAPA** representa no contexto da regulamentação agrícola brasileira?",
-    "options": ["Movimento de Agricultura de Pequenos Agricultores", "Ministério da Agricultura, Pecuária e Abastecimento", "Manejo Ambiental de Pragas Agrícolas", "Monitoramento de Agrotóxicos e Patógenos"],
-    "answer": 1
-  },
-  {
     "question": "Qual é a principal técnica de irrigação que reduz a perda de água por evaporação e vento?",
     "options": ["Aspersão de pivô central", "Gotejamento e Microaspersão", "Inundação", "Irrigação por sulcos abertos"],
     "answer": 1
   },
   {
-    "question": "A correção da **acidez** do solo é fundamental para aumentar a disponibilidade de qual nutriente?",
+    "question": "A correção da acidez do solo é fundamental para aumentar a disponibilidade de qual nutriente?",
     "options": ["Alumínio (Al)", "Cálcio (Ca)", "Fósforo (P)", "Ferro (Fe)"],
     "answer": 2
   },
@@ -226,7 +216,7 @@
     "answer": 2
   },
   {
-    "question": "O principal estado produtor de **Uva** (tanto de mesa quanto para vinho) no Brasil é:",
+    "question": "O principal estado produtor de Uva (tanto de mesa quanto para vinho) no Brasil é:",
     "options": ["Minas Gerais", "Bahia", "Rio Grande do Sul", "Ceará"],
     "answer": 2
   },
@@ -236,97 +226,82 @@
     "answer": 1
   },
   {
-    "question": "A cultura da **laranja** no Brasil é tradicionalmente associada à produção de:",
+    "question": "A cultura da laranja no Brasil é tradicionalmente associada à produção de:",
     "options": ["Apenas frutas frescas para feiras", "Óleo comestível", "Suco concentrado e exportação", "Ração animal"],
     "answer": 2
   },
   {
-    "question": "Qual é a principal prática para o controle da **erosão hídrica** em áreas declivosas?",
+    "question": "Qual é a principal prática para o controle da erosão hídrica em áreas declivosas?",
     "options": ["Monocultura de alto rendimento", "Cultivo em curvas de nível e terraceamento", "Aração e gradagem intensiva", "Queimadas anuais"],
     "answer": 1
   },
   {
-    "question": "O que a **Fixação Biológica de Nitrogênio (FBN)** faz no solo?",
+    "question": "O que a Fixação Biológica de Nitrogênio (FBN) faz no solo?",
     "options": ["Transforma a água em oxigênio", "Transforma o nitrogênio atmosférico (N2) em formas assimiláveis pela planta", "Reduz a acidez do solo", "Elimina pragas e doenças"],
     "answer": 1
   },
   {
-    "question": "O principal benefício do uso de **GPS e VANTs** (drones) na agricultura é:",
-    "options": ["Apenas a diminuição do custo do combustível", "O aumento da precisão e a aplicação de insumos em taxa variável", "A eliminação da necessidade de colheita mecanizada", "A total dependência de mão de obra manual"],
-    "answer": 1
-  },
-  {
-    "question": "O que caracteriza a **Agricultura Sustentável**?",
+    "question": "O que caracteriza a Agricultura Sustentável?",
     "options": ["Uso intensivo e desregrado dos recursos naturais", "Busca pela viabilidade econômica, social e ambiental", "Foco exclusivo na exportação de *commodities*", "Produção em áreas de alto risco climático"],
     "answer": 1
   },
   {
-    "question": "Qual é o principal cereal cultivado na região **Centro-Oeste** (além da soja)?",
+    "question": "Qual é o principal cereal cultivado na região Centro-Oeste (além da soja)?",
     "options": ["Arroz irrigado", "Café Arábica", "Milho", "Cevada"],
     "answer": 2
   },
   {
-    "question": "O que a técnica de **Microaspersão** garante em culturas de frutas?",
+    "question": "O que a técnica de Microaspersão garante em culturas de frutas?",
     "options": ["Apenas o resfriamento das folhas", "Alta uniformidade na distribuição de água com baixo consumo e precisão", "A inundação da área de plantio", "A criação de uma lâmina d'água permanente"],
     "answer": 1
   },
   {
-    "question": "O que a **lixiviação** de nutrientes na agricultura representa?",
+    "question": "O que a lixiviação de nutrientes na agricultura representa?",
     "options": ["A absorção eficiente dos nutrientes pelas raízes", "A perda de nutrientes solúveis para as camadas mais profundas do solo ou para os lençóis freáticos", "A acumulação de sais na superfície do solo", "A correção da acidez do solo"],
     "answer": 1
   },
   {
-    "question": "O cultivo protegido (em **estufas**) é mais comum para qual grupo de culturas?",
+    "question": "O cultivo protegido (em estufas) é mais comum para qual grupo de culturas?",
     "options": ["Grandes lavouras de soja e milho", "Cana-de-açúcar", "Hortaliças, flores e frutas de alto valor", "Arroz de sequeiro"],
     "answer": 2
   },
   {
-    "question": "O principal uso dos **resíduos da cana-de-açúcar** (bagaço) é:",
+    "question": "O principal uso dos resíduos da cana-de-açúcar (bagaço) é:",
     "options": ["Apenas descarte em aterros", "Compostagem e produção de energia (bioeletricidade)", "Uso exclusivo como ração animal", "Uso como fertilizante químico"],
     "answer": 1
   },
   {
-    "question": "O que é um **Híbrido** na agricultura?",
+    "question": "O que é um Híbrido na agricultura?",
     "options": ["Uma variedade de planta conservada por agricultores familiares", "Um organismo que não sofreu melhoramento genético", "Uma planta resultante do cruzamento controlado entre duas linhagens puras, visando maior vigor", "Uma planta que se reproduz de forma assexuada"],
     "answer": 2
   },
   {
-    "question": "Qual prática de manejo do solo pode causar o fenômeno de **Compactação**?",
+    "question": "Qual prática de manejo do solo pode causar o fenômeno de Compactação?",
     "options": ["Plantio direto", "Uso de plantas de cobertura", "Tráfego intenso de máquinas pesadas em solo úmido", "Incorporação de matéria orgânica"],
     "answer": 2
   },
   {
-    "question": "A cultura do **algodão** no Centro-Oeste brasileiro utiliza largamente qual tipo de irrigação?",
+    "question": "A cultura do algodão no Centro-Oeste brasileiro utiliza largamente qual tipo de irrigação?",
     "options": ["Inundação", "Gotejamento", "Irrigação de sequeiro (depende da chuva)", "Microaspersão"],
     "answer": 2
   },
   {
-    "question": "Qual é a principal função do **Potássio (K)** nas plantas?",
+    "question": "Qual é a principal função do Potássio (K) nas plantas?",
     "options": ["Constituinte da clorofila", "Ativação enzimática, regulação do balanço hídrico e qualidade de frutos", "Desenvolvimento de folhas verdes", "Fixação de nitrogênio"],
     "answer": 1
   },
-  {
-    "question": "O que a **Agroecologia** busca promover no sistema produtivo?",
-    "options": ["O uso intensivo de insumos externos", "A monocultura e a dependência de agrotóxicos", "A diversidade de espécies, a resiliência e a sustentabilidade", "A eliminação de qualquer interação entre plantas e animais"],
-    "answer": 2
-  },
-  {
-    "question": "O que a **Pecuária Extensiva** se caracteriza por utilizar?",
-    "options": ["Alta tecnologia e confinamento", "Mínimo uso de terra e alta produtividade", "Grandes áreas de pastagem com baixa lotação de animais", "Sistemas integrados Lavoura-Pecuária-Floresta"],
-    "answer": 2
-  },
-  {
-    "question": "Qual é o principal desafio enfrentado pela **Fruticultura Tropical** brasileira na exportação?",
+   {
+    "question": "Qual é o principal desafio enfrentado pela Fruticultura Tropical brasileira na exportação?",
     "options": ["A falta de demanda internacional", "A inadequação de variedades para o mercado externo (tamanho, cor) e a logística", "A ausência de áreas irrigadas no Nordeste", "A alta incidência de neve e geadas"],
     "answer": 1
   },
   {
-    "question": "O que significa o termo **Sequeiro** para o plantio de culturas como o arroz?",
+    "question": "O que significa o termo Sequeiro para o plantio de culturas como o arroz?",
     "options": ["Cultivo em sistema hidropônico", "Cultivo que depende exclusivamente da precipitação pluviométrica (chuva)", "Cultivo em área com alta altitude", "Cultivo com irrigação por gotejamento"],
     "answer": 1
   },
   {
-    "question": "O **Manejo da Irrigação** é importante para:",
+    "question": "O Manejo da Irrigação é importante para:",
     "options": ["Aumentar o desperdício de água", "Garantir a aplicação da lâmina d'água necessária, no momento correto e com eficiência", "Apenas diminuir o custo de energia", "Aumentar a salinidade do solo"],
     "answer": 1
   },
@@ -336,132 +311,132 @@
     "answer": 2
   },
   {
-    "question": "A **Emissão de Gases de Efeito Estufa (GEE)** na agricultura está mais associada a qual prática?",
+    "question": "A Emissão de Gases de Efeito Estufa (GEE) na agricultura está mais associada a qual prática?",
     "options": ["Fixação Biológica de Nitrogênio", "Uso de plantas de cobertura", "Uso inadequado de fertilizantes nitrogenados e manejo do solo (aragem)", "Plantio direto"],
     "answer": 2
   },
   {
-    "question": "O que a **Integração Lavoura-Pecuária (ILP)** promove no solo?",
+    "question": "O que a Integração Lavoura-Pecuária (ILP) promove no solo?",
     "options": ["A compactação do solo e a perda de matéria orgânica", "A degradação do pasto", "A ciclagem de nutrientes, a melhoria da qualidade do solo e a diversificação da produção", "O aumento da erosão hídrica"],
     "answer": 2
   },
   {
-    "question": "A cultura do **feijão** é a principal fonte de qual nutriente essencial na alimentação brasileira?",
+    "question": "A cultura do feijão é a principal fonte de qual nutriente essencial na alimentação brasileira?",
     "options": ["Carboidratos", "Lipídios (Gorduras)", "Proteínas", "Vitaminas"],
     "answer": 2
   },
   {
-    "question": "Qual é a principal função do **Melhoramento Genético** da **Mandioca** pela EMBRAPA?",
+    "question": "Qual é a principal função do Melhoramento Genético da Mandioca pela EMBRAPA?",
     "options": ["Aumentar a toxicidade da raiz", "Apenas criar plantas mais altas", "Desenvolver cultivares mais produtivas, resistentes a doenças e com maior teor de amido", "Diminuir a área de plantio"],
     "answer": 2
   },
   {
-    "question": "O que a **Agricultura Regenerativa** foca em restaurar?",
+    "question": "O que a Agricultura Regenerativa foca em restaurar?",
     "options": ["A saúde do solo, a biodiversidade e o ciclo da água", "O uso de insumos químicos sintéticos",  "A monocultura de alto risco", "A eliminação de qualquer cobertura vegetal"],
     "answer": 0
   },
   {
-    "question": "O que a **Certificação Orgânica** garante ao consumidor?",
+    "question": "O que a Certificação Orgânica garante ao consumidor?",
     "options": ["Que o produto é transgênico", "Que o produto tem o maior preço de mercado", "Que o produto foi cultivado seguindo normas que proíbem agrotóxicos e adubos químicos solúveis", "Que o produto é importado"],
     "answer": 2
   },
   {
-    "question": "Qual equipamento agrícola é essencial para a colheita do **algodão** de forma mecanizada e eficiente?",
+    "question": "Qual equipamento agrícola é essencial para a colheita do algodão de forma mecanizada e eficiente?",
     "options": ["Arado de disco", "Colheitadeira de algodão (colhedora)", "Semeadora manual", "Pulverizador costal"],
     "answer": 1
   },
   {
-    "question": "A prática de **Compostagem** transforma resíduos orgânicos em:",
+    "question": "A prática de Compostagem transforma resíduos orgânicos em:",
     "options": ["Material de construção", "Fertilizantes orgânicos e condicionadores de solo", "Agrotóxicos biológicos", "Plástico biodegradável"],
     "answer": 1
   },
   {
-    "question": "O que o **Intervalo de Segurança (Carência)** do agrotóxico define?",
+    "question": "O que o Intervalo de Segurança (Carência) do agrotóxico define?",
     "options": ["O tempo de vida útil do produto", "O tempo entre a última aplicação e a colheita/consumo do alimento", "A dose máxima a ser aplicada", "O número de vezes que a máquina pode ser usada"],
     "answer": 1
   },
   {
-    "question": "O principal desafio da produção de **frutas de clima temperado** no Brasil (como maçã e pêssego) concentra-se na região:",
+    "question": "O principal desafio da produção de frutas de clima temperado no Brasil (como maçã e pêssego) concentra-se na região:",
     "options": ["Nordeste Semiárido", "Centro-Oeste (Cerrado)", "Sul e Sudeste de altitude", "Norte (Amazônia)"],
     "answer": 2
   },
   {
-    "question": "O que a **biotecnologia** contribuiu para a soja no Brasil?",
+    "question": "O que a biotecnologia contribuiu para a soja no Brasil?",
     "options": ["Apenas a diminuição da produtividade", "O desenvolvimento de cultivares resistentes a herbicidas e insetos", "Aumento da necessidade de água", "A eliminação do uso de máquinas"],
     "answer": 1
   },
   {
-    "question": "O que a **Rotação de Culturas** auxilia a recuperar?",
+    "question": "O que a Rotação de Culturas auxilia a recuperar?",
     "options": ["Apenas a salinidade do solo", "O esgotamento de nutrientes e a estrutura do solo", "A ausência de doenças", "A dependência de agrotóxicos"],
     "answer": 1
   },
   {
-    "question": "A principal leguminosa cultivada em **consórcio** com o milho no Nordeste é:",
+    "question": "A principal leguminosa cultivada em consórcio com o milho no Nordeste é:",
     "options": ["Soja", "Feijão-caupi (feijão-de-corda)", "Lentilha", "Ervilha"],
     "answer": 1
   },
   {
-    "question": "O que o **GPS** (Sistema de Posicionamento Global) permite na Agricultura de Precisão?",
+    "question": "O que o GPS (Sistema de Posicionamento Global) permite na Agricultura de Precisão?",
     "options": ["Apenas a previsão do tempo", "O mapeamento de campo, a navegação de máquinas e a aplicação localizada de insumos", "A eliminação de qualquer praga", "A colheita manual"],
     "answer": 1
   },
   {
-    "question": "A maior parte da **água doce** consumida no Brasil é utilizada por qual setor?",
+    "question": "A maior parte da água doce consumida no Brasil é utilizada por qual setor?",
     "options": ["Industrial", "Urbano (consumo humano)", "Agrícola (principalmente irrigação)", "Setor de serviços"],
     "answer": 2
   },
   {
-    "question": "O que a **Agricultura Itinerante** pode causar se praticada de forma não sustentável?",
+    "question": "O que a Agricultura Itinerante pode causar se praticada de forma não sustentável?",
     "options": ["O aumento da matéria orgânica do solo", "O aumento da fertilidade permanente", "O desmatamento e a degradação de áreas", "A alta produtividade por muitos anos"],
     "answer": 2
   },
   {
-    "question": "Qual é o principal destino da produção de **soja** brasileira?",
+    "question": "Qual é o principal destino da produção de soja brasileira?",
     "options": ["Consumo interno como grão *in natura*", "Exportação (grão, farelo e óleo)", "Produção de bebidas artesanais", "Ração para animais de estimação"],
     "answer": 1
   },
   {
-    "question": "O que a **Calibração de Pulverizadores** garante na aplicação de defensivos?",
+    "question": "O que a Calibração de Pulverizadores garante na aplicação de defensivos?",
     "options": ["O aumento da deriva", "A uniformidade da aplicação e a dosagem correta do produto", "A compactação do solo", "A eliminação da necessidade de EPI"],
     "answer": 1
   },
   {
-    "question": "O estado do **Espírito Santo** é um dos maiores produtores de qual tipo de café, mais resistente e com maior teor de cafeína?",
+    "question": "O estado do Espírito Santo é um dos maiores produtores de qual tipo de café, mais resistente e com maior teor de cafeína?",
     "options": ["Café Arábica", "Café Bourbon", "Café Robusta (Conilon)", "Café Acaiá"],
     "answer": 2
   },
   {
-    "question": "O que a **Policultura** promove em termos de segurança alimentar?",
+    "question": "O que a Policultura promove em termos de segurança alimentar?",
     "options": ["A dependência de um único produto", "A diversidade e a resiliência do sistema alimentar", "O uso de agrotóxicos em excesso", "A produção exclusiva para exportação"],
     "answer": 1
   },
   {
-    "question": "Qual é a principal fibra utilizada na produção de **sacarias** e estofados no Norte do Brasil?",
+    "question": "Qual é a principal fibra utilizada na produção de sacarias e estofados no Norte do Brasil?",
     "options": ["Algodão", "Seda", "Juta", "Linho"],
     "answer": 2
   },
   {
-    "question": "A prática de **Adubação Verde** com leguminosas é importante para a fixação de qual nutriente?",
+    "question": "A prática de Adubação Verde com leguminosas é importante para a fixação de qual nutriente?",
     "options": ["Fósforo (P)", "Potássio (K)", "Nitrogênio (N)", "Cálcio (Ca)"],
     "answer": 2
   },
   {
-    "question": "O que o conceito de **Balanço Hídrico** avalia na agricultura?",
+    "question": "O que o conceito de Balanço Hídrico avalia na agricultura?",
     "options": ["Apenas a umidade do ar", "A diferença entre o volume de água que entra (chuva/irrigação) e o que sai (evapotranspiração/escoamento) do solo", "O teor de matéria orgânica", "O nível de compactação"],
     "answer": 1
   },
   {
-    "question": "Qual é o principal componente do **Biodiesel** produzido a partir da soja?",
+    "question": "Qual é o principal componente do Biodiesel produzido a partir da soja?",
     "options": ["Celulose", "Amido", "Óleo (lipídios)", "Proteínas"],
     "answer": 2
   },
   {
-    "question": "O que a **Rotação de Culturas** ajuda a prevenir em solos agrícolas?",
+    "question": "O que a Rotação de Culturas ajuda a prevenir em solos agrícolas?",
     "options": ["Aumento da matéria orgânica", "A exaustão de nutrientes específicos e a seleção de pragas especializadas", "A infiltração de água", "A atividade microbiana do solo"],
     "answer": 1
   },
   {
-    "question": "A cultura do **melão** no Nordeste brasileiro é altamente dependente de:",
+    "question": "A cultura do melão no Nordeste brasileiro é altamente dependente de:",
     "options": ["Agricultura de sequeiro (chuva)", "Irrigação por gotejamento ou microaspersão", "Solos com alta salinidade", "Altas altitudes e baixas temperaturas"],
     "answer": 1
   },

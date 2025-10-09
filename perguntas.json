@@ -1,7 +1,6 @@
 {
     "Agricultura": [
-     [
-  {
+ {
     "question": "Qual é a principal função da **Matéria Orgânica** no solo agrícola?",
     "options": ["Aumentar a compactação", "Diminuir a retenção de água", "Melhorar a estrutura, a fertilidade e a capacidade de retenção hídrica", "Aumentar a acidez do solo"],
     "answer": 2

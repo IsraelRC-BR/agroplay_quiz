@@ -950,7 +950,256 @@
 ],
 
   "História": [
-  
+   {
+    "question": "O Tratado de Tordesilhas, assinado em 1494 entre Portugal e Espanha, tinha como objetivo principal:",
+    "options": ["Definir as fronteiras entre as colônias portuguesas e holandesas na América.", "Dividir as terras descobertas e a descobrir no Novo Mundo por meio de um meridiano imaginário.", "Oficializar a escravidão indígena e africana nas colônias portuguesas.", "Estabelecer o Pacto Colonial e o exclusivo metropolitano."],
+    "answer": 1
+  },
+  {
+    "question": "Qual foi a primeira forma de exploração econômica do Brasil pelos portugueses, focada na extração de uma madeira tintorial?",
+    "options": ["O Ciclo da Borracha", "A mineração de ouro e diamantes", "O estanco e a extração do pau-brasil", "A cultura do café"],
+    "answer": 2
+  },
+  {
+    "question": "A Guerra dos Mascates (1710-1711) foi um conflito entre os proprietários de terra de Olinda e os comerciantes de qual cidade?",
+    "options": ["São Paulo", "Recife", "Salvador", "Rio de Janeiro"],
+    "answer": 1
+  },
+  {
+    "question": "Os Bandeirantes foram essenciais na expansão territorial. Qual era o principal objetivo de suas expedições, que contribuíram para a expansão territorial brasileira?",
+    "options": ["O estudo da fauna e flora do interior do Brasil.", "A busca por metais preciosos e a captura de indígenas para escravização.", "A fundação de cidades e vilas no litoral nordestino.", "O desenvolvimento da agricultura de exportação no Nordeste."],
+    "answer": 1
+  },
+  {
+    "question": "Qual revolta que ocorreu na região do Grão-Pará e Maranhão durante o Período Regencial (1831-1840), envolvendo a população mais pobre?",
+    "options": ["Revolta dos Malês", "Guerra dos Farrapos", "Cabanagem", "Sabinada"],
+    "answer": 2
+  },
+  {
+    "question": "O principal objetivo do Ato Adicional de 1834 durante o Período Regencial era:",
+    "options": ["Centralizar o poder na figura do Regente Único, eliminando as Assembleias Provinciais.", "Promover maior autonomia às províncias, criando as Assembleias Legislativas Provinciais.", "Restabelecer o Poder Moderador, extinto em 1831.", "Declarar a maioridade de D. Pedro II imediatamente."],
+    "answer": 1
+  },
+  {
+    "question": "A Lei de Terras de 1850 teve um impacto significativo ao estabelecer que a terra só poderia ser adquirida por meio de:",
+    "options": ["Herança ou doação do Imperador.", "Compra, tornando a terra uma mercadoria e dificultando o acesso aos libertos e imigrantes pobres.", "Ocupação e uso (Posse simples), facilitando o acesso de ex-escravos.", "Arrendamento de lotes governamentais por longos períodos."],
+    "answer": 1
+  },
+  {
+    "question": "Qual é o nome dado ao movimento migratório em massa que levou milhares de nordestinos para a Amazônia, impulsionado pela demanda internacional por látex?",
+    "options": ["Ciclo do Café", "Expansão da Cana-de-Açúcar", "A Corrida do Ouro", "Ciclo da Borracha"],
+    "answer": 3
+  },
+  {
+    "question": "A Política do Café com Leite na Primeira República (1889-1930) caracterizou-se pelo domínio político alternado entre presidentes oriundos de quais estados?",
+    "options": ["Rio Grande do Sul e Minas Gerais", "Bahia e Pernambuco", "São Paulo e Minas Gerais", "Rio de Janeiro e São Paulo"],
+    "answer": 2
+  },
+  {
+    "question": "O movimento conhecido como Tenentismo, que contestou a República Velha, era formado principalmente por:",
+    "options": ["Fazendeiros do Nordeste descontentes com a política do café.", "Jovens oficiais do Exército (tenentes e capitães) que defendiam o voto secreto e o fim do 'Coronelismo'.", "Operários e anarquistas de São Paulo que buscavam direitos trabalhistas.", "Religiosos que apoiavam o líder de Canudos, Antônio Conselheiro."],
+    "answer": 1
+  },
+  {
+    "question": "O Coronelismo, na Primeira República, baseava-se na troca de votos e favores. O voto, neste período, era:",
+    "options": ["Secreto, universal e obrigatório para todos, inclusive mulheres.", "Universal e totalmente informatizado, evitando fraudes.", "Aberto (não secreto) e restrito a homens alfabetizados, facilitando o 'voto de cabresto' e a fraude.", "Restrito, mas secreto, garantindo a autonomia do eleitor."],
+    "answer": 2
+  },
+  {
+    "question": "A Revolução Constitucionalista de 1932 foi um conflito armado em São Paulo contra Getúlio Vargas, que tinha como principal reivindicação:",
+    "options": ["O retorno da Monarquia ao Brasil.", "A imediata promulgação de uma nova Constituição e a volta à ordem legal democrática.", "A nacionalização de todas as empresas estrangeiras.", "A reincorporação do estado do Acre ao Brasil."],
+    "answer": 1
+  },
+  {
+    "question": "Qual foi a principal medida econômica adotada por Getúlio Vargas para enfrentar a crise do café (e a Crise de 1929) no início de seu governo?",
+    "options": ["A proibição total da exportação do produto.", "O empréstimo de dinheiro a cafeicultores para que mantivessem seus estoques.", "A queima e a compra de excedentes de café pelo governo para sustentar os preços no mercado internacional.", "A substituição total do café pela produção de algodão."],
+    "answer": 2
+  },
+  {
+    "question": "A Força Expedicionária Brasileira (FEB) participou ativamente de qual conflito mundial, lutando ao lado dos Aliados na Europa?",
+    "options": ["Primeira Guerra Mundial (1914-1918)", "Guerra do Vietnã (1955-1975)", "Guerra da Coreia (1950-1953)", "Segunda Guerra Mundial (1939-1945)"],
+    "answer": 3
+  },
+  {
+    "question": "O Plano de Metas do governo Juscelino Kubitschek (JK) focou no desenvolvimento e na modernização do país, priorizando quais setores?",
+    "options": ["Saúde, Educação e Saneamento Básico.", "Energia, Transportes, Indústria de Base, Educação e Alimentação (e Brasília como 'meta-síntese').", "Reforma Agrária e a estatização total da economia.", "Apenas a construção de novas capitais estaduais."],
+    "answer": 1
+  },
+  {
+    "question": "Qual presidente brasileiro foi deposto por um golpe militar em 1964, sendo acusado de adotar reformas de base consideradas 'socialistas'?",
+    "options": ["Juscelino Kubitschek", "Jânio Quadros", "Eurico Gaspar Dutra", "João Goulart (Jango)"],
+    "answer": 3
+  },
+  {
+    "question": "Qual foi a principal característica da política econômica do período da Ditadura Militar conhecida como 'Milagre Econômico' (1969-1973)?",
+    "options": ["A redução da dívida externa e o controle rigoroso da inflação.", "O crescimento acelerado do PIB, o alto endividamento externo e a concentração de renda.", "O desenvolvimento da agricultura familiar e a reforma agrária.", "A volta do controle político para os oligarcas do Café com Leite."],
+    "answer": 1
+  },
+  {
+    "question": "O Ato Institucional Nº 5 (AI-5), de 1968, foi o instrumento mais repressivo da Ditadura Militar e permitiu ao presidente:",
+    "options": ["Criar a Petrobras e a Eletrobras.", "Convocar eleições gerais diretas para presidente imediatamente.", "Fechar o Congresso Nacional, cassar mandatos políticos e suspender o habeas corpus para crimes políticos.", "Criar a Força Expedicionária Brasileira (FEB) para lutar na Segunda Guerra Mundial."],
+    "answer": 2
+  },
+  {
+    "question": "Qual foi o principal mecanismo utilizado pelo governo Fernando Collor de Mello (1990-1992) no Plano Collor para tentar conter a hiperinflação?",
+    "options": ["O congelamento de todos os preços e salários por cinco anos.", "Aumento maciço de impostos para financiar o déficit público.", "O confisco de depósitos bancários e a substituição da moeda (Cruzado Novo para Cruzeiro).", "A privatização imediata de todas as empresas estatais."],
+    "answer": 2
+  },
+  {
+    "question": "A criação do Plano Real em 1994, durante o governo Itamar Franco, teve como etapa crucial a criação de uma moeda de transição e referência antes da implantação do Real. Qual era o nome dessa unidade de valor?",
+    "options": ["Cruzado Novo", "BTN (Bônus do Tesouro Nacional)", "URV (Unidade Real de Valor)", "Cruzeiro"],
+    "answer": 2
+  },
+  {
+    "question": "No Brasil colonial, o sistema de Capitanias Hereditárias fracassou em grande parte por causa da:",
+    "options": ["Ausência de interesse de Portugal em colonizar o território.", "Grande sucesso e lucratividade de todas as capitanias.", "Escassez de recursos dos donatários, ataques indígenas e a vasta extensão territorial.", "Completa ausência de pau-brasil e cana-de-açúcar na colônia."],
+    "answer": 2
+  },
+  {
+    "question": "A revolta que culminou na morte de seu líder, Zumbi, e no fim do maior foco de resistência à escravidão no período colonial é a do:",
+    "options": ["A Confederação do Equador.", "Revolta dos Malês.", "Quilombo de Palmares.", "Revolta de Vila Rica."],
+    "answer": 2
+  },
+  {
+    "question": "A elevação do Brasil à categoria de Reino Unido a Portugal e Algarves em 1815, sob D. João VI, significou para a colônia:",
+    "options": ["A imediata proclamação da Independência.", "O fim do status de colônia, equiparando-o politicamente a Portugal.", "O retorno da família real portuguesa para Lisboa.", "O fechamento dos portos brasileiros ao comércio internacional."],
+    "answer": 1
+  },
+  {
+    "question": "A Confederação do Equador (1824) foi um movimento de caráter separatista e republicano que ocorreu no Nordeste, tendo como um de seus líderes:",
+    "options": ["Dom Pedro I.", "Frei Caneca.", "Tiradentes.", "Zumbi dos Palmares."],
+    "answer": 1
+  },
+  {
+    "question": "Qual foi a única guerra internacional de grande escala em que o Brasil se envolveu no século XIX, lutando ao lado da Argentina e Uruguai contra um país vizinho?",
+    "options": ["Guerra da Cisplatina", "Guerra dos Mascates", "Guerra do Paraguai", "Guerra da Farroupilha"],
+    "answer": 2
+  },
+  {
+    "question": "A Tarifa Alves Branco de 1844, instituída no Segundo Reinado, teve como principal efeito:",
+    "options": ["Reduzir drasticamente as taxas alfandegárias para produtos ingleses, conforme o Tratado de 1810.", "Obrigar a Inglaterra a assinar a Lei Áurea.", "Aumentar as taxas alfandegárias sobre produtos importados (principalmente os ingleses), gerando receita e estimulando a indústria nacional incipiente.", "Nacionalizar todas as ferrovias do país."],
+    "answer": 2
+  },
+  {
+    "question": "Qual lei aboliu a escravidão dos filhos de mulher escrava nascidos a partir de sua promulgação, marcando o início do fim do sistema escravista?",
+    "options": ["Lei Eusébio de Queirós (1850)", "Lei Áurea (1888)", "Lei do Ventre Livre (1871)", "Lei dos Sexagenários (1885)"],
+    "answer": 2
+  },
+  {
+    "question": "O período inicial da República (1889-1894), quando militares como Deodoro da Fonseca e Floriano Peixoto governaram, é conhecido como:",
+    "options": ["República Oligárquica", "República da Espada", "Primeira República Liberal", "Estado Novo"],
+    "answer": 1
+  },
+  {
+    "question": "Qual foi a principal causa da Revolta da Vacina (1904) no Rio de Janeiro, além do saneamento urbano?",
+    "options": ["A exigência de escolas públicas para todos os jovens cariocas.", "A obrigatoriedade da vacinação contra a varíola e a violência da reforma urbana do Prefeito Pereira Passos.", "O confisco de depósitos bancários e a mudança da moeda.", "A falta de pagamento de salários aos marinheiros da Armada."],
+    "answer": 1
+  },
+  {
+    "question": "A Crise de 1929 afetou o Brasil drasticamente devido à sua alta dependência da exportação de qual produto?",
+    "options": ["Borracha", "Petróleo", "Cana-de-açúcar", "Café"],
+    "answer": 3
+  },
+  {
+    "question": "O Estado Novo (1937-1945), a fase ditatorial do governo Vargas, foi implantado após a divulgação de um falso plano comunista. Qual era o nome deste plano?",
+    "options": ["Plano Cruzado", "Plano de Metas", "Plano Cohen", "Plano Real"],
+    "answer": 2
+  },
+  {
+    "question": "Qual presidente brasileiro foi o responsável pela criação da Petrobras (Petróleo Brasileiro S.A.) em 1953, sob o lema 'O petróleo é nosso'?",
+    "options": ["Juscelino Kubitschek", "João Goulart", "Getúlio Vargas", "Castelo Branco"],
+    "answer": 2
+  },
+  {
+    "question": "O presidente Jânio Quadros (1961) teve um mandato de apenas 7 meses. Qual foi o ato político mais surpreendente e que levou à sua renúncia?",
+    "options": ["O fechamento do Congresso Nacional (AI-5).", "A condecoração do líder revolucionário cubano Che Guevara com a Ordem do Cruzeiro do Sul.", "A nomeação de João Goulart como Primeiro-Ministro.", "A construção imediata de Brasília, ignorando as oposições."],
+    "answer": 1
+  },
+  {
+    "question": "Qual dos seguintes presidentes da Ditadura Militar (1964-1985) é mais associado ao período de maior crescimento econômico (o 'Milagre Econômico') e de mais intensa repressão (o AI-5)?",
+    "options": ["Humberto de Alencar Castelo Branco", "Ernesto Geisel", "Emílio Garrastazu Médici", "João Figueiredo"],
+    "answer": 2
+  },
+  {
+    "question": "A crise do petróleo de 1973 afetou o 'Milagre Econômico' brasileiro. Como o governo militar, então sob Ernesto Geisel, tentou responder a esta crise?",
+    "options": ["Com a total privatização da Petrobras para atrair capital estrangeiro.", "Com o estímulo à produção de álcool combustível (Proálcool) e o investimento maciço em projetos de infraestrutura (II PND).", "Com o confisco de depósitos e o congelamento de preços.", "Com o imediato retorno à democracia e a convocação de eleições diretas."],
+    "answer": 1
+  },
+  {
+    "question": "O que o Pacote de Abril (1977), implementado pelo presidente Geisel, tinha como principal objetivo?",
+    "options": ["Promover a reforma agrária em todo o território nacional.", "Abrir o país totalmente à democracia, com eleições diretas e fim da censura.", "Garantir a maioria para o partido do governo (ARENA) no Congresso e frear a ascensão do MDB (oposição).", "Nacionalizar todas as empresas de comunicação do país."],
+    "answer": 2
+  },
+  {
+    "question": "A Lei da Anistia (1979), assinada pelo presidente João Figueiredo, foi um marco importante da redemocratização brasileira, pois:",
+    "options": ["Permitiu que todos os militares envolvidos na repressão fossem julgados e punidos.", "Perdoou os crimes políticos e permitiu a volta de exilados, mas foi uma 'anistia ampla, geral e irrestrita', incluindo agentes da repressão.", "Declarou o fim imediato da Ditadura Militar no Brasil.", "Instituiu o voto secreto e o fim do 'Coronelismo'."],
+    "answer": 1
+  },
+  {
+    "question": "Qual movimento social da história republicana brasileira foi liderado por seringueiros na Amazônia em defesa da preservação da floresta e da sustentabilidade?",
+    "options": ["Guerra do Contestado", "Movimento dos Sem-Terra (MST)", "Empates (liderados por Chico Mendes)", "Balanço Nacional"],
+    "answer": 2
+  },
+  {
+    "question": "O Tratado de Madri (1750), que substituiu Tordesilhas e redefiniu as fronteiras coloniais, adotou qual princípio jurídico?",
+    "options": ["Uti non possidetis, ita possideatis (O que não possuis, não deves possuir).", "Pacto Colonial.", "Uti possidetis, ita possideatis (Quem possui de fato, deve possuir de direito).", "Mare Clausum (Mar Fechado)."],
+    "answer": 2
+  },
+  {
+    "question": "A Guerra dos Emboabas (1707-1709), em Minas Gerais, foi uma disputa pelo controle das jazidas de ouro recém-descobertas entre:",
+    "options": ["Os colonos de Olinda e os comerciantes de Recife.", "Os jesuítas e os fazendeiros do vale do Paraíba.", "Os paulistas (bandeirantes) e os forasteiros de outras regiões da Colônia e de Portugal (emboabas).", "Os ingleses e os portugueses no litoral nordestino."],
+    "answer": 2
+  },
+  {
+    "question": "Qual foi a principal consequência da Revolução Pernambucana de 1817?",
+    "options": ["O estabelecimento do Pacto Colonial.", "A instalação da Corte Portuguesa no Rio de Janeiro.", "A proclamação de uma República em Pernambuco, sendo a primeira experiência republicana no Brasil.", "A abolição imediata da escravidão em todo o Nordeste."],
+    "answer": 2
+  },
+  {
+    "question": "O Parlamentarismo às Avessas, que caracterizou o Segundo Reinado (D. Pedro II), significava que:",
+    "options": ["O Imperador não tinha nenhum poder político efetivo.", "O presidente do Conselho de Ministros (Primeiro-Ministro) era escolhido pelo voto popular.", "O Imperador, usando o Poder Moderador, nomeava o Primeiro-Ministro que, por sua vez, dissolvia a Câmara e convocava novas eleições para formar sua maioria.", "O Exército tinha o direito de dissolver o Parlamento a qualquer momento."],
+    "answer": 2
+  },
+  {
+    "question": "Qual era a principal fonte de mão de obra nas grandes lavouras de café do Oeste Paulista, após a proibição do tráfico negreiro em 1850?",
+    "options": ["Indígenas do Nordeste", "Escravos libertos e mão de obra nacional.", "Imigrantes europeus (principalmente italianos) sob o regime de parceria e depois de colonato.", "Presidiários condenados a trabalhos forçados."],
+    "answer": 2
+  },
+  {
+    "question": "A primeira Constituição da República (1891) adotou o modelo Federalista. Isso significava que:",
+    "options": ["O poder estava concentrado nas mãos do presidente, que nomeava todos os governadores estaduais.", "Os estados (antigas províncias) ganhavam grande autonomia para criar leis, impostos e contrair empréstimos.", "A Igreja Católica era a única religião oficial do Estado Brasileiro.", "O Brasil voltava a ser uma Monarquia Parlamentar."],
+    "answer": 1
+  },
+  {
+    "question": "A Semana de Arte Moderna de 1922, em São Paulo, é um marco cultural, pois representou:",
+    "options": ["O fim da influência europeia na cultura brasileira.", "A contestação das normas estéticas tradicionais e o desejo de criar uma arte brasileira mais autêntica e moderna.", "A defesa do retorno à Monarquia e ao classicismo literário.", "O apoio irrestrito à Política do Café com Leite e ao Coronelismo."],
+    "answer": 1
+  },
+  {
+    "question": "No segundo governo de Getúlio Vargas (1951-1954), o principal motivo da oposição das elites e dos militares conservadores ao presidente era:",
+    "options": ["O Plano de Metas e a construção de Brasília.", "A participação do Brasil na Segunda Guerra Mundial.", "A política nacionalista e a criação de estatais como a Petrobras, que limitavam a ação do capital estrangeiro.", "O fim da escravidão e a Tarifa Alves Branco."],
+    "answer": 2
+  },
+  {
+    "question": "A Lei de Imprensa (1967), um dos instrumentos de controle da Ditadura Militar, tinha como principal finalidade:",
+    "options": ["Garantir a liberdade total de expressão e a volta do habeas corpus.", "Incentivar a criação de jornais e revistas independentes.", "Regulamentar a censura prévia em publicações, rádio e televisão, impondo limites à crítica e à oposição ao regime.", "Instituir o voto direto e secreto para todos os níveis de governo."],
+    "answer": 2
+  },
+  {
+    "question": "O presidente Fernando Henrique Cardoso (FHC) (1995-2003) teve como uma das suas principais bandeiras de governo a:",
+    "options": ["Nacionalização de grandes empresas estrangeiras e o aumento de barreiras alfandegárias.", "Reforma Agrária radical e imediata, com confisco de terras.", "Intensa campanha de privatizações de empresas estatais (como Vale do Rio Doce e Telebrás) e a quebra do monopólio estatal em alguns setores.", "Criação de Brasília e o Plano de Metas."],
+    "answer": 2
+  },
+  {
+    "question": "O primeiro governo de Luiz Inácio Lula da Silva (2003-2010) ficou marcado por qual tipo de política social, que combinava transferência de renda com condicionalidades?",
+    "options": ["Bolsa Família", "Programa de Estabilidade Econômica (PEE)", "Plano Cruzado", "Auxílio Brasil"],
+    "answer": 0
+  },
+  {
+    "question": "A Constituição Federal de 1988 (Constituição Cidadã) é considerada um marco por ter restabelecido no Brasil:",
+    "options": ["A Monarquia e o Parlamentarismo.", "A ditadura militar e o bipartidarismo (ARENA e MDB).", "A centralização total do poder na União, como no Estado Novo.", "A plena democracia, o pluripartidarismo, e a ampliação de direitos sociais e individuais após o fim da Ditadura Militar."],
+    "answer": 3
+  }
   {
     "question": "Em que ano ocorreu o descobrimento do Brasil?",
     "options": ["1500", "1600", "1822", "1889"],
